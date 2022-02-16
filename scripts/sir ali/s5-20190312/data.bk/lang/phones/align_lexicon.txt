@@ -1,0 +1,540 @@
+!SIL !SIL SIL_S
+<eps> <eps> SIL
+اب اب y_B b_E
+اتار اتار U_B td_I A_I r_E
+اتنی اتنی i_B td_I n_I i_E
+اجناس اجناس y_B dZ_I n_I A_I s_E
+احساس احساس i_B h_I s_I A_I s_E
+اداروں اداروں i_B dd_I A_I r_I o~_E
+ارب ارب y_B r_I y_I b_E
+اربوں اربوں y_B r_I b_I o~_E
+اس اس U_B s_E
+اس اس i_B s_E
+اسمگل اسمگل i_B s_I m_I y_I g_I y_I l_E
+اسٹور اسٹور i_B s_I t'_I o_I r_E
+اسٹیکر اسٹیکر i_B s_I t'_I i_I k_I y_I r_E
+اسکیمیں اسکیمیں i_B s_I k_I i_I m_I e~_E
+اسی اسی y_B s_I s_I i_E
+اسے اسے U_B s_I e_E
+اسے اسے i_B s_I e_E
+اضافه اضافه i_B z_I A_I f_I A_E
+امریکی امریکی y_B m_I r_I i_I k_I i_E
+ان ان U_B n_E
+ان ان i_B n_E
+ان ان y_B n_E
+انتها انتها i_B n_I td_I i_I h_I A_E
+انسانوں انسانوں i_B n_I s_I A_I n_I o~_E
+انقلاب انقلاب i_B n_I q_I i_I l_I A_I b_E
+انهوں انهوں U_B n_I o~_E
+انهوں انهوں U_B nh_I o_E
+انهوں انهوں U_B nh_I o~_E
+انهوں انهوں i_B n_I o~_E
+انهوں انهوں i_B nh_I o_E
+انهوں انهوں i_B nh_I o~_E
+انهیں انهیں U_B n_I e~_E
+انهیں انهیں U_B nh_I e_E
+انهیں انهیں U_B nh_I e~_E
+انهیں انهیں i_B n_I e~_E
+انهیں انهیں i_B nh_I e_E
+انهیں انهیں i_B nh_I e~_E
+انیس انیس U_B n_I n_I i_I s_E
+اهمیت اهمیت y_B h_I m_I i_I j_I y_I td_E
+اور اور O_B r_E
+اور اور o_B r_E
+اورنج اورنج o_B r_I y_I n_I dZ_E
+اٹھا اٹھا U_B t'h_I A_E
+اپنی اپنی y_B p_I n_I i_E
+اپنے اپنے y_B p_I n_I e_E
+اکھاڑ اکھاڑ U_B kh_I A_I r'_E
+اگاءیں اگاءیں U_B g_I A_I i~_E
+اگر اگر y_B g_I y_I r_E
+ایشیاءی ایشیاءی e_B S_I i_I j_I A_I i_E
+ایف ایف Y_B f_E
+ایم ایم Y_B m_E
+ایک ایک e_B k_E
+ایگری ایگری Y_B g_I r_I i_E
+بات بات b_B A_I td_E
+باعث باعث b_B A_I i_I s_E
+بالکل بالکل b_B i_I l_I k_I U_I l_E
+بانوے بانوے b_B A_I n_I v_I e_E
+باوجود باوجود b_B A_I v_I U_I dZ_I u_I dd_E
+بجاءے بجاءے b_B y_I dZ_I A_I e_E
+بجلی بجلی b_B i_I dZ_I l_I i_E
+بجٹ بجٹ b_B y_I dZ_I y_I t'_E
+بحران بحران b_B U_I h_I r_I A_I n_E
+بخشتا بخشتا b_B y_I x_I S_I td_I A_E
+بدترین بدترین b_B y_I dd_I td_I y_I r_I i_I n_E
+برابر برابر b_B y_I r_I A_I b_I y_I r_E
+برانڈڈ برانڈڈ b_B y_I r_I A_I n_I d'_I i_I d'_E
+برد برد b_B U_I r_I dd_E
+بس بس b_B y_I s_E
+بسر بسر b_B i_I s_I y_I r_E
+بلکه بلکه b_B y_I l_I k_I e_E
+بلین بلین b_B i_I l_I i_I j_I y_I n_E
+بنا بنا b_B U_I n_I A_E
+بناءے بناءے b_B y_I n_I A_I e_E
+بناتا بناتا b_B y_I n_I A_I td_I A_E
+بنتے بنتے b_B U_I n_I td_I e_E
+بنگله بنگله b_B y_I N_I l_I A_E
+بنیادی بنیادی b_B U_I n_I j_I A_I dd_I i_E
+بولتا بولتا b_B o_I l_I td_I A_E
+بچ بچ b_B y_I tS_E
+بڑھی بڑھی b_B y_I r'h_I i_E
+بڑی بڑی b_B y_I r'_I i_E
+بڑے بڑے b_B y_I r'_I e_E
+بھارت بھارت bh_B A_I r_I y_I td_E
+بھر بھر bh_B y_I r_E
+بھرنے بھرنے bh_B y_I r_I n_I e_E
+بھٹو بھٹو bh_B U_I t'_I t'_I o_E
+بھی بھی bh_B i_E
+بیج بیج b_B i_I dZ_E
+بیس بیس b_B i_I s_E
+بیشتر بیشتر b_B e_I S_I td_I y_I r_E
+بین بین b_B e_I n_E
+بے بے b_B e_E
+تا تا td_B A_E
+تاءیوان تاءیوان td_B A_I i_I v_I A_I n_E
+تازه تازه td_B A_I z_I A_E
+تاکه تاکه td_B A_I k_I e_E
+تجارت تجارت td_B i_I dZ_I A_I r_I y_I td_E
+تحاشا تحاشا td_B y_I h_I A_I S_I A_E
+تحفظ تحفظ td_B y_I h_I y_I f_I f_I U_I z_E
+تر تر td_B y_I r_E
+ترانوے ترانوے td_B i_I r_I A_I n_I v_I e_E
+تشویش تشویش td_B y_I S_I v_I i_I S_E
+تعداد تعداد td_B y_I y_I dd_I A_I dd_E
+تقسیم تقسیم td_B y_I q_I s_I i_I m_E
+تمام تمام td_B y_I m_I A_I m_E
+تن تن td_B y_I n_E
+تو تو td_B o_E
+تو تو td_B u_E
+توجه توجه td_B y_I v_I y_I dZ_I dZ_I o_E
+تپتی تپتی td_B y_I p_I td_I i_E
+تک تک td_B U_I k_E
+تک تک td_B y_I k_E
+تھا تھا tdh_B A_E
+تھی تھی tdh_B i_E
+تھیں تھیں tdh_B i~_E
+تھے تھے tdh_B e_E
+تیس تیس td_B i_I s_E
+تین تین td_B i_I n_E
+ثانی ثانی s_B A_I n_I i_E
+ثبوت ثبوت s_B U_I b_I u_I td_E
+جاءیں جاءیں dZ_B A_I e~_E
+جاءے جاءے dZ_B A_I e_E
+جاتی جاتی dZ_B A_I td_I i_E
+جانتے جانتے dZ_B A_I n_I td_I e_E
+جانے جانے dZ_B A_I n_I e_E
+جب جب dZ_B y_I b_E
+جبکه جبکه dZ_B y_I b_I k_I e_E
+جس جس dZ_B i_I s_E
+جن جن dZ_B i_I n_E
+جهاں جهاں dZ_B y_I h_I A~_E
+جو جو dZ_B o_E
+جیسا جیسا dZ_B Y_I s_I A_E
+جیسی جیسی dZ_B Y_I s_I i_E
+جیسے جیسے dZ_B Y_I s_I e_E
+حالی حالی h_B A_I l_I i_E
+حتی حتی h_B y_I td_I td_I A_E
+حوالے حوالے h_B y_I v_I A_I l_I e_E
+حکمران حکمران h_B U_I k_I m_I y_I r_I A_I n_E
+حکمرانوں حکمرانوں h_B U_I k_I m_I y_I r_I A_I n_I o~_E
+حکومت حکومت h_B U_I k_I u_I m_I y_I td_E
+حکومت حکومت h_B y_I k_I u_I m_I y_I td_E
+خاصی خاصی x_B A_I s_I i_E
+خاندان خاندان x_B A_I n_I dd_I A_I n_E
+ختم ختم x_B y_I td_I m_E
+خرید خرید x_B y_I r_I i_I dd_E
+خسته خسته x_B y_I s_I td_I A_E
+خصوصا خصوصا x_B U_I s_I u_I s_I y_I n_E
+خواص خواص x_B o_I A_I s_E
+خودکفیل خودکفیل x_B U_I dd_I k_I y_I f_I i_I l_E
+خوراک خوراک x_B U_I r_I A_I k_E
+خوش خوش x_B U_I S_E
+خوشحال خوشحال x_B U_I S_I h_I A_I l_E
+خوشحالی خوشحالی x_B U_I S_I h_I A_I l_I i_E
+خون خون x_B u_I n_E
+خیال خیال x_B y_I j_I A_I l_E
+داری داری dd_B A_I r_I i_E
+داموں داموں dd_B A_I m_I o~_E
+دشمن دشمن dd_B U_I S_I m_I y_I n_E
+دشواری دشواری dd_B U_I S_I v_I A_I r_I i_E
+دفن دفن dd_B y_I f_I n_E
+دل دل dd_B i_I l_E
+دلچسپی دلچسپی dd_B i_I l_I tS_I y_I s_I p_I i_E
+دن دن dd_B i_I n_E
+دنیا دنیا dd_B U_I n_I j_I A_E
+دوباره دوباره dd_B o_I b_I A_I r_I A_E
+دور دور dd_B O_I r_E
+دور دور dd_B o_I r_E
+دور دور dd_B u_I r_E
+دوران دوران dd_B o_I r_I A_I n_E
+دوسری دوسری dd_B u_I s_I r_I i_E
+دوسرے دوسرے dd_B u_I s_I r_I e_E
+دھوپ دھوپ ddh_B u_I p_E
+دی دی dd_B i_E
+دیتا دیتا dd_B e_I td_I A_E
+دیتے دیتے dd_B e_I td_I e_E
+دیش دیش dd_B e_I S_E
+دیکھتے دیکھتے dd_B e_I kh_I td_I e_E
+دیگر دیگر dd_B i_I g_I y_I r_E
+دیں دیں dd_B e~_E
+دیں دیں dd_B i~_E
+دے دے dd_B e_E
+ذاتی ذاتی z_B A_I td_I i_E
+ذخیره ذخیره z_B y_I x_I i_I r_I A_E
+ذره ذره z_B y_I r_I r_I A_E
+ذمه ذمه z_B i_I m_I m_I A_E
+ذکر ذکر z_B i_I k_I r_E
+رات رات r_B A_I td_E
+رعایتی رعایتی r_B i_I A_I j_I y_I td_I i_E
+رقبه رقبه r_B y_I q_I b_I A_E
+رقم رقم r_B y_I q_I y_I m_E
+ره ره r_B A_E
+ره ره r_B e_E
+رها رها r_B A_E
+رها رها r_B i_I h_I A_E
+رها رها r_B y_I h_I A_E
+رهتی رهتی r_B E_I h_I td_I i_E
+رهیں رهیں r_B y_I h_I i~_E
+روزگار روزگار r_B o_I z_I g_I A_I r_E
+روپے روپے r_B u_I p_I e_E
+رکھے رکھے r_B y_I kh_I e_E
+ریاست ریاست r_B i_I j_I A_I s_I y_I td_E
+ریکارڈ ریکارڈ r_B i_I k_I A_I r_I d'_E
+زبردستی زبردستی z_B y_I b_I y_I r_I dd_I y_I s_I td_I i_E
+زراعت زراعت z_B i_I r_I A_I y_I td_E
+زرعی زرعی z_B y_I r_I i_E
+زرمبادله زرمبادله z_B y_I r_I e_I m_I U_I b_I A_I dd_I y_I l_I A_E
+زمانے زمانے z_B y_I m_I A_I n_I e_E
+زمین زمین z_B y_I m_I i_I n_E
+زندگی زندگی z_B i_I n_I dd_I y_I g_I i_E
+زیاده زیاده z_B A_I dd_I A_E
+زیاده زیاده z_B e_I A_I dd_I A_E
+زیاده زیاده z_B i_I j_I A_I dd_I A_E
+سات سات s_B A_I td_E
+ساتھ ساتھ s_B A_I tdh_E
+سال سال s_B A_I l_E
+سالوں سالوں s_B A_I l_I o~_E
+سب سب s_B y_I b_E
+سبسڈی سبسڈی s_B y_I b_I s_I i_I d'_I i_E
+ستر ستر s_B y_I td_I r_E
+سردیوں سردیوں s_B y_I r_I dd_I i_I o~_E
+سرفهرست سرفهرست s_B y_I r_I e_I f_I y_I h_I r_I i_I s_I td_E
+سروکار سروکار s_B y_I r_I o_I k_I A_I r_E
+سستے سستے s_B y_I s_I td_I e_E
+سعودی سعودی s_B y_I u_I dd_I i_E
+سلفر سلفر s_B y_I l_I f_I y_I r_E
+سمندر سمندر s_B y_I m_I y_I n_I dd_I y_I r_E
+سمیت سمیت s_B y_I m_I e_I td_E
+سنگاپور سنگاپور s_B i_I N_I g_I A_I p_I u_I r_E
+سهولتیں سهولتیں s_B U_I h_I u_I l_I y_I td_I e~_E
+سو سو s_B o_E
+سو سو s_B u_E
+سود سود s_B u_I dd_E
+سپلاءی سپلاءی s_B y_I p_I l_I A_I i_E
+سکتی سکتی s_B y_I k_I td_I i_E
+سکتے سکتے s_B y_I k_I td_I e_E
+سکے سکے s_B i_I k_I k_I e_E
+سینه سینه s_B i_I n_I A_E
+سے سے s_B e_E
+شامل شامل S_B A_I m_I i_I l_E
+شدید شدید S_B y_I dd_I i_I dd_E
+شرمندگی شرمندگی S_B y_I r_I m_I i_I n_I dd_I y_I g_I i_E
+شروع شروع S_B U_I r_I u_E
+شروع شروع S_B r_I u_E
+شعبه شعبه S_B o_I b_I A_E
+شعبے شعبے S_B U_I b_I e_E
+شمار شمار S_B U_I m_I A_I r_E
+شهید شهید S_B y_I h_I i_I dd_E
+شکار شکار S_B i_I k_I A_I r_E
+صحت صحت s_B i_I h_I h_I y_I td_E
+صحتمند صحتمند s_B i_I h_I h_I y_I td_I m_I y_I n_I dd_E
+صحیح صحیح s_B y_I h_I i_E
+صرف صرف s_B i_I r_I f_E
+صرف صرف s_B i_I r_I y_I f_E
+صرف صرف s_B y_I r_I f_E
+صرف صرف s_B y_I r_I y_I f_E
+صفر صفر s_B y_I f_I y_I r_E
+صنعت صنعت s_B y_I n_I y_I td_E
+صنعتکار صنعتکار s_B y_I n_I y_I td_I k_I A_I r_E
+صنعتکاروں صنعتکاروں s_B y_I n_I y_I td_I k_I A_I r_I o~_E
+صنعتی صنعتی s_B y_I n_I y_I td_I i_E
+صنعتیں صنعتیں s_B y_I n_I y_I td_I e~_E
+صورت صورت s_B u_I r_I y_I td_E
+ضرورت ضرورت z_B U_I r_I u_I r_I y_I td_E
+ضروری ضروری z_B U_I r_I u_I r_I i_E
+ضروریات ضروریات z_B U_I r_I u_I r_I i_I j_I A_I td_E
+طرح طرح td_B y_I r_I h_I A_E
+طرف طرف td_B y_I r_I f_E
+طور طور td_B O_I r_E
+طور طور td_B o_I r_E
+طور طور td_B u_I r_E
+طوفانوں طوفانوں td_B u_I f_I A_I n_I o~_E
+عرب عرب A_B r_I y_I b_E
+عرب عرب y_B r_I y_I b_E
+عزیز عزیز y_B z_I i_I z_E
+علاقوں علاقوں i_B l_I A_I q_I o~_E
+عوام عوام y_B v_I A_I m_E
+عوض عوض i_B v_I y_I z_E
+غذاءی غذاءی 7_B i_I z_I A_I i_E
+غریب غریب 7_B y_I r_I i_I b_E
+فراهم فراهم f_B y_I r_I A_I h_I y_I m_E
+فصل فصل f_B y_I s_I l_E
+فصلیں فصلیں f_B y_I s_I l_I e~_E
+فضا فضا f_B i_I z_I A_E
+فیصد فیصد f_B i_I s_I y_I dd_E
+قابل قابل q_B A_I b_I i_I l_E
+قابو قابو q_B A_I b_I u_E
+قدرتی قدرتی q_B U_I dd_I r_I y_I td_I i_E
+قرضه قرضه q_B y_I r_I z_I A_E
+قرضوں قرضوں q_B y_I r_I z_I o~_E
+قسطیں قسطیں q_B i_I s_I td_I e~_E
+قسم قسم q_B i_I s_I m_E
+قسم قسم q_B i_I s_I y_I m_E
+قوم قوم q_B O_I m_E
+قیمتوں قیمتوں q_B i_I m_I y_I td_I o~_E
+قیمتی قیمتی q_B i_I m_I y_I td_I i_E
+قیمتیں قیمتیں q_B i_I m_I y_I td_I e~_E
+لءے لءے l_B i_I e_E
+لاءے لاءے l_B A_I e_E
+لاکھ لاکھ l_B A_I kh_E
+لباس لباس l_B i_I b_I A_I s_E
+لندن لندن l_B y_I n_I dd_I y_I n_E
+لهلهاتے لهلهاتے l_B y_I h_I l_I y_I h_I A_I td_I e_E
+لپیٹ لپیٹ l_B y_I p_I e_I t'_E
+لگا لگا l_B y_I g_I A_E
+لگانی لگانی l_B y_I g_I A_I n_I i_E
+لگتے لگتے l_B y_I g_I td_I e_E
+لگی لگی l_B y_I g_I i_E
+لیا لیا l_B i_I A_E
+لیا لیا l_B i_I j_I A_E
+لیکن لیکن l_B e_I k_I i_I n_E
+ماحول ماحول m_B A_I h_I O_I l_E
+ماحولیات ماحولیات m_B A_I h_I O_I l_I i_I j_I A_I td_E
+ماحولیاتی ماحولیاتی m_B A_I h_I O_I l_I i_I j_I A_I td_I i_E
+مبنی مبنی m_B y_I b_I n_I i_E
+متاثر متاثر m_B U_I td_I A_I s_I i_I r_E
+متحده متحده m_B U_I td_I td_I y_I h_I i_I dd_I A_E
+محبت محبت m_B U_I h_I y_I b_I b_I y_I td_E
+محتاج محتاج m_B U_I h_I td_I A_I dZ_E
+محترمه محترمه m_B U_I h_I td_I y_I r_I m_I A_E
+محسوس محسوس m_B y_I h_I s_I u_I s_E
+محلات محلات m_B y_I h_I y_I l_I l_I A_I td_E
+محنت محنت m_B i_I h_I n_I y_I td_E
+مر مر m_B y_I r_E
+مراعات مراعات m_B U_I r_I A_I A_I td_E
+مرتبه مرتبه m_B y_I r_I td_I y_I b_I A_E
+مزدور مزدور m_B y_I z_I dd_I u_I r_E
+مزدوروں مزدوروں m_B y_I z_I dd_I u_I r_I o~_E
+مسءله مسءله m_B y_I s_I y_I l_I A_E
+مشتمل مشتمل m_B U_I S_I td_I y_I m_I i_I l_E
+مشکل مشکل m_B U_I S_I k_I i_I l_E
+مشین مشین m_B U_I S_I y_I j_I y_I n_E
+معاشی معاشی m_B U_I A_I S_I i_E
+معاوضه معاوضه m_B U_I A_I v_I y_I z_I A_E
+معلوم معلوم m_B y_I y_I l_I u_I m_E
+معیشت معیشت m_B y_I i_I S_I y_I td_E
+مفادات مفادات m_B y_I f_I A_I dd_I A_I td_E
+مقابلے مقابلے m_B U_I q_I A_I b_I i_I l_I e_E
+مقدار مقدار m_B i_I q_I dd_I A_I r_E
+مل مل m_B U_I l_E
+ملاءشیا ملاءشیا m_B y_I l_I A_I i_I S_I j_I A_E
+ملنے ملنے m_B i_I l_I n_I e_E
+ملک ملک m_B U_I l_I k_E
+ملک ملک m_B i_I l_I k_E
+ملک ملک m_B y_I l_I i_I k_E
+ملکوں ملکوں m_B U_I l_I k_I o~_E
+ملکی ملکی m_B U_I l_I k_I i_E
+ملی ملی m_B i_I l_I i_E
+ممالک ممالک m_B y_I m_I A_I l_I i_I k_E
+منتقل منتقل m_B U_I n_I td_I y_I q_I i_I l_E
+منصوبه منصوبه m_B y_I n_I s_I u_I b_I A_E
+منه منه m_B U_I n_I h_E
+مهیا مهیا m_B U_I h_I Y_I j_I A_E
+موجوده موجوده m_B O_I dZ_I u_I dd_I A_E
+مٹی مٹی m_B i_I t'_I i_E
+میسر میسر m_B U_I j_I y_I s_I s_I y_I r_E
+میٹرو میٹرو m_B Y_I t'_I y_I r_I o_E
+میں میں m_B Y_E
+میں میں m_B Y~_E
+میں میں m_B e_E
+میں میں m_B e~_E
+نءی نءی n_B y_I i_E
+ندامت ندامت n_B y_I dd_I A_I m_I y_I td_E
+نظر نظر n_B y_I z_I y_I r_E
+نظیر نظیر n_B i_I z_I i_I r_E
+نه نه n_B A_E
+نهیں نهیں n_B i_E
+نهیں نهیں n_B i~_E
+نهیں نهیں n_B y_I h_I i_E
+نهیں نهیں n_B y_I h_I i~_E
+نهیں نهیں n_B y_I i_E
+نهیں نهیں n_B y_I i~_E
+نوٹ نوٹ n_B o_I t'_E
+نے نے n_B Y_E
+نے نے n_B e_E
+هاتھ هاتھ h_B A_I tdh_E
+هالینڈ هالینڈ h_B A_I l_I Y_I n_I d'_E
+هر هر h_B y_I r_E
+هریالی هریالی h_B y_I r_I j_I A_I l_I i_E
+هم هم h_B y_I m_E
+هماری هماری h_B y_I m_I A_I r_I i_E
+همارے همارے h_B y_I m_I A_I r_I e_E
+همیں همیں h_B y_I m_I e~_E
+هند هند h_B i_I n_I dd_E
+هندوستان هندوستان h_B i_I n_I dd_I u_I s_I td_I A_I n_E
+هو هو h_B o_E
+هو هو h_B u_E
+هو هو o_S
+هوءی هوءی h_B u_I i_E
+هوا هوا h_B U_I A_E
+هوا هوا h_B y_I v_I A_E
+هوتا هوتا h_B o_I td_I A_E
+هوتا هوتا o_B td_I A_E
+هوتی هوتی h_B o_I td_I i_E
+هوتی هوتی o_B td_I i_E
+هوجاءے هوجاءے h_B o_I dZ_I A_I e_E
+هوجاتا هوجاتا h_B o_I dZ_I A_I td_I A_E
+هوجاتی هوجاتی h_B o_I dZ_I A_I td_I i_E
+هوسکتی هوسکتی h_B o_I s_I y_I k_I td_I i_E
+هونے هونے h_B o_I n_I e_E
+هوچکی هوچکی h_B o_I tS_I U_I k_I i_E
+هوگی هوگی h_B o_I g_I i_E
+هوں هوں h_B o~_E
+هوں هوں h_B u~_E
+هوں هوں o~_S
+هوں هوں u~_S
+هٹایا هٹایا h_B y_I t'_I A_I j_I A_E
+هی هی h_B i_E
+هیں هیں Y~_S
+هیں هیں h_B Y~_E
+هے هے Y_S
+هے هے h_B Y_E
+و و o_S
+و و v_B A_I o_E
+و و v_B y_E
+واقع واقع v_B A_I q_I e_E
+واپس واپس v_B A_I p_I i_I s_E
+وجه وجه v_B y_I dZ_I A_E
+وجه وجه v_B y_I dZ_I h_E
+وسعت وسعت v_B U_I s_I y_I td_E
+وقت وقت v_B y_I q_I td_E
+وقت وقت v_B y_I q_I y_I td_E
+وه وه v_B o_E
+وهاں وهاں v_B A~_E
+وهاں وهاں v_B y_I h_I A~_E
+ویل ویل v_B i_I l_E
+ٹرین ٹرین t'_B y_I r_I Y_I n_E
+ٹریکٹر ٹریکٹر t'_B y_I r_I Y_I k_I t'_I y_I r_E
+ٹریکٹرز ٹریکٹرز t'_B y_I r_I Y_I k_I t'_I y_I r_I z_E
+ٹھنڈک ٹھنڈک t'h_B y_I n_I d'_I y_I k_E
+ٹیوب ٹیوب t'_B i_I j_I u_I b_E
+ٹیکس ٹیکس t'_B Y_I k_I s_E
+پا پا p_B A_E
+پاءی پاءی p_B A_I i_E
+پالیسیاں پالیسیاں p_B A_I l_I i_I s_I i_I j_I A~_E
+پانی پانی p_B A_I n_I i_E
+پاکستان پاکستان p_B A_I k_I i_I s_I td_I A_I n_E
+پاکستانی پاکستانی p_B A_I k_I i_I s_I td_I A_I n_I i_E
+پر پر p_B U_I r_E
+پر پر p_B y_I r_E
+پروا پروا p_B U_I r_I v_I A_E
+پسینے پسینے p_B y_I s_I i_I n_I e_E
+پنجاب پنجاب p_B y_I n_I dZ_I A_I b_E
+پندره پندره p_B y_I n_I dd_I r_I A_E
+پهلی پهلی p_B Y_I h_I l_I i_E
+پهلے پهلے p_B E_I h_I l_I e_E
+پوری پوری p_B u_I r_I i_E
+پچھلے پچھلے p_B i_I tSh_I l_I e_E
+پڑے پڑے p_B U_I r'_I e_E
+پھر پھر ph_B i_I r_E
+پھل پھل ph_B y_I l_E
+پھیلاتا پھیلاتا ph_B Y_I l_I A_I td_I A_E
+پیدا پیدا p_B Y_I dd_I A_E
+پیداوار پیداوار p_B Y_I dd_I A_I v_I A_I r_E
+پیداواری پیداواری p_B Y_I dd_I A_I v_I A_I r_I i_E
+پیسوں پیسوں p_B Y_I s_I o~_E
+پیٹ پیٹ p_B i_I t'_E
+پیپلزپارٹی پیپلزپارٹی p_B i_I p_I y_I l_I z_I p_I A_I r_I t'_I i_E
+چند چند tS_B y_I n_I dd_E
+چوس چوس tS_B u_I s_E
+چڑھاءو چڑھاءو tS_B y_I r'h_I A_I o_E
+چھاپنے چھاپنے tSh_B A_I p_I n_I e_E
+چھیانوے چھیانوے tSh_B i_I j_I A_I n_I o_I e_E
+چیر چیر tS_B i_I r_E
+چیز چیز tS_B i_I z_E
+چین چین tS_B i_I n_E
+ڈاءی ڈاءی d'_B A_I i_E
+ڈالر ڈالر d'_B O_I l_I y_I r_E
+ڈھانپنے ڈھانپنے d'h_B A_I m_I p_I n_I e_E
+ڈیری ڈیری d'_B e_I r_I i_E
+ڈیوٹی ڈیوٹی d'_B i_I j_I u_I t'_I i_E
+ڈیڑھ ڈیڑھ d'_B e_I r'h_E
+کا کا k_B A_E
+کاربن کاربن k_B A_I r_I b_I y_I n_E
+کارخانے کارخانے k_B A_I r_I x_I A_I n_I e_E
+کاشتکار کاشتکار k_B A_I S_I td_I k_I A_I r_E
+کاشتکاروں کاشتکاروں k_B A_I S_I td_I k_I A_I r_I o~_E
+کامسءله کامسءله k_B A_I m_I y_I s_I y_I l_I A_E
+کر کر k_B y_I r_E
+کرتا کرتا k_B U_I r_I td_I A_E
+کرتاهے کرتاهے k_B y_I r_I td_I A_I h_I Y_E
+کرتی کرتی k_B U_I r_I td_I i_E
+کرتے کرتے k_B U_I r_I td_I e_E
+کردی کردی k_B y_I r_I dd_I i_E
+کردیں کردیں k_B y_I r_I dd_I e~_E
+کردیں کردیں k_B y_I r_I dd_I i~_E
+کرنی کرنی k_B y_I r_I n_I i_E
+کرنے کرنے k_B y_I r_I n_I e_E
+کرکے کرکے k_B y_I r_I k_I e_E
+کرے کرے k_B y_I r_I e_E
+کسان کسان k_B i_I s_I A_I n_E
+کسانوں کسانوں k_B i_I s_I A_I n_I o~_E
+کسی کسی k_B i_I s_I i_E
+کل کل k_B U_I l_E
+کل کل k_B y_I l_E
+کلچر کلچر k_B y_I l_I tS_I y_I r_E
+کم کم k_B i_I m_E
+کم کم k_B y_I m_E
+کماءی کماءی k_B y_I m_I A_I i_E
+کمپنیوں کمپنیوں k_B y_I m_I p_I y_I n_I i_I o~_E
+کمی کمی k_B y_I m_I i_E
+کمیشن کمیشن k_B y_I m_I i_I S_I y_I n_E
+که که k_B e_E
+کو کو k_B o_E
+کوءی کوءی k_B o_I i_E
+کوریا کوریا k_B o_I r_I i_I j_I A_E
+کپاس کپاس k_B y_I p_I A_I s_E
+کپڑوں کپڑوں k_B y_I p_I r'_I o~_E
+کپڑے کپڑے k_B y_I p_I r'_I e_E
+کچھ کچھ k_B U_I tSh_E
+کھاد کھاد kh_B A_I dd_E
+کھربوں کھربوں kh_B y_I r_I b_I o~_E
+کھلیانوں کھلیانوں kh_B y_I l_I j_I A_I n_I o~_E
+کھیت کھیت kh_B e_I td_E
+کھیتوں کھیتوں kh_B e_I td_I o~_E
+کی کی k_B i_E
+کیا کیا k_B i_I A_E
+کیا کیا k_B i_I j_I A_E
+کیلءے کیلءے k_B e_I l_I i_I e_E
+کینیڈا کینیڈا k_B Y_I n_I e_I d'_I A_E
+کیونکه کیونکه k_B i_I j_I u_I n_I k_I e_E
+کے کے k_B e_E
+گروتھ گروتھ g_B y_I r_I O_I tdh_E
+گزرتی گزرتی g_B U_I z_I y_I r_I td_I i_E
+گزشته گزشته g_B U_I z_I y_I S_I td_I A_E
+گل گل g_B U_I l_E
+گلزار گلزار g_B U_I l_I z_I A_I r_E
+گمبھیر گمبھیر g_B y_I m_I bh_I i_I r_E
+گندم گندم g_B y_I n_I dd_I U_I m_E
+گی گی g_B i_E
+گیا گیا g_B e_I A_E
+گیا گیا g_B y_I j_I A_E
+گیاره گیاره g_B e_I A_I r_I A_E
+گے گے g_B e_E
+یا یا j_B A_E
+یه یه j_B e_E
+یهاں یهاں j_B y_I h_I A~_E
+یهی یهی j_B e_I h_I i_E
+یهی یهی j_B e_I i_E

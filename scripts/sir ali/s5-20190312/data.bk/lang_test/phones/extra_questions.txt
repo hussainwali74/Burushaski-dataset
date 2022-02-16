@@ -1,0 +1,9 @@
+7_B A_B A~_B E_B N_B O_B S_B U_B Y_B Y~_B b_B bh_B d'_B d'h_B dZ_B dd_B ddh_B e_B e~_B f_B g_B h_B i_B i~_B j_B k_B kh_B l_B m_B n_B nh_B o_B o~_B p_B ph_B q_B r_B r'_B r'h_B s_B t'_B t'h_B tS_B tSh_B td_B tdh_B u_B u~_B v_B x_B y_B z_B 
+7_E A_E A~_E E_E N_E O_E S_E U_E Y_E Y~_E b_E bh_E d'_E d'h_E dZ_E dd_E ddh_E e_E e~_E f_E g_E h_E i_E i~_E j_E k_E kh_E l_E m_E n_E nh_E o_E o~_E p_E ph_E q_E r_E r'_E r'h_E s_E t'_E t'h_E tS_E tSh_E td_E tdh_E u_E u~_E v_E x_E y_E z_E 
+7_I A_I A~_I E_I N_I O_I S_I U_I Y_I Y~_I b_I bh_I d'_I d'h_I dZ_I dd_I ddh_I e_I e~_I f_I g_I h_I i_I i~_I j_I k_I kh_I l_I m_I n_I nh_I o_I o~_I p_I ph_I q_I r_I r'_I r'h_I s_I t'_I t'h_I tS_I tSh_I td_I tdh_I u_I u~_I v_I x_I y_I z_I 
+7_S A_S A~_S E_S N_S O_S S_S U_S Y_S Y~_S b_S bh_S d'_S d'h_S dZ_S dd_S ddh_S e_S e~_S f_S g_S h_S i_S i~_S j_S k_S kh_S l_S m_S n_S nh_S o_S o~_S p_S ph_S q_S r_S r'_S r'h_S s_S t'_S t'h_S tS_S tSh_S td_S tdh_S u_S u~_S v_S x_S y_S z_S 
+SIL 
+SIL_B 
+SIL_E 
+SIL_I 
+SIL_S 

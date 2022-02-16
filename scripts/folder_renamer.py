@@ -1,6 +1,6 @@
 # rename folders to this format
-#02ali_tahir-20160925-abj
-# updated 29/01/2022
+# 02ali_tahir-20160925-abj
+# updated 16/02/2022
 
 import os
 import sys
@@ -15,14 +15,13 @@ def getWholeToAttach(num):
         num_to_attach = str(num)
     return num_to_attach
 
+
 # get the directory of your script
 directory = os.path.dirname(os.path.realpath(sys.argv[0]))
-i = 0
-year = str(datetime.datetime.today().year)
-month = str(datetime.datetime.today().month)
-day = str(datetime.datetime.today().day)
-
-
+i = 1
+year = datetime.datetime.today().year
+month = datetime.datetime.today().month
+day = datetime.datetime.today().day
 
 for subdir, dirs, files in os.walk(directory):
     # get the path to your subdirectory
@@ -36,7 +35,7 @@ for subdir, dirs, files in os.walk(directory):
     elif (old_folder_name != '.'):
 
         new_folder_name = getWholeToAttach(
-            i)+old_folder_name+'-'+year+getWholeToAttach(month)+getWholeToAttach(day)+'-abj'
+            i)+old_folder_name+'-'+str(year)+getWholeToAttach(month)+getWholeToAttach(day)+'-abj'
         i += 1
     if(old_folder_name != '.'):
         if(new_folder_name != old_folder_name):

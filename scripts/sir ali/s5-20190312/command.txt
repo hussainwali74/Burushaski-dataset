@@ -1,0 +1,4 @@
+local/score.sh  data/test exp/tri1/graph exp/tri1/decode
+
+./local/score.sh data/test exp/tri3b/graph exp/nnet2_clean_urdu/decode_train_new
+

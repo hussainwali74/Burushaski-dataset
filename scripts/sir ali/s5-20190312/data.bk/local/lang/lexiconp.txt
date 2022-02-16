@@ -1,0 +1,539 @@
+اب 1.0 y_B b_E
+اتار 1.0 U_B td_I A_I r_E
+اتنی 1.0 i_B td_I n_I i_E
+اجناس 1.0 y_B dZ_I n_I A_I s_E
+احساس 1.0 i_B h_I s_I A_I s_E
+اداروں 1.0 i_B dd_I A_I r_I o~_E
+ارب 1.0 y_B r_I y_I b_E
+اربوں 1.0 y_B r_I b_I o~_E
+اس 1.0 U_B s_E
+اس 1.0 i_B s_E
+اسمگل 1.0 i_B s_I m_I y_I g_I y_I l_E
+اسٹور 1.0 i_B s_I t'_I o_I r_E
+اسٹیکر 1.0 i_B s_I t'_I i_I k_I y_I r_E
+اسکیمیں 1.0 i_B s_I k_I i_I m_I e~_E
+اسی 1.0 y_B s_I s_I i_E
+اسے 1.0 U_B s_I e_E
+اسے 1.0 i_B s_I e_E
+اضافه 1.0 i_B z_I A_I f_I A_E
+امریکی 1.0 y_B m_I r_I i_I k_I i_E
+ان 1.0 U_B n_E
+ان 1.0 i_B n_E
+ان 1.0 y_B n_E
+انتها 1.0 i_B n_I td_I i_I h_I A_E
+انسانوں 1.0 i_B n_I s_I A_I n_I o~_E
+انقلاب 1.0 i_B n_I q_I i_I l_I A_I b_E
+انهوں 1.0 U_B n_I o~_E
+انهوں 1.0 U_B nh_I o_E
+انهوں 1.0 U_B nh_I o~_E
+انهوں 1.0 i_B n_I o~_E
+انهوں 1.0 i_B nh_I o_E
+انهوں 1.0 i_B nh_I o~_E
+انهیں 1.0 U_B n_I e~_E
+انهیں 1.0 U_B nh_I e_E
+انهیں 1.0 U_B nh_I e~_E
+انهیں 1.0 i_B n_I e~_E
+انهیں 1.0 i_B nh_I e_E
+انهیں 1.0 i_B nh_I e~_E
+انیس 1.0 U_B n_I n_I i_I s_E
+اهمیت 1.0 y_B h_I m_I i_I j_I y_I td_E
+اور 1.0 O_B r_E
+اور 1.0 o_B r_E
+اورنج 1.0 o_B r_I y_I n_I dZ_E
+اٹھا 1.0 U_B t'h_I A_E
+اپنی 1.0 y_B p_I n_I i_E
+اپنے 1.0 y_B p_I n_I e_E
+اکھاڑ 1.0 U_B kh_I A_I r'_E
+اگاءیں 1.0 U_B g_I A_I i~_E
+اگر 1.0 y_B g_I y_I r_E
+ایشیاءی 1.0 e_B S_I i_I j_I A_I i_E
+ایف 1.0 Y_B f_E
+ایم 1.0 Y_B m_E
+ایک 1.0 e_B k_E
+ایگری 1.0 Y_B g_I r_I i_E
+بات 1.0 b_B A_I td_E
+باعث 1.0 b_B A_I i_I s_E
+بالکل 1.0 b_B i_I l_I k_I U_I l_E
+بانوے 1.0 b_B A_I n_I v_I e_E
+باوجود 1.0 b_B A_I v_I U_I dZ_I u_I dd_E
+بجاءے 1.0 b_B y_I dZ_I A_I e_E
+بجلی 1.0 b_B i_I dZ_I l_I i_E
+بجٹ 1.0 b_B y_I dZ_I y_I t'_E
+بحران 1.0 b_B U_I h_I r_I A_I n_E
+بخشتا 1.0 b_B y_I x_I S_I td_I A_E
+بدترین 1.0 b_B y_I dd_I td_I y_I r_I i_I n_E
+برابر 1.0 b_B y_I r_I A_I b_I y_I r_E
+برانڈڈ 1.0 b_B y_I r_I A_I n_I d'_I i_I d'_E
+برد 1.0 b_B U_I r_I dd_E
+بس 1.0 b_B y_I s_E
+بسر 1.0 b_B i_I s_I y_I r_E
+بلکه 1.0 b_B y_I l_I k_I e_E
+بلین 1.0 b_B i_I l_I i_I j_I y_I n_E
+بنا 1.0 b_B U_I n_I A_E
+بناءے 1.0 b_B y_I n_I A_I e_E
+بناتا 1.0 b_B y_I n_I A_I td_I A_E
+بنتے 1.0 b_B U_I n_I td_I e_E
+بنگله 1.0 b_B y_I N_I l_I A_E
+بنیادی 1.0 b_B U_I n_I j_I A_I dd_I i_E
+بولتا 1.0 b_B o_I l_I td_I A_E
+بچ 1.0 b_B y_I tS_E
+بڑھی 1.0 b_B y_I r'h_I i_E
+بڑی 1.0 b_B y_I r'_I i_E
+بڑے 1.0 b_B y_I r'_I e_E
+بھارت 1.0 bh_B A_I r_I y_I td_E
+بھر 1.0 bh_B y_I r_E
+بھرنے 1.0 bh_B y_I r_I n_I e_E
+بھٹو 1.0 bh_B U_I t'_I t'_I o_E
+بھی 1.0 bh_B i_E
+بیج 1.0 b_B i_I dZ_E
+بیس 1.0 b_B i_I s_E
+بیشتر 1.0 b_B e_I S_I td_I y_I r_E
+بین 1.0 b_B e_I n_E
+بے 1.0 b_B e_E
+تا 1.0 td_B A_E
+تاءیوان 1.0 td_B A_I i_I v_I A_I n_E
+تازه 1.0 td_B A_I z_I A_E
+تاکه 1.0 td_B A_I k_I e_E
+تجارت 1.0 td_B i_I dZ_I A_I r_I y_I td_E
+تحاشا 1.0 td_B y_I h_I A_I S_I A_E
+تحفظ 1.0 td_B y_I h_I y_I f_I f_I U_I z_E
+تر 1.0 td_B y_I r_E
+ترانوے 1.0 td_B i_I r_I A_I n_I v_I e_E
+تشویش 1.0 td_B y_I S_I v_I i_I S_E
+تعداد 1.0 td_B y_I y_I dd_I A_I dd_E
+تقسیم 1.0 td_B y_I q_I s_I i_I m_E
+تمام 1.0 td_B y_I m_I A_I m_E
+تن 1.0 td_B y_I n_E
+تو 1.0 td_B o_E
+تو 1.0 td_B u_E
+توجه 1.0 td_B y_I v_I y_I dZ_I dZ_I o_E
+تپتی 1.0 td_B y_I p_I td_I i_E
+تک 1.0 td_B U_I k_E
+تک 1.0 td_B y_I k_E
+تھا 1.0 tdh_B A_E
+تھی 1.0 tdh_B i_E
+تھیں 1.0 tdh_B i~_E
+تھے 1.0 tdh_B e_E
+تیس 1.0 td_B i_I s_E
+تین 1.0 td_B i_I n_E
+ثانی 1.0 s_B A_I n_I i_E
+ثبوت 1.0 s_B U_I b_I u_I td_E
+جاءیں 1.0 dZ_B A_I e~_E
+جاءے 1.0 dZ_B A_I e_E
+جاتی 1.0 dZ_B A_I td_I i_E
+جانتے 1.0 dZ_B A_I n_I td_I e_E
+جانے 1.0 dZ_B A_I n_I e_E
+جب 1.0 dZ_B y_I b_E
+جبکه 1.0 dZ_B y_I b_I k_I e_E
+جس 1.0 dZ_B i_I s_E
+جن 1.0 dZ_B i_I n_E
+جهاں 1.0 dZ_B y_I h_I A~_E
+جو 1.0 dZ_B o_E
+جیسا 1.0 dZ_B Y_I s_I A_E
+جیسی 1.0 dZ_B Y_I s_I i_E
+جیسے 1.0 dZ_B Y_I s_I e_E
+حالی 1.0 h_B A_I l_I i_E
+حتی 1.0 h_B y_I td_I td_I A_E
+حوالے 1.0 h_B y_I v_I A_I l_I e_E
+حکمران 1.0 h_B U_I k_I m_I y_I r_I A_I n_E
+حکمرانوں 1.0 h_B U_I k_I m_I y_I r_I A_I n_I o~_E
+حکومت 1.0 h_B U_I k_I u_I m_I y_I td_E
+حکومت 1.0 h_B y_I k_I u_I m_I y_I td_E
+خاصی 1.0 x_B A_I s_I i_E
+خاندان 1.0 x_B A_I n_I dd_I A_I n_E
+ختم 1.0 x_B y_I td_I m_E
+خرید 1.0 x_B y_I r_I i_I dd_E
+خسته 1.0 x_B y_I s_I td_I A_E
+خصوصا 1.0 x_B U_I s_I u_I s_I y_I n_E
+خواص 1.0 x_B o_I A_I s_E
+خودکفیل 1.0 x_B U_I dd_I k_I y_I f_I i_I l_E
+خوراک 1.0 x_B U_I r_I A_I k_E
+خوش 1.0 x_B U_I S_E
+خوشحال 1.0 x_B U_I S_I h_I A_I l_E
+خوشحالی 1.0 x_B U_I S_I h_I A_I l_I i_E
+خون 1.0 x_B u_I n_E
+خیال 1.0 x_B y_I j_I A_I l_E
+داری 1.0 dd_B A_I r_I i_E
+داموں 1.0 dd_B A_I m_I o~_E
+دشمن 1.0 dd_B U_I S_I m_I y_I n_E
+دشواری 1.0 dd_B U_I S_I v_I A_I r_I i_E
+دفن 1.0 dd_B y_I f_I n_E
+دل 1.0 dd_B i_I l_E
+دلچسپی 1.0 dd_B i_I l_I tS_I y_I s_I p_I i_E
+دن 1.0 dd_B i_I n_E
+دنیا 1.0 dd_B U_I n_I j_I A_E
+دوباره 1.0 dd_B o_I b_I A_I r_I A_E
+دور 1.0 dd_B O_I r_E
+دور 1.0 dd_B o_I r_E
+دور 1.0 dd_B u_I r_E
+دوران 1.0 dd_B o_I r_I A_I n_E
+دوسری 1.0 dd_B u_I s_I r_I i_E
+دوسرے 1.0 dd_B u_I s_I r_I e_E
+دھوپ 1.0 ddh_B u_I p_E
+دی 1.0 dd_B i_E
+دیتا 1.0 dd_B e_I td_I A_E
+دیتے 1.0 dd_B e_I td_I e_E
+دیش 1.0 dd_B e_I S_E
+دیکھتے 1.0 dd_B e_I kh_I td_I e_E
+دیگر 1.0 dd_B i_I g_I y_I r_E
+دیں 1.0 dd_B e~_E
+دیں 1.0 dd_B i~_E
+دے 1.0 dd_B e_E
+ذاتی 1.0 z_B A_I td_I i_E
+ذخیره 1.0 z_B y_I x_I i_I r_I A_E
+ذره 1.0 z_B y_I r_I r_I A_E
+ذمه 1.0 z_B i_I m_I m_I A_E
+ذکر 1.0 z_B i_I k_I r_E
+رات 1.0 r_B A_I td_E
+رعایتی 1.0 r_B i_I A_I j_I y_I td_I i_E
+رقبه 1.0 r_B y_I q_I b_I A_E
+رقم 1.0 r_B y_I q_I y_I m_E
+ره 1.0 r_B A_E
+ره 1.0 r_B e_E
+رها 1.0 r_B A_E
+رها 1.0 r_B i_I h_I A_E
+رها 1.0 r_B y_I h_I A_E
+رهتی 1.0 r_B E_I h_I td_I i_E
+رهیں 1.0 r_B y_I h_I i~_E
+روزگار 1.0 r_B o_I z_I g_I A_I r_E
+روپے 1.0 r_B u_I p_I e_E
+رکھے 1.0 r_B y_I kh_I e_E
+ریاست 1.0 r_B i_I j_I A_I s_I y_I td_E
+ریکارڈ 1.0 r_B i_I k_I A_I r_I d'_E
+زبردستی 1.0 z_B y_I b_I y_I r_I dd_I y_I s_I td_I i_E
+زراعت 1.0 z_B i_I r_I A_I y_I td_E
+زرعی 1.0 z_B y_I r_I i_E
+زرمبادله 1.0 z_B y_I r_I e_I m_I U_I b_I A_I dd_I y_I l_I A_E
+زمانے 1.0 z_B y_I m_I A_I n_I e_E
+زمین 1.0 z_B y_I m_I i_I n_E
+زندگی 1.0 z_B i_I n_I dd_I y_I g_I i_E
+زیاده 1.0 z_B A_I dd_I A_E
+زیاده 1.0 z_B e_I A_I dd_I A_E
+زیاده 1.0 z_B i_I j_I A_I dd_I A_E
+سات 1.0 s_B A_I td_E
+ساتھ 1.0 s_B A_I tdh_E
+سال 1.0 s_B A_I l_E
+سالوں 1.0 s_B A_I l_I o~_E
+سب 1.0 s_B y_I b_E
+سبسڈی 1.0 s_B y_I b_I s_I i_I d'_I i_E
+ستر 1.0 s_B y_I td_I r_E
+سردیوں 1.0 s_B y_I r_I dd_I i_I o~_E
+سرفهرست 1.0 s_B y_I r_I e_I f_I y_I h_I r_I i_I s_I td_E
+سروکار 1.0 s_B y_I r_I o_I k_I A_I r_E
+سستے 1.0 s_B y_I s_I td_I e_E
+سعودی 1.0 s_B y_I u_I dd_I i_E
+سلفر 1.0 s_B y_I l_I f_I y_I r_E
+سمندر 1.0 s_B y_I m_I y_I n_I dd_I y_I r_E
+سمیت 1.0 s_B y_I m_I e_I td_E
+سنگاپور 1.0 s_B i_I N_I g_I A_I p_I u_I r_E
+سهولتیں 1.0 s_B U_I h_I u_I l_I y_I td_I e~_E
+سو 1.0 s_B o_E
+سو 1.0 s_B u_E
+سود 1.0 s_B u_I dd_E
+سپلاءی 1.0 s_B y_I p_I l_I A_I i_E
+سکتی 1.0 s_B y_I k_I td_I i_E
+سکتے 1.0 s_B y_I k_I td_I e_E
+سکے 1.0 s_B i_I k_I k_I e_E
+سینه 1.0 s_B i_I n_I A_E
+سے 1.0 s_B e_E
+شامل 1.0 S_B A_I m_I i_I l_E
+شدید 1.0 S_B y_I dd_I i_I dd_E
+شرمندگی 1.0 S_B y_I r_I m_I i_I n_I dd_I y_I g_I i_E
+شروع 1.0 S_B U_I r_I u_E
+شروع 1.0 S_B r_I u_E
+شعبه 1.0 S_B o_I b_I A_E
+شعبے 1.0 S_B U_I b_I e_E
+شمار 1.0 S_B U_I m_I A_I r_E
+شهید 1.0 S_B y_I h_I i_I dd_E
+شکار 1.0 S_B i_I k_I A_I r_E
+صحت 1.0 s_B i_I h_I h_I y_I td_E
+صحتمند 1.0 s_B i_I h_I h_I y_I td_I m_I y_I n_I dd_E
+صحیح 1.0 s_B y_I h_I i_E
+صرف 1.0 s_B i_I r_I f_E
+صرف 1.0 s_B i_I r_I y_I f_E
+صرف 1.0 s_B y_I r_I f_E
+صرف 1.0 s_B y_I r_I y_I f_E
+صفر 1.0 s_B y_I f_I y_I r_E
+صنعت 1.0 s_B y_I n_I y_I td_E
+صنعتکار 1.0 s_B y_I n_I y_I td_I k_I A_I r_E
+صنعتکاروں 1.0 s_B y_I n_I y_I td_I k_I A_I r_I o~_E
+صنعتی 1.0 s_B y_I n_I y_I td_I i_E
+صنعتیں 1.0 s_B y_I n_I y_I td_I e~_E
+صورت 1.0 s_B u_I r_I y_I td_E
+ضرورت 1.0 z_B U_I r_I u_I r_I y_I td_E
+ضروری 1.0 z_B U_I r_I u_I r_I i_E
+ضروریات 1.0 z_B U_I r_I u_I r_I i_I j_I A_I td_E
+طرح 1.0 td_B y_I r_I h_I A_E
+طرف 1.0 td_B y_I r_I f_E
+طور 1.0 td_B O_I r_E
+طور 1.0 td_B o_I r_E
+طور 1.0 td_B u_I r_E
+طوفانوں 1.0 td_B u_I f_I A_I n_I o~_E
+عرب 1.0 A_B r_I y_I b_E
+عرب 1.0 y_B r_I y_I b_E
+عزیز 1.0 y_B z_I i_I z_E
+علاقوں 1.0 i_B l_I A_I q_I o~_E
+عوام 1.0 y_B v_I A_I m_E
+عوض 1.0 i_B v_I y_I z_E
+غذاءی 1.0 7_B i_I z_I A_I i_E
+غریب 1.0 7_B y_I r_I i_I b_E
+فراهم 1.0 f_B y_I r_I A_I h_I y_I m_E
+فصل 1.0 f_B y_I s_I l_E
+فصلیں 1.0 f_B y_I s_I l_I e~_E
+فضا 1.0 f_B i_I z_I A_E
+فیصد 1.0 f_B i_I s_I y_I dd_E
+قابل 1.0 q_B A_I b_I i_I l_E
+قابو 1.0 q_B A_I b_I u_E
+قدرتی 1.0 q_B U_I dd_I r_I y_I td_I i_E
+قرضه 1.0 q_B y_I r_I z_I A_E
+قرضوں 1.0 q_B y_I r_I z_I o~_E
+قسطیں 1.0 q_B i_I s_I td_I e~_E
+قسم 1.0 q_B i_I s_I m_E
+قسم 1.0 q_B i_I s_I y_I m_E
+قوم 1.0 q_B O_I m_E
+قیمتوں 1.0 q_B i_I m_I y_I td_I o~_E
+قیمتی 1.0 q_B i_I m_I y_I td_I i_E
+قیمتیں 1.0 q_B i_I m_I y_I td_I e~_E
+لءے 1.0 l_B i_I e_E
+لاءے 1.0 l_B A_I e_E
+لاکھ 1.0 l_B A_I kh_E
+لباس 1.0 l_B i_I b_I A_I s_E
+لندن 1.0 l_B y_I n_I dd_I y_I n_E
+لهلهاتے 1.0 l_B y_I h_I l_I y_I h_I A_I td_I e_E
+لپیٹ 1.0 l_B y_I p_I e_I t'_E
+لگا 1.0 l_B y_I g_I A_E
+لگانی 1.0 l_B y_I g_I A_I n_I i_E
+لگتے 1.0 l_B y_I g_I td_I e_E
+لگی 1.0 l_B y_I g_I i_E
+لیا 1.0 l_B i_I A_E
+لیا 1.0 l_B i_I j_I A_E
+لیکن 1.0 l_B e_I k_I i_I n_E
+ماحول 1.0 m_B A_I h_I O_I l_E
+ماحولیات 1.0 m_B A_I h_I O_I l_I i_I j_I A_I td_E
+ماحولیاتی 1.0 m_B A_I h_I O_I l_I i_I j_I A_I td_I i_E
+مبنی 1.0 m_B y_I b_I n_I i_E
+متاثر 1.0 m_B U_I td_I A_I s_I i_I r_E
+متحده 1.0 m_B U_I td_I td_I y_I h_I i_I dd_I A_E
+محبت 1.0 m_B U_I h_I y_I b_I b_I y_I td_E
+محتاج 1.0 m_B U_I h_I td_I A_I dZ_E
+محترمه 1.0 m_B U_I h_I td_I y_I r_I m_I A_E
+محسوس 1.0 m_B y_I h_I s_I u_I s_E
+محلات 1.0 m_B y_I h_I y_I l_I l_I A_I td_E
+محنت 1.0 m_B i_I h_I n_I y_I td_E
+مر 1.0 m_B y_I r_E
+مراعات 1.0 m_B U_I r_I A_I A_I td_E
+مرتبه 1.0 m_B y_I r_I td_I y_I b_I A_E
+مزدور 1.0 m_B y_I z_I dd_I u_I r_E
+مزدوروں 1.0 m_B y_I z_I dd_I u_I r_I o~_E
+مسءله 1.0 m_B y_I s_I y_I l_I A_E
+مشتمل 1.0 m_B U_I S_I td_I y_I m_I i_I l_E
+مشکل 1.0 m_B U_I S_I k_I i_I l_E
+مشین 1.0 m_B U_I S_I y_I j_I y_I n_E
+معاشی 1.0 m_B U_I A_I S_I i_E
+معاوضه 1.0 m_B U_I A_I v_I y_I z_I A_E
+معلوم 1.0 m_B y_I y_I l_I u_I m_E
+معیشت 1.0 m_B y_I i_I S_I y_I td_E
+مفادات 1.0 m_B y_I f_I A_I dd_I A_I td_E
+مقابلے 1.0 m_B U_I q_I A_I b_I i_I l_I e_E
+مقدار 1.0 m_B i_I q_I dd_I A_I r_E
+مل 1.0 m_B U_I l_E
+ملاءشیا 1.0 m_B y_I l_I A_I i_I S_I j_I A_E
+ملنے 1.0 m_B i_I l_I n_I e_E
+ملک 1.0 m_B U_I l_I k_E
+ملک 1.0 m_B i_I l_I k_E
+ملک 1.0 m_B y_I l_I i_I k_E
+ملکوں 1.0 m_B U_I l_I k_I o~_E
+ملکی 1.0 m_B U_I l_I k_I i_E
+ملی 1.0 m_B i_I l_I i_E
+ممالک 1.0 m_B y_I m_I A_I l_I i_I k_E
+منتقل 1.0 m_B U_I n_I td_I y_I q_I i_I l_E
+منصوبه 1.0 m_B y_I n_I s_I u_I b_I A_E
+منه 1.0 m_B U_I n_I h_E
+مهیا 1.0 m_B U_I h_I Y_I j_I A_E
+موجوده 1.0 m_B O_I dZ_I u_I dd_I A_E
+مٹی 1.0 m_B i_I t'_I i_E
+میسر 1.0 m_B U_I j_I y_I s_I s_I y_I r_E
+میٹرو 1.0 m_B Y_I t'_I y_I r_I o_E
+میں 1.0 m_B Y_E
+میں 1.0 m_B Y~_E
+میں 1.0 m_B e_E
+میں 1.0 m_B e~_E
+نءی 1.0 n_B y_I i_E
+ندامت 1.0 n_B y_I dd_I A_I m_I y_I td_E
+نظر 1.0 n_B y_I z_I y_I r_E
+نظیر 1.0 n_B i_I z_I i_I r_E
+نه 1.0 n_B A_E
+نهیں 1.0 n_B i_E
+نهیں 1.0 n_B i~_E
+نهیں 1.0 n_B y_I h_I i_E
+نهیں 1.0 n_B y_I h_I i~_E
+نهیں 1.0 n_B y_I i_E
+نهیں 1.0 n_B y_I i~_E
+نوٹ 1.0 n_B o_I t'_E
+نے 1.0 n_B Y_E
+نے 1.0 n_B e_E
+هاتھ 1.0 h_B A_I tdh_E
+هالینڈ 1.0 h_B A_I l_I Y_I n_I d'_E
+هر 1.0 h_B y_I r_E
+هریالی 1.0 h_B y_I r_I j_I A_I l_I i_E
+هم 1.0 h_B y_I m_E
+هماری 1.0 h_B y_I m_I A_I r_I i_E
+همارے 1.0 h_B y_I m_I A_I r_I e_E
+همیں 1.0 h_B y_I m_I e~_E
+هند 1.0 h_B i_I n_I dd_E
+هندوستان 1.0 h_B i_I n_I dd_I u_I s_I td_I A_I n_E
+هو 1.0 h_B o_E
+هو 1.0 h_B u_E
+هو 1.0 o_S
+هوءی 1.0 h_B u_I i_E
+هوا 1.0 h_B U_I A_E
+هوا 1.0 h_B y_I v_I A_E
+هوتا 1.0 h_B o_I td_I A_E
+هوتا 1.0 o_B td_I A_E
+هوتی 1.0 h_B o_I td_I i_E
+هوتی 1.0 o_B td_I i_E
+هوجاءے 1.0 h_B o_I dZ_I A_I e_E
+هوجاتا 1.0 h_B o_I dZ_I A_I td_I A_E
+هوجاتی 1.0 h_B o_I dZ_I A_I td_I i_E
+هوسکتی 1.0 h_B o_I s_I y_I k_I td_I i_E
+هونے 1.0 h_B o_I n_I e_E
+هوچکی 1.0 h_B o_I tS_I U_I k_I i_E
+هوگی 1.0 h_B o_I g_I i_E
+هوں 1.0 h_B o~_E
+هوں 1.0 h_B u~_E
+هوں 1.0 o~_S
+هوں 1.0 u~_S
+هٹایا 1.0 h_B y_I t'_I A_I j_I A_E
+هی 1.0 h_B i_E
+هیں 1.0 Y~_S
+هیں 1.0 h_B Y~_E
+هے 1.0 Y_S
+هے 1.0 h_B Y_E
+و 1.0 o_S
+و 1.0 v_B A_I o_E
+و 1.0 v_B y_E
+واقع 1.0 v_B A_I q_I e_E
+واپس 1.0 v_B A_I p_I i_I s_E
+وجه 1.0 v_B y_I dZ_I A_E
+وجه 1.0 v_B y_I dZ_I h_E
+وسعت 1.0 v_B U_I s_I y_I td_E
+وقت 1.0 v_B y_I q_I td_E
+وقت 1.0 v_B y_I q_I y_I td_E
+وه 1.0 v_B o_E
+وهاں 1.0 v_B A~_E
+وهاں 1.0 v_B y_I h_I A~_E
+ویل 1.0 v_B i_I l_E
+ٹرین 1.0 t'_B y_I r_I Y_I n_E
+ٹریکٹر 1.0 t'_B y_I r_I Y_I k_I t'_I y_I r_E
+ٹریکٹرز 1.0 t'_B y_I r_I Y_I k_I t'_I y_I r_I z_E
+ٹھنڈک 1.0 t'h_B y_I n_I d'_I y_I k_E
+ٹیوب 1.0 t'_B i_I j_I u_I b_E
+ٹیکس 1.0 t'_B Y_I k_I s_E
+پا 1.0 p_B A_E
+پاءی 1.0 p_B A_I i_E
+پالیسیاں 1.0 p_B A_I l_I i_I s_I i_I j_I A~_E
+پانی 1.0 p_B A_I n_I i_E
+پاکستان 1.0 p_B A_I k_I i_I s_I td_I A_I n_E
+پاکستانی 1.0 p_B A_I k_I i_I s_I td_I A_I n_I i_E
+پر 1.0 p_B U_I r_E
+پر 1.0 p_B y_I r_E
+پروا 1.0 p_B U_I r_I v_I A_E
+پسینے 1.0 p_B y_I s_I i_I n_I e_E
+پنجاب 1.0 p_B y_I n_I dZ_I A_I b_E
+پندره 1.0 p_B y_I n_I dd_I r_I A_E
+پهلی 1.0 p_B Y_I h_I l_I i_E
+پهلے 1.0 p_B E_I h_I l_I e_E
+پوری 1.0 p_B u_I r_I i_E
+پچھلے 1.0 p_B i_I tSh_I l_I e_E
+پڑے 1.0 p_B U_I r'_I e_E
+پھر 1.0 ph_B i_I r_E
+پھل 1.0 ph_B y_I l_E
+پھیلاتا 1.0 ph_B Y_I l_I A_I td_I A_E
+پیدا 1.0 p_B Y_I dd_I A_E
+پیداوار 1.0 p_B Y_I dd_I A_I v_I A_I r_E
+پیداواری 1.0 p_B Y_I dd_I A_I v_I A_I r_I i_E
+پیسوں 1.0 p_B Y_I s_I o~_E
+پیٹ 1.0 p_B i_I t'_E
+پیپلزپارٹی 1.0 p_B i_I p_I y_I l_I z_I p_I A_I r_I t'_I i_E
+چند 1.0 tS_B y_I n_I dd_E
+چوس 1.0 tS_B u_I s_E
+چڑھاءو 1.0 tS_B y_I r'h_I A_I o_E
+چھاپنے 1.0 tSh_B A_I p_I n_I e_E
+چھیانوے 1.0 tSh_B i_I j_I A_I n_I o_I e_E
+چیر 1.0 tS_B i_I r_E
+چیز 1.0 tS_B i_I z_E
+چین 1.0 tS_B i_I n_E
+ڈاءی 1.0 d'_B A_I i_E
+ڈالر 1.0 d'_B O_I l_I y_I r_E
+ڈھانپنے 1.0 d'h_B A_I m_I p_I n_I e_E
+ڈیری 1.0 d'_B e_I r_I i_E
+ڈیوٹی 1.0 d'_B i_I j_I u_I t'_I i_E
+ڈیڑھ 1.0 d'_B e_I r'h_E
+کا 1.0 k_B A_E
+کاربن 1.0 k_B A_I r_I b_I y_I n_E
+کارخانے 1.0 k_B A_I r_I x_I A_I n_I e_E
+کاشتکار 1.0 k_B A_I S_I td_I k_I A_I r_E
+کاشتکاروں 1.0 k_B A_I S_I td_I k_I A_I r_I o~_E
+کامسءله 1.0 k_B A_I m_I y_I s_I y_I l_I A_E
+کر 1.0 k_B y_I r_E
+کرتا 1.0 k_B U_I r_I td_I A_E
+کرتاهے 1.0 k_B y_I r_I td_I A_I h_I Y_E
+کرتی 1.0 k_B U_I r_I td_I i_E
+کرتے 1.0 k_B U_I r_I td_I e_E
+کردی 1.0 k_B y_I r_I dd_I i_E
+کردیں 1.0 k_B y_I r_I dd_I e~_E
+کردیں 1.0 k_B y_I r_I dd_I i~_E
+کرنی 1.0 k_B y_I r_I n_I i_E
+کرنے 1.0 k_B y_I r_I n_I e_E
+کرکے 1.0 k_B y_I r_I k_I e_E
+کرے 1.0 k_B y_I r_I e_E
+کسان 1.0 k_B i_I s_I A_I n_E
+کسانوں 1.0 k_B i_I s_I A_I n_I o~_E
+کسی 1.0 k_B i_I s_I i_E
+کل 1.0 k_B U_I l_E
+کل 1.0 k_B y_I l_E
+کلچر 1.0 k_B y_I l_I tS_I y_I r_E
+کم 1.0 k_B i_I m_E
+کم 1.0 k_B y_I m_E
+کماءی 1.0 k_B y_I m_I A_I i_E
+کمپنیوں 1.0 k_B y_I m_I p_I y_I n_I i_I o~_E
+کمی 1.0 k_B y_I m_I i_E
+کمیشن 1.0 k_B y_I m_I i_I S_I y_I n_E
+که 1.0 k_B e_E
+کو 1.0 k_B o_E
+کوءی 1.0 k_B o_I i_E
+کوریا 1.0 k_B o_I r_I i_I j_I A_E
+کپاس 1.0 k_B y_I p_I A_I s_E
+کپڑوں 1.0 k_B y_I p_I r'_I o~_E
+کپڑے 1.0 k_B y_I p_I r'_I e_E
+کچھ 1.0 k_B U_I tSh_E
+کھاد 1.0 kh_B A_I dd_E
+کھربوں 1.0 kh_B y_I r_I b_I o~_E
+کھلیانوں 1.0 kh_B y_I l_I j_I A_I n_I o~_E
+کھیت 1.0 kh_B e_I td_E
+کھیتوں 1.0 kh_B e_I td_I o~_E
+کی 1.0 k_B i_E
+کیا 1.0 k_B i_I A_E
+کیا 1.0 k_B i_I j_I A_E
+کیلءے 1.0 k_B e_I l_I i_I e_E
+کینیڈا 1.0 k_B Y_I n_I e_I d'_I A_E
+کیونکه 1.0 k_B i_I j_I u_I n_I k_I e_E
+کے 1.0 k_B e_E
+گروتھ 1.0 g_B y_I r_I O_I tdh_E
+گزرتی 1.0 g_B U_I z_I y_I r_I td_I i_E
+گزشته 1.0 g_B U_I z_I y_I S_I td_I A_E
+گل 1.0 g_B U_I l_E
+گلزار 1.0 g_B U_I l_I z_I A_I r_E
+گمبھیر 1.0 g_B y_I m_I bh_I i_I r_E
+گندم 1.0 g_B y_I n_I dd_I U_I m_E
+گی 1.0 g_B i_E
+گیا 1.0 g_B e_I A_E
+گیا 1.0 g_B y_I j_I A_E
+گیاره 1.0 g_B e_I A_I r_I A_E
+گے 1.0 g_B e_E
+یا 1.0 j_B A_E
+یه 1.0 j_B e_E
+یهاں 1.0 j_B y_I h_I A~_E
+یهی 1.0 j_B e_I h_I i_E
+یهی 1.0 j_B e_I i_E
+!SIL 1.0 SIL_S

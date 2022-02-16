@@ -1,0 +1,540 @@
+اب y_B b_E
+اتار U_B td_I A_I r_E
+اتنی i_B td_I n_I i_E
+اجناس y_B dZ_I n_I A_I s_E
+احساس i_B h_I s_I A_I s_E
+اداروں i_B dd_I A_I r_I o~_E
+ارب y_B r_I y_I b_E
+اربوں y_B r_I b_I o~_E
+اس U_B s_E
+اس i_B s_E
+اسمگل i_B s_I m_I y_I g_I y_I l_E
+اسٹور i_B s_I t'_I o_I r_E
+اسٹیکر i_B s_I t'_I i_I k_I y_I r_E
+اسکیمیں i_B s_I k_I i_I m_I e~_E
+اسی y_B s_I s_I i_E
+اسے U_B s_I e_E
+اسے i_B s_I e_E
+اضافه i_B z_I A_I f_I A_E
+امریکی y_B m_I r_I i_I k_I i_E
+ان U_B n_E
+ان i_B n_E
+ان y_B n_E
+انتها i_B n_I td_I i_I h_I A_E
+انسانوں i_B n_I s_I A_I n_I o~_E
+انقلاب i_B n_I q_I i_I l_I A_I b_E
+انهوں U_B n_I o~_E
+انهوں U_B nh_I o_E
+انهوں U_B nh_I o~_E
+انهوں i_B n_I o~_E
+انهوں i_B nh_I o_E
+انهوں i_B nh_I o~_E
+انهیں U_B n_I e~_E
+انهیں U_B nh_I e_E
+انهیں U_B nh_I e~_E
+انهیں i_B n_I e~_E
+انهیں i_B nh_I e_E
+انهیں i_B nh_I e~_E
+انیس U_B n_I n_I i_I s_E
+اهمیت y_B h_I m_I i_I j_I y_I td_E
+اور O_B r_E
+اور o_B r_E
+اورنج o_B r_I y_I n_I dZ_E
+اٹھا U_B t'h_I A_E
+اپنی y_B p_I n_I i_E
+اپنے y_B p_I n_I e_E
+اکھاڑ U_B kh_I A_I r'_E
+اگاءیں U_B g_I A_I i~_E
+اگر y_B g_I y_I r_E
+ایشیاءی e_B S_I i_I j_I A_I i_E
+ایف Y_B f_E
+ایم Y_B m_E
+ایک e_B k_E
+ایگری Y_B g_I r_I i_E
+بات b_B A_I td_E
+باعث b_B A_I i_I s_E
+بالکل b_B i_I l_I k_I U_I l_E
+بانوے b_B A_I n_I v_I e_E
+باوجود b_B A_I v_I U_I dZ_I u_I dd_E
+بجاءے b_B y_I dZ_I A_I e_E
+بجلی b_B i_I dZ_I l_I i_E
+بجٹ b_B y_I dZ_I y_I t'_E
+بحران b_B U_I h_I r_I A_I n_E
+بخشتا b_B y_I x_I S_I td_I A_E
+بدترین b_B y_I dd_I td_I y_I r_I i_I n_E
+برابر b_B y_I r_I A_I b_I y_I r_E
+برانڈڈ b_B y_I r_I A_I n_I d'_I i_I d'_E
+برد b_B U_I r_I dd_E
+بس b_B y_I s_E
+بسر b_B i_I s_I y_I r_E
+بلکه b_B y_I l_I k_I e_E
+بلین b_B i_I l_I i_I j_I y_I n_E
+بنا b_B U_I n_I A_E
+بناءے b_B y_I n_I A_I e_E
+بناتا b_B y_I n_I A_I td_I A_E
+بنتے b_B U_I n_I td_I e_E
+بنگله b_B y_I N_I l_I A_E
+بنیادی b_B U_I n_I j_I A_I dd_I i_E
+بولتا b_B o_I l_I td_I A_E
+بچ b_B y_I tS_E
+بڑھی b_B y_I r'h_I i_E
+بڑی b_B y_I r'_I i_E
+بڑے b_B y_I r'_I e_E
+بھارت bh_B A_I r_I y_I td_E
+بھر bh_B y_I r_E
+بھرنے bh_B y_I r_I n_I e_E
+بھٹو bh_B U_I t'_I t'_I o_E
+بھی bh_B i_E
+بیج b_B i_I dZ_E
+بیس b_B i_I s_E
+بیشتر b_B e_I S_I td_I y_I r_E
+بین b_B e_I n_E
+بے b_B e_E
+تا td_B A_E
+تاءیوان td_B A_I i_I v_I A_I n_E
+تازه td_B A_I z_I A_E
+تاکه td_B A_I k_I e_E
+تجارت td_B i_I dZ_I A_I r_I y_I td_E
+تحاشا td_B y_I h_I A_I S_I A_E
+تحفظ td_B y_I h_I y_I f_I f_I U_I z_E
+تر td_B y_I r_E
+ترانوے td_B i_I r_I A_I n_I v_I e_E
+تشویش td_B y_I S_I v_I i_I S_E
+تعداد td_B y_I y_I dd_I A_I dd_E
+تقسیم td_B y_I q_I s_I i_I m_E
+تمام td_B y_I m_I A_I m_E
+تن td_B y_I n_E
+تو td_B o_E
+تو td_B u_E
+توجه td_B y_I v_I y_I dZ_I dZ_I o_E
+تپتی td_B y_I p_I td_I i_E
+تک td_B U_I k_E
+تک td_B y_I k_E
+تھا tdh_B A_E
+تھی tdh_B i_E
+تھیں tdh_B i~_E
+تھے tdh_B e_E
+تیس td_B i_I s_E
+تین td_B i_I n_E
+ثانی s_B A_I n_I i_E
+ثبوت s_B U_I b_I u_I td_E
+جاءیں dZ_B A_I e~_E
+جاءے dZ_B A_I e_E
+جاتی dZ_B A_I td_I i_E
+جانتے dZ_B A_I n_I td_I e_E
+جانے dZ_B A_I n_I e_E
+جب dZ_B y_I b_E
+جبکه dZ_B y_I b_I k_I e_E
+جس dZ_B i_I s_E
+جن dZ_B i_I n_E
+جهاں dZ_B y_I h_I A~_E
+جو dZ_B o_E
+جیسا dZ_B Y_I s_I A_E
+جیسی dZ_B Y_I s_I i_E
+جیسے dZ_B Y_I s_I e_E
+حالی h_B A_I l_I i_E
+حتی h_B y_I td_I td_I A_E
+حوالے h_B y_I v_I A_I l_I e_E
+حکمران h_B U_I k_I m_I y_I r_I A_I n_E
+حکمرانوں h_B U_I k_I m_I y_I r_I A_I n_I o~_E
+حکومت h_B U_I k_I u_I m_I y_I td_E
+حکومت h_B y_I k_I u_I m_I y_I td_E
+خاصی x_B A_I s_I i_E
+خاندان x_B A_I n_I dd_I A_I n_E
+ختم x_B y_I td_I m_E
+خرید x_B y_I r_I i_I dd_E
+خسته x_B y_I s_I td_I A_E
+خصوصا x_B U_I s_I u_I s_I y_I n_E
+خواص x_B o_I A_I s_E
+خودکفیل x_B U_I dd_I k_I y_I f_I i_I l_E
+خوراک x_B U_I r_I A_I k_E
+خوش x_B U_I S_E
+خوشحال x_B U_I S_I h_I A_I l_E
+خوشحالی x_B U_I S_I h_I A_I l_I i_E
+خون x_B u_I n_E
+خیال x_B y_I j_I A_I l_E
+داری dd_B A_I r_I i_E
+داموں dd_B A_I m_I o~_E
+دشمن dd_B U_I S_I m_I y_I n_E
+دشواری dd_B U_I S_I v_I A_I r_I i_E
+دفن dd_B y_I f_I n_E
+دل dd_B i_I l_E
+دلچسپی dd_B i_I l_I tS_I y_I s_I p_I i_E
+دن dd_B i_I n_E
+دنیا dd_B U_I n_I j_I A_E
+دوباره dd_B o_I b_I A_I r_I A_E
+دور dd_B O_I r_E
+دور dd_B o_I r_E
+دور dd_B u_I r_E
+دوران dd_B o_I r_I A_I n_E
+دوسری dd_B u_I s_I r_I i_E
+دوسرے dd_B u_I s_I r_I e_E
+دھوپ ddh_B u_I p_E
+دی dd_B i_E
+دیتا dd_B e_I td_I A_E
+دیتے dd_B e_I td_I e_E
+دیش dd_B e_I S_E
+دیکھتے dd_B e_I kh_I td_I e_E
+دیگر dd_B i_I g_I y_I r_E
+دیں dd_B e~_E
+دیں dd_B i~_E
+دے dd_B e_E
+ذاتی z_B A_I td_I i_E
+ذخیره z_B y_I x_I i_I r_I A_E
+ذره z_B y_I r_I r_I A_E
+ذمه z_B i_I m_I m_I A_E
+ذکر z_B i_I k_I r_E
+رات r_B A_I td_E
+رعایتی r_B i_I A_I j_I y_I td_I i_E
+رقبه r_B y_I q_I b_I A_E
+رقم r_B y_I q_I y_I m_E
+ره r_B A_E
+ره r_B e_E
+رها r_B A_E
+رها r_B i_I h_I A_E
+رها r_B y_I h_I A_E
+رهتی r_B E_I h_I td_I i_E
+رهیں r_B y_I h_I i~_E
+روزگار r_B o_I z_I g_I A_I r_E
+روپے r_B u_I p_I e_E
+رکھے r_B y_I kh_I e_E
+ریاست r_B i_I j_I A_I s_I y_I td_E
+ریکارڈ r_B i_I k_I A_I r_I d'_E
+زبردستی z_B y_I b_I y_I r_I dd_I y_I s_I td_I i_E
+زراعت z_B i_I r_I A_I y_I td_E
+زرعی z_B y_I r_I i_E
+زرمبادله z_B y_I r_I e_I m_I U_I b_I A_I dd_I y_I l_I A_E
+زمانے z_B y_I m_I A_I n_I e_E
+زمین z_B y_I m_I i_I n_E
+زندگی z_B i_I n_I dd_I y_I g_I i_E
+زیاده z_B A_I dd_I A_E
+زیاده z_B e_I A_I dd_I A_E
+زیاده z_B i_I j_I A_I dd_I A_E
+سات s_B A_I td_E
+ساتھ s_B A_I tdh_E
+سال s_B A_I l_E
+سالوں s_B A_I l_I o~_E
+سب s_B y_I b_E
+سبسڈی s_B y_I b_I s_I i_I d'_I i_E
+ستر s_B y_I td_I r_E
+سردیوں s_B y_I r_I dd_I i_I o~_E
+سرفهرست s_B y_I r_I e_I f_I y_I h_I r_I i_I s_I td_E
+سروکار s_B y_I r_I o_I k_I A_I r_E
+سستے s_B y_I s_I td_I e_E
+سعودی s_B y_I u_I dd_I i_E
+سلفر s_B y_I l_I f_I y_I r_E
+سمندر s_B y_I m_I y_I n_I dd_I y_I r_E
+سمیت s_B y_I m_I e_I td_E
+سنگاپور s_B i_I N_I g_I A_I p_I u_I r_E
+سهولتیں s_B U_I h_I u_I l_I y_I td_I e~_E
+سو s_B o_E
+سو s_B u_E
+سود s_B u_I dd_E
+سپلاءی s_B y_I p_I l_I A_I i_E
+سکتی s_B y_I k_I td_I i_E
+سکتے s_B y_I k_I td_I e_E
+سکے s_B i_I k_I k_I e_E
+سینه s_B i_I n_I A_E
+سے s_B e_E
+شامل S_B A_I m_I i_I l_E
+شدید S_B y_I dd_I i_I dd_E
+شرمندگی S_B y_I r_I m_I i_I n_I dd_I y_I g_I i_E
+شروع S_B U_I r_I u_E
+شروع S_B r_I u_E
+شعبه S_B o_I b_I A_E
+شعبے S_B U_I b_I e_E
+شمار S_B U_I m_I A_I r_E
+شهید S_B y_I h_I i_I dd_E
+شکار S_B i_I k_I A_I r_E
+صحت s_B i_I h_I h_I y_I td_E
+صحتمند s_B i_I h_I h_I y_I td_I m_I y_I n_I dd_E
+صحیح s_B y_I h_I i_E
+صرف s_B i_I r_I f_E
+صرف s_B i_I r_I y_I f_E
+صرف s_B y_I r_I f_E
+صرف s_B y_I r_I y_I f_E
+صفر s_B y_I f_I y_I r_E
+صنعت s_B y_I n_I y_I td_E
+صنعتکار s_B y_I n_I y_I td_I k_I A_I r_E
+صنعتکاروں s_B y_I n_I y_I td_I k_I A_I r_I o~_E
+صنعتی s_B y_I n_I y_I td_I i_E
+صنعتیں s_B y_I n_I y_I td_I e~_E
+صورت s_B u_I r_I y_I td_E
+ضرورت z_B U_I r_I u_I r_I y_I td_E
+ضروری z_B U_I r_I u_I r_I i_E
+ضروریات z_B U_I r_I u_I r_I i_I j_I A_I td_E
+طرح td_B y_I r_I h_I A_E
+طرف td_B y_I r_I f_E
+طور td_B O_I r_E
+طور td_B o_I r_E
+طور td_B u_I r_E
+طوفانوں td_B u_I f_I A_I n_I o~_E
+عرب A_B r_I y_I b_E
+عرب y_B r_I y_I b_E
+عزیز y_B z_I i_I z_E
+علاقوں i_B l_I A_I q_I o~_E
+عوام y_B v_I A_I m_E
+عوض i_B v_I y_I z_E
+غذاءی 7_B i_I z_I A_I i_E
+غریب 7_B y_I r_I i_I b_E
+فراهم f_B y_I r_I A_I h_I y_I m_E
+فصل f_B y_I s_I l_E
+فصلیں f_B y_I s_I l_I e~_E
+فضا f_B i_I z_I A_E
+فیصد f_B i_I s_I y_I dd_E
+قابل q_B A_I b_I i_I l_E
+قابو q_B A_I b_I u_E
+قدرتی q_B U_I dd_I r_I y_I td_I i_E
+قرضه q_B y_I r_I z_I A_E
+قرضوں q_B y_I r_I z_I o~_E
+قسطیں q_B i_I s_I td_I e~_E
+قسم q_B i_I s_I m_E
+قسم q_B i_I s_I y_I m_E
+قوم q_B O_I m_E
+قیمتوں q_B i_I m_I y_I td_I o~_E
+قیمتی q_B i_I m_I y_I td_I i_E
+قیمتیں q_B i_I m_I y_I td_I e~_E
+لءے l_B i_I e_E
+لاءے l_B A_I e_E
+لاکھ l_B A_I kh_E
+لباس l_B i_I b_I A_I s_E
+لندن l_B y_I n_I dd_I y_I n_E
+لهلهاتے l_B y_I h_I l_I y_I h_I A_I td_I e_E
+لپیٹ l_B y_I p_I e_I t'_E
+لگا l_B y_I g_I A_E
+لگانی l_B y_I g_I A_I n_I i_E
+لگتے l_B y_I g_I td_I e_E
+لگی l_B y_I g_I i_E
+لیا l_B i_I A_E
+لیا l_B i_I j_I A_E
+لیکن l_B e_I k_I i_I n_E
+ماحول m_B A_I h_I O_I l_E
+ماحولیات m_B A_I h_I O_I l_I i_I j_I A_I td_E
+ماحولیاتی m_B A_I h_I O_I l_I i_I j_I A_I td_I i_E
+مبنی m_B y_I b_I n_I i_E
+متاثر m_B U_I td_I A_I s_I i_I r_E
+متحده m_B U_I td_I td_I y_I h_I i_I dd_I A_E
+محبت m_B U_I h_I y_I b_I b_I y_I td_E
+محتاج m_B U_I h_I td_I A_I dZ_E
+محترمه m_B U_I h_I td_I y_I r_I m_I A_E
+محسوس m_B y_I h_I s_I u_I s_E
+محلات m_B y_I h_I y_I l_I l_I A_I td_E
+محنت m_B i_I h_I n_I y_I td_E
+مر m_B y_I r_E
+مراعات m_B U_I r_I A_I A_I td_E
+مرتبه m_B y_I r_I td_I y_I b_I A_E
+مزدور m_B y_I z_I dd_I u_I r_E
+مزدوروں m_B y_I z_I dd_I u_I r_I o~_E
+مسءله m_B y_I s_I y_I l_I A_E
+مشتمل m_B U_I S_I td_I y_I m_I i_I l_E
+مشکل m_B U_I S_I k_I i_I l_E
+مشین m_B U_I S_I y_I j_I y_I n_E
+معاشی m_B U_I A_I S_I i_E
+معاوضه m_B U_I A_I v_I y_I z_I A_E
+معلوم m_B y_I y_I l_I u_I m_E
+معیشت m_B y_I i_I S_I y_I td_E
+مفادات m_B y_I f_I A_I dd_I A_I td_E
+مقابلے m_B U_I q_I A_I b_I i_I l_I e_E
+مقدار m_B i_I q_I dd_I A_I r_E
+مل m_B U_I l_E
+ملاءشیا m_B y_I l_I A_I i_I S_I j_I A_E
+ملنے m_B i_I l_I n_I e_E
+ملک m_B U_I l_I k_E
+ملک m_B i_I l_I k_E
+ملک m_B y_I l_I i_I k_E
+ملکوں m_B U_I l_I k_I o~_E
+ملکی m_B U_I l_I k_I i_E
+ملی m_B i_I l_I i_E
+ممالک m_B y_I m_I A_I l_I i_I k_E
+منتقل m_B U_I n_I td_I y_I q_I i_I l_E
+منصوبه m_B y_I n_I s_I u_I b_I A_E
+منه m_B U_I n_I h_E
+مهیا m_B U_I h_I Y_I j_I A_E
+موجوده m_B O_I dZ_I u_I dd_I A_E
+مٹی m_B i_I t'_I i_E
+میسر m_B U_I j_I y_I s_I s_I y_I r_E
+میٹرو m_B Y_I t'_I y_I r_I o_E
+میں m_B Y_E
+میں m_B Y~_E
+میں m_B e_E
+میں m_B e~_E
+نءی n_B y_I i_E
+ندامت n_B y_I dd_I A_I m_I y_I td_E
+نظر n_B y_I z_I y_I r_E
+نظیر n_B i_I z_I i_I r_E
+نه n_B A_E
+نهیں n_B i_E
+نهیں n_B i~_E
+نهیں n_B y_I h_I i_E
+نهیں n_B y_I h_I i~_E
+نهیں n_B y_I i_E
+نهیں n_B y_I i~_E
+نوٹ n_B o_I t'_E
+نے n_B Y_E
+نے n_B e_E
+هاتھ h_B A_I tdh_E
+هالینڈ h_B A_I l_I Y_I n_I d'_E
+هر h_B y_I r_E
+هریالی h_B y_I r_I j_I A_I l_I i_E
+هم h_B y_I m_E
+هماری h_B y_I m_I A_I r_I i_E
+همارے h_B y_I m_I A_I r_I e_E
+همیں h_B y_I m_I e~_E
+هند h_B i_I n_I dd_E
+هندوستان h_B i_I n_I dd_I u_I s_I td_I A_I n_E
+هو h_B o_E
+هو h_B u_E
+هو o_S
+هوءی h_B u_I i_E
+هوا h_B U_I A_E
+هوا h_B y_I v_I A_E
+هوتا h_B o_I td_I A_E
+هوتا o_B td_I A_E
+هوتی h_B o_I td_I i_E
+هوتی o_B td_I i_E
+هوجاءے h_B o_I dZ_I A_I e_E
+هوجاتا h_B o_I dZ_I A_I td_I A_E
+هوجاتی h_B o_I dZ_I A_I td_I i_E
+هوسکتی h_B o_I s_I y_I k_I td_I i_E
+هونے h_B o_I n_I e_E
+هوچکی h_B o_I tS_I U_I k_I i_E
+هوگی h_B o_I g_I i_E
+هوں h_B o~_E
+هوں h_B u~_E
+هوں o~_S
+هوں u~_S
+هٹایا h_B y_I t'_I A_I j_I A_E
+هی h_B i_E
+هیں Y~_S
+هیں h_B Y~_E
+هے Y_S
+هے h_B Y_E
+و o_S
+و v_B A_I o_E
+و v_B y_E
+واقع v_B A_I q_I e_E
+واپس v_B A_I p_I i_I s_E
+وجه v_B y_I dZ_I A_E
+وجه v_B y_I dZ_I h_E
+وسعت v_B U_I s_I y_I td_E
+وقت v_B y_I q_I td_E
+وقت v_B y_I q_I y_I td_E
+وه v_B o_E
+وهاں v_B A~_E
+وهاں v_B y_I h_I A~_E
+ویل v_B i_I l_E
+ٹرین t'_B y_I r_I Y_I n_E
+ٹریکٹر t'_B y_I r_I Y_I k_I t'_I y_I r_E
+ٹریکٹرز t'_B y_I r_I Y_I k_I t'_I y_I r_I z_E
+ٹھنڈک t'h_B y_I n_I d'_I y_I k_E
+ٹیوب t'_B i_I j_I u_I b_E
+ٹیکس t'_B Y_I k_I s_E
+پا p_B A_E
+پاءی p_B A_I i_E
+پالیسیاں p_B A_I l_I i_I s_I i_I j_I A~_E
+پانی p_B A_I n_I i_E
+پاکستان p_B A_I k_I i_I s_I td_I A_I n_E
+پاکستانی p_B A_I k_I i_I s_I td_I A_I n_I i_E
+پر p_B U_I r_E
+پر p_B y_I r_E
+پروا p_B U_I r_I v_I A_E
+پسینے p_B y_I s_I i_I n_I e_E
+پنجاب p_B y_I n_I dZ_I A_I b_E
+پندره p_B y_I n_I dd_I r_I A_E
+پهلی p_B Y_I h_I l_I i_E
+پهلے p_B E_I h_I l_I e_E
+پوری p_B u_I r_I i_E
+پچھلے p_B i_I tSh_I l_I e_E
+پڑے p_B U_I r'_I e_E
+پھر ph_B i_I r_E
+پھل ph_B y_I l_E
+پھیلاتا ph_B Y_I l_I A_I td_I A_E
+پیدا p_B Y_I dd_I A_E
+پیداوار p_B Y_I dd_I A_I v_I A_I r_E
+پیداواری p_B Y_I dd_I A_I v_I A_I r_I i_E
+پیسوں p_B Y_I s_I o~_E
+پیٹ p_B i_I t'_E
+پیپلزپارٹی p_B i_I p_I y_I l_I z_I p_I A_I r_I t'_I i_E
+چند tS_B y_I n_I dd_E
+چوس tS_B u_I s_E
+چڑھاءو tS_B y_I r'h_I A_I o_E
+چھاپنے tSh_B A_I p_I n_I e_E
+چھیانوے tSh_B i_I j_I A_I n_I o_I e_E
+چیر tS_B i_I r_E
+چیز tS_B i_I z_E
+چین tS_B i_I n_E
+ڈاءی d'_B A_I i_E
+ڈالر d'_B O_I l_I y_I r_E
+ڈھانپنے d'h_B A_I m_I p_I n_I e_E
+ڈیری d'_B e_I r_I i_E
+ڈیوٹی d'_B i_I j_I u_I t'_I i_E
+ڈیڑھ d'_B e_I r'h_E
+کا k_B A_E
+کاربن k_B A_I r_I b_I y_I n_E
+کارخانے k_B A_I r_I x_I A_I n_I e_E
+کاشتکار k_B A_I S_I td_I k_I A_I r_E
+کاشتکاروں k_B A_I S_I td_I k_I A_I r_I o~_E
+کامسءله k_B A_I m_I y_I s_I y_I l_I A_E
+کر k_B y_I r_E
+کرتا k_B U_I r_I td_I A_E
+کرتاهے k_B y_I r_I td_I A_I h_I Y_E
+کرتی k_B U_I r_I td_I i_E
+کرتے k_B U_I r_I td_I e_E
+کردی k_B y_I r_I dd_I i_E
+کردیں k_B y_I r_I dd_I e~_E
+کردیں k_B y_I r_I dd_I i~_E
+کرنی k_B y_I r_I n_I i_E
+کرنے k_B y_I r_I n_I e_E
+کرکے k_B y_I r_I k_I e_E
+کرے k_B y_I r_I e_E
+کسان k_B i_I s_I A_I n_E
+کسانوں k_B i_I s_I A_I n_I o~_E
+کسی k_B i_I s_I i_E
+کل k_B U_I l_E
+کل k_B y_I l_E
+کلچر k_B y_I l_I tS_I y_I r_E
+کم k_B i_I m_E
+کم k_B y_I m_E
+کماءی k_B y_I m_I A_I i_E
+کمپنیوں k_B y_I m_I p_I y_I n_I i_I o~_E
+کمی k_B y_I m_I i_E
+کمیشن k_B y_I m_I i_I S_I y_I n_E
+که k_B e_E
+کو k_B o_E
+کوءی k_B o_I i_E
+کوریا k_B o_I r_I i_I j_I A_E
+کپاس k_B y_I p_I A_I s_E
+کپڑوں k_B y_I p_I r'_I o~_E
+کپڑے k_B y_I p_I r'_I e_E
+کچھ k_B U_I tSh_E
+کھاد kh_B A_I dd_E
+کھربوں kh_B y_I r_I b_I o~_E
+کھلیانوں kh_B y_I l_I j_I A_I n_I o~_E
+کھیت kh_B e_I td_E
+کھیتوں kh_B e_I td_I o~_E
+کی k_B i_E
+کیا k_B i_I A_E
+کیا k_B i_I j_I A_E
+کیلءے k_B e_I l_I i_I e_E
+کینیڈا k_B Y_I n_I e_I d'_I A_E
+کیونکه k_B i_I j_I u_I n_I k_I e_E
+کے k_B e_E
+گروتھ g_B y_I r_I O_I tdh_E
+گزرتی g_B U_I z_I y_I r_I td_I i_E
+گزشته g_B U_I z_I y_I S_I td_I A_E
+گل g_B U_I l_E
+گلزار g_B U_I l_I z_I A_I r_E
+گمبھیر g_B y_I m_I bh_I i_I r_E
+گندم g_B y_I n_I dd_I U_I m_E
+گی g_B i_E
+گیا g_B e_I A_E
+گیا g_B y_I j_I A_E
+گیاره g_B e_I A_I r_I A_E
+گے g_B e_E
+یا j_B A_E
+یه j_B e_E
+یهاں j_B y_I h_I A~_E
+یهی j_B e_I h_I i_E
+یهی j_B e_I i_E
+!SIL SIL_S
+<eps> SIL

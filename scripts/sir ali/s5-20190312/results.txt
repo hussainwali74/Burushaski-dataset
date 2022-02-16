@@ -1,0 +1,161 @@
+vol 0.01 59%
+vol 0.03 58%
+vol 0.1  49%
+vol 0.3  52%
+
+norm 0.003 52%
+norm 0.01  40%
+norm 0.03  47%
+
+total:
+norm 0.01	mono 42% 71%
+		tri1  22% 52% 
+		tri2a 22% 40% 
+
+total, only transcript lm
+norm 0.01	mono  28% 47%
+		tri1  14% 23%
+		tri2a 14% 26%
+		tri2b 16% 29%
+
+18 speakers, only transcript lm 
+		mono  39% 83% , speaker 17
+		tri1  21% 40%	
+		tri2a 22% 40%
+		tri2b 22% 36%
+
+18 speakers after correction, only transcript lm 
+		mono  39% 83% , speaker 17
+		tri1  22% 41%	
+		tri2a 22% 40%
+		tri2b 22% 36%
+
+18 speakers after correction, only transcript lm, norm 0.1
+		mono  36% 76% , speaker 17
+		tri1  20% 31%	
+		tri2a %22 %34
+		tri2b %20 %34
+
+20 speakers after correction, only transcript lm, norm 0.1
+		mono  39% 79% , speaker 17
+		tri1  22% 39% , speaker 17
+		tri1  22% 38% , speaker 17
+
+22 speakers after correction, only transcript lm, norm 0.1
+		mono  39% 71% , speaker 17
+		tri1  23% 36% , speaker 17
+		tri2a  22% 34% , speaker 17
+		tri2b  22% 34% , speaker 17
+
+23 speakers after correction, only transcript lm, norm 0.1
+		mono  40% 80% , speaker 17
+		tri1  22% 32%
+		tri2a  22% 41%
+
+23 speakers after lexicon correction, only transcript lm, norm 0.1
+		mono  38% 72% , speaker 17
+		tri1  21% 42%
+		tri2a  21% 37%
+		tri2b  21% 38%
+
+24 speakers after lexicon correction, only transcript lm, norm 0.1
+		mono  39% 77% , speaker 17
+		tri1  23% 34%
+
+25 speakers after lexicon correction, only transcript lm, norm 0.1
+		mono  38% 73% , speaker 17
+		tri1  23% 40%
+
+26 speakers after lexicon correction, only transcript lm, norm 0.1
+		mono   39% 75%, speaker 17
+		tri1   22% 38%, speaker 17
+		tri2a  22% 38%, speaker 17
+		tri2b  20% 33%, speaker 17
+
+27 speakers after lexicon correction, only transcript lm, norm 0.3
+		mono   41% 74%, speaker 17
+		tri1   24% 44%, speaker 17
+		tri2a   23% 37%, speaker 17
+		tri2b   23% 42%, speaker 17
+            tri2b_mmi   19% 38%, speaker 17
+	SAT	tri3b	17% 32%
+
+29 speakers after lexicon correction, only transcript lm, norm 0.3
+		mono   42% 76%, speaker 17
+		tri1   23% 39%, speaker 17
+		tri2a   22% 38%, speaker 17
+
+31 speakers after lexicon correction, only transcript lm, norm 0.3
+		mono   42% 75%, speaker 17
+		tri1   24% 40%, speaker 17
+		tri2a   23% 33%, speaker 17
+		tri2b_mmi   20% 31%, speaker 17
+		tri2b_mpe   19% 30%, speaker 17
+
+31 speakers after lexicon correction, only transcript lm, norm 0.3, lexicon icorrect
+		mono   40% 68%, speaker 17
+		tri1   23% 39%, speaker 17
+		tri2a   23% 34%, speaker 17
+		tri2b   21% 34%, speaker 17
+		tri2b_mmi   19% 33%, speaker 17
+		tri2b_mpe   19% 34%, speaker 17
+
+31 speakers after lexicon correction, large lm, norm 0.3
+		mono   54% 83%, speaker 17
+		tri1   33% 57%, speaker 17
+		tri2a   33% 58%, speaker 17
+		tri2b   29% 50%, speaker 17
+		tri2b_mmi   % %, speaker 17
+		tri2b_mpe   % %, speaker 17
+
+35 speakers after lexicon correction, only transcript lm, norm 0.3, lexicon icorrect
+		mono  		45% 76%, speaker 17
+		tri1 		25% 42%, speaker 17
+		tri2a  		25% 42%, speaker 17
+		tri2b   	23% 36%, speaker 17
+		tri2b_mmi	20% 34%
+		tri2b_mpe	21% 35%
+		tri3b		20% 34%
+		tri3b_mmi	17% 32%
+		nnet2_1x2k	17% 36%
+		nnet2_2x1.2k	16% 31%
+		nnet2_3x1.2k	16% 28%
+		nnet2_3x1.2k.SI	15% 31%
+
+40 speakers after lexicon correction, only transcript lm, norm 0.3, lexicon icorrect
+		mono  		43% 79%, speaker 17
+		tri1 		25% 46%, speaker 17
+		tri2a  		24% 42%, speaker 17
+		tri2b  		23% 35%, speaker 17
+
+40 speakers recog, 110 speakers training after lexicon correction, only transcript lm, norm 0.3, lexicon icorrect
+		mono  		54% 71%, speaker 17
+		tri1 		29% 48%, speaker 17
+		tri2a  		29% 58%, speaker 17
+		tri2b  		28% 55%, speaker 17
+
+40 speakers recog, 132 speakers training after lexicon correction, only transcript lm, norm 0.3, lexicon icorrect
+		mono  		54% 81%, speaker 17
+		tri1 		31% 57%, speaker 17
+		tri2a  		30% 61%, speaker 17
+		tri2b  		% %, speaker 17
+
+40 speakers recog, 193 speakers training after lexicon correction, only transcript lm, norm 0.3, lexicon icorrect
+		mono  		56% 86%, speaker 17
+		tri1 		33% 64%, speaker 17
+		tri2a  		33% 60%, speaker 17
+		tri2b  		31% 58%, speaker 17
+
+40 speakers recog, 222 speakers training after lexicon correction, only transcript lm, norm 0.3, lexicon icorrect
+		mono  		58% 87%, speaker 17
+		tri1  		32% 60%, speaker 17
+		tri2a  		33% 67%, speaker 17
+		tri2b  		31% 67%, speaker 17
+
+40 speakers recog, 227 speakers training after lexicon correction, only transcript lm, norm 0.3, lexicon icorrect
+                mono            59% 89%, speaker 17
+                tri1            34% 69%, speaker 17
+                tri2a           34% 65%, speaker 17
+                tri2b           31% 68%, speaker 17
+
+

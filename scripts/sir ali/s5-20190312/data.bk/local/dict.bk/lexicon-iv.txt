@@ -1,0 +1,121 @@
+صرف s y r f 
+صرف s y r y f 
+صرف s i r f 
+صرف s i r y f 
+اب y b 
+اپنا y p n A 
+اجازت i d_Z A z y t_d 
+اجناس y d_Z n A s 
+اس U s 
+اس i s 
+اسحاق i s h A q 
+اضافه i z A f A 
+افراد y f r A d_d 
+اقتدار i q t_d i d_d A r 
+اناج y n A d_Z 
+انڈسٹری i n d' y s t' i r i 
+اور O r 
+اور o r 
+بنانا b y n A n A 
+بنایا b y n A j A 
+بڑی b y r' i 
+بھر b_h y r 
+بھی b_h i 
+بیچ b i t_S 
+بیس b i s 
+پر p U r 
+پر p y r 
+پھل p_h y l 
+پهیه p y h i j A 
+پیدا p Y d_d A 
+تاکه t_d A k e 
+تباه t_d y b A 
+ترقی t_d y r y q q i 
+تک t_d U k 
+تک t_d y k 
+جاءے d_Z A e 
+جس d_Z i s 
+چلتا t_S y l t_d A 
+حکمرانوں h U k m y r A n o~ 
+حکومت h U k u m y t_d 
+حکومت h y k u m y t_d 
+خاص x A s 
+خودکفیل x U d_d k y f i l 
+خوشحال x U S h A l 
+دنیا d_d U n j A 
+دودھ d_d u d_d_h 
+دی d_d i 
+زراعت z i r A y t_d 
+زرعی z y r i 
+زرمبادله z y r e m U b A d_d y l A 
+ساتھ s A t_d_h 
+سبزیاں s y b z i j A~ 
+سکیں s y k e~ 
+سکے s i k k e 
+سنجیدگی s y n d_Z i d_d y g i 
+سوچ s o t_S 
+سوچنا s o t_S n A 
+سے s e 
+شعبے S U b e 
+شوگر S u g y r 
+صاحب s A h i b 
+صنعتکار s y n y t_d k A r 
+صنعتوں s y n y t_d o~ 
+ضرورت z U r u r y t_d 
+طبقه t_d y b q A 
+طرف t_d y r f 
+طور t_d u r 
+طور t_d o r 
+طور t_d O r 
+فروخت f y r O x t_d 
+فری f r i 
+فلور f y l O r 
+کا k A 
+کام k A m 
+کر k y r 
+کرتا k U r t_d A 
+کررهے k y r r y h e 
+کرنے k y r n e 
+کروڑ k y r O r' 
+کسان k i s A n 
+کسانوں k i s A n o~ 
+کو k o 
+که k e 
+کی k i 
+کے k e 
+لءے l i e 
+لاتا l A t_d A 
+لیں l i~ 
+لیں l e~ 
+لے l e 
+مارکیٹ m A r k i t' 
+مال m A l 
+مسءلے m y s y l e 
+مشوره m y S v y r A 
+ملز m i l z 
+ملک m i l k 
+ملک m y l i k 
+ملک m U l k 
+ملکی m U l k i 
+ممالک m y m A l i k 
+منصوبه m y n s u b A 
+میرا m i r A 
+میں m e~ 
+میں m Y~ 
+میں m e 
+میں m Y 
+والے v A l e 
+وزیرخزانه v y z i r e x y z A n A 
+ٹیکسٹاءل t' Y k s t' A i l 
+ڈار d' A r 
+همیں h y m e~ 
+هوگا h o g A 
+هیں h Y~ 
+هیں Y~ 
+هے h Y 
+هے Y 
+یا j A 
+یافته j A f t_d A 
+یه j e 
+استحصال i s t_d i h s A l 
+شهروں S y h r o~ 

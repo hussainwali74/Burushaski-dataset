@@ -1,0 +1,1178 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/lib/lightbox/css/lightbox.min.css" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/style/content/font.css?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0" /><link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/style/content/content.css?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0" /><!--[if lt IE 9]><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script><![endif]--><!--[if gte IE 9]>
+<!--><script src="https://t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.2.1.min.js"></script><!--<![endif]-->
+<script src="https://t1.daumcdn.net/tistory_admin/lib/lightbox/js/lightbox-plus-jquery.min.js"></script>
+<script>
+lightbox.options.fadeDuration = 200;
+lightbox.options.resizeDuration = 200;
+lightbox.options.wrapAround = false;
+lightbox.options.albumLabel = "%1 / %2";
+</script>
+<script>var tjQuery = jQuery.noConflict(true);</script><style type="text/css">.tt_article_useless_p_margin p {padding-top:0 !important;padding-bottom:0 !important;margin-top:0 !important;margin-bottom:0 !important;}</style><meta name="referrer" content="always"><link rel="icon" href="//t1.daumcdn.net/tistory_admin/static/top/favicon_0630.ico" /><link rel="apple-touch-icon" href="//img1.daumcdn.net/thumb/C180x180/?fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F3543662%2Fattach%2Faca6f8a19a1645ddae6c8985bf5fc33f">
+<link rel="apple-touch-icon" sizes="76x76" href="//img1.daumcdn.net/thumb/C76x76/?fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F3543662%2Fattach%2Faca6f8a19a1645ddae6c8985bf5fc33f">
+<link rel="apple-touch-icon" sizes="120x120" href="//img1.daumcdn.net/thumb/C120x120/?fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F3543662%2Fattach%2Faca6f8a19a1645ddae6c8985bf5fc33f">
+<link rel="apple-touch-icon" sizes="152x152" href="//img1.daumcdn.net/thumb/C152x152/?fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F3543662%2Fattach%2Faca6f8a19a1645ddae6c8985bf5fc33f">
+<meta name="google-adsense-platform-account" content="ca-host-pub-9691043933427338">
+<meta name="google-adsense-platform-domain" content="tistory.com">
+<meta name="description" content="지난번에 했던 예제는 나에게 불필요한 기능이 너무 많아서 다른 포스트를 보고 다시 시도한다. 1. kaldi projects 다운로드 git clone https://github.com/kaldi-asr/kaldi.git 본인이 설치하고 싶은 곳에 kaldi..">
+
+<!-- BEGIN OPENGRAPH -->
+<link rel="canonical" href="https://hanseokhyeon.tistory.com/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" /><meta property="og:type" content="article"><meta property="og:url" content="https://hanseokhyeon.tistory.com/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" ><meta property="og:article:author" content="HanSeokhyeon" ><meta property="og:site_name" content="HanSeokhyeon.log" ><meta property="og:title" content="Kaldi 예제 Voxforge 데이터" ><meta name="by" content="HanSeokhyeon" ><meta property="og:description" content="지난번에 했던 예제는 나에게 불필요한 기능이 너무 많아서 다른 포스트를 보고 다시 시도한다. 1. kaldi projects 다운로드 git clone https://github.com/kaldi-asr/kaldi.git 본인이 설치하고 싶은 곳에 kaldi.." ><meta property="og:image" content="https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png" ><meta property="article:section" content="IT 인터넷" >
+<!-- END OPENGRAPH -->
+
+
+
+<!-- BEGIN TWITTERCARD -->
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@TISTORY"><meta name="twitter:title" content="Kaldi 예제 Voxforge 데이터" ><meta name="twitter:description" content="지난번에 했던 예제는 나에게 불필요한 기능이 너무 많아서 다른 포스트를 보고 다시 시도한다. 1. kaldi projects 다운로드 git clone https://github.com/kaldi-asr/kaldi.git 본인이 설치하고 싶은 곳에 kaldi.." ><meta property="twitter:image" content="https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png" >
+<!-- END TWITTERCARD -->
+
+
+
+<!-- BEGIN DAUMAPP -->
+<meta property="dg:plink" content="https://hanseokhyeon.tistory.com/40" ><meta name="plink" content="https://hanseokhyeon.tistory.com/40" ><meta name="title" content="Kaldi 예제 Voxforge 데이터" ><meta name="article:media_name" content="HanSeokhyeon.log" ><meta property="article:mobile_url" content="https://hanseokhyeon.tistory.com/m/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" ><meta property="article:pc_url" content="https://hanseokhyeon.tistory.com/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" ><meta property="article:mobile_view_url" content="https://hanseokhyeon.tistory.com/m/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" ><meta property="article:pc_view_url" content="https://hanseokhyeon.tistory.com/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" ><meta property="article:talk_channel_view_url" content="https://hanseokhyeon.tistory.com/m/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" ><meta property="article:pc_service_home" content="https://www.tistory.com" ><meta property="article:mobile_service_home" content="https://www.tistory.com/m" ><meta property="article:txid" content="3543662_40" /><meta property="article:published_time" content="2020-01-21T16:53:32+09:00" ><meta property="og:regDate" content="20200121165332" ><meta property="article:modified_time" content="2020-04-11T17:10:42+09:00" >
+<!-- END DAUMAPP -->
+
+
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BlogPosting","mainEntityOfPage":{"@id":"https:\/\/hanseokhyeon.tistory.com\/entry\/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0"},"url":"https:\/\/hanseokhyeon.tistory.com\/entry\/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0","headline":"Kaldi \uc608\uc81c Voxforge \ub370\uc774\ud130","description":"\uc9c0\ub09c\ubc88\uc5d0 \ud588\ub358 \uc608\uc81c\ub294 \ub098\uc5d0\uac8c \ubd88\ud544\uc694\ud55c \uae30\ub2a5\uc774 \ub108\ubb34 \ub9ce\uc544\uc11c \ub2e4\ub978 \ud3ec\uc2a4\ud2b8\ub97c \ubcf4\uace0 \ub2e4\uc2dc \uc2dc\ub3c4\ud55c\ub2e4. 1. kaldi projects \ub2e4\uc6b4\ub85c\ub4dc git clone https:\/\/github.com\/kaldi-asr\/kaldi.git \ubcf8\uc778\uc774 \uc124\uce58\ud558\uace0 \uc2f6\uc740 \uacf3\uc5d0 kaldi..","author":{"@type":"Person","name":"HanSeokhyeon"},"image":{"@type":"ImageObject","url":"https:\/\/t1.daumcdn.net\/tistory_admin\/static\/images\/openGraph\/opengraph.png","width":"800px","height":"800px"},"datePublished":"20200121T16:53:32+09:00","dateModified":"20200411T17:10:42+09:00","publisher":{"@type":"Organization","name":"TISTORY","logo":{"@type":"ImageObject","url":"https:\/\/t1.daumcdn.net\/tistory_admin\/static\/images\/openGraph\/opengraph.png","width":"800px","height":"800px"}}}</script><meta name="robots" content="max-image-preview:large">
+<!-- END STRUCTURED_DATA -->
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+<title>Kaldi 예제 Voxforge 데이터</title>
+<link rel="stylesheet" href="https://tistory2.daumcdn.net/tistory/0/BookClub/style.css">
+<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script>
+<style type="text/css">
+
+.entry-content a, .post-header h1 em, .comments h2 .count {color:#04beb8}
+.comment-form .submit button:hover, .comment-form .submit button:focus {background-color:#04beb8}
+
+
+
+</style>
+
+<style type="text/css">
+		#daumSearchBox {
+			height: 21px;
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bg_search2_2.gif);
+			margin: 5px auto ;
+			padding: 0;
+		}
+		#daumSearchBox input {
+			background: none;
+			margin : 0;
+			padding : 0;
+			border : 0;
+		}
+		#daumSearchBox #daumLogo {
+			width: 34px;
+			height: 21px;
+			float: left;
+			margin-right: 5px;
+			background-image : url(//i1.daumcdn.net/img-media/tistory/img/bg_search1_2_2010ci.gif);
+		}
+		#daumSearchBox #show_q {
+			background-color: transparent;
+			border: none;
+			font: 12px Gulim, Sans-serif;
+			color: #555;
+			margin-top: 4px;
+			margin-right: 15px;
+			float: left;
+		}
+
+		#daumSearchBox #show_btn {
+			background-image : url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bt_search_2.gif);
+			width: 37px;
+			height: 21px;
+			float: left;
+			margin:0;
+			cursor:pointer;
+			text-indent:-1000em;
+		}
+	</style>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/plugins/TistoryProfileLayer/style.css?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0" />
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/plugins/TistoryProfileLayer/profile.js?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0"></script>
+	<style type="text/css">
+		.another_category { border: 1px solid #E5E5E5; padding: 10px 10px 5px; margin:10px 0; clear: both; }
+		.another_category h4 { font-size: 12px !important; margin: 0 !important; border-bottom: 1px solid #E5E5E5 !important; padding: 2px 0 6px !important; }
+		.another_category h4 a { font-weight: bold !important; }
+		.another_category table { table-layout: fixed; border-collapse: collapse; width: 100% !important; margin-top: 10px !important; }
+		* html .another_category table { width: auto !important; }
+		*:first-child+html .another_category table { width: auto !important; }
+		.another_category th, .another_category td { padding: 0 0 4px !important; }
+		.another_category th { text-align: left; font-size: 12px !important; font-weight: normal;  word-break: break-all; overflow: hidden; line-height: 1.5; }
+		.another_category td { text-align: right; width: 80px; font-size: 11px; }
+		.another_category th a { font-weight: normal; text-decoration: none; border: none !important; }
+		.another_category th a.current{ font-weight: bold; text-decoration: none !important; border-bottom: 1px solid !important; }
+		.another_category th span { font-weight: normal; text-decoration: none; font: 10px Tahoma, Sans-serif; border: none !important; }
+
+		.another_category_color_gray, .another_category_color_gray h4 { border-color: #E5E5E5 !important; }
+		.another_category_color_gray * { color: #909090 !important; }
+		.another_category_color_gray th a.current{border-color:#909090 !important;}
+		.another_category_color_gray h4, .another_category_color_gray h4 a { color: #737373 !important; }
+
+
+		.another_category_color_red, .another_category_color_red h4 { border-color: #F6D4D3 !important;  }
+		.another_category_color_red * { color: #E86869 !important; }
+		.another_category_color_red th a.current{border-color:#E86869 !important;}
+		.another_category_color_red h4, .another_category_color_red h4 a { color: #ED0908 !important; }
+
+
+		.another_category_color_green, .another_category_color_green h4 { border-color: #CCE7C8 !important; }
+		.another_category_color_green * { color: #64C05B !important; }
+		.another_category_color_green th a.current{border-color:#64C05B !important;}
+		.another_category_color_green h4, .another_category_color_green h4 a { color: #3EA731 !important; }
+
+
+		.another_category_color_blue, .another_category_color_blue h4 { border-color: #C8DAF2 !important; }
+		.another_category_color_blue * { color: #477FD6 !important; }
+		.another_category_color_blue th a.current{border-color:#477FD6 !important;}
+		.another_category_color_blue h4, .another_category_color_blue h4 a { color: #1960CA !important; }
+
+
+		.another_category_color_violet, .another_category_color_violet h4 { border-color: #E1CEEC !important;  }
+		.another_category_color_violet * { color:#9D64C5 !important; }
+		.another_category_color_violet th a.current{border-color:#9D64C5 !important;}
+		.another_category_color_violet h4, .another_category_color_violet h4 a { color: #7E2CB5 !important; }
+	</style>
+<script type="text/javascript">
+        
+        window.TistoryBlog = {
+            basePath: "",
+            url: "https://hanseokhyeon.tistory.com",
+            tistoryUrl: "https://hanseokhyeon.tistory.com",
+			manageUrl: 'https://hanseokhyeon.tistory.com/manage',
+            token: 'Yorh+DJrGkS4XsF9Gf8Efg=='
+        };
+        var servicePath = "";
+        var blogURL = "";
+    </script>
+
+	<script> (function() { window.orgjQuery = window.jQuery; window.jQuery = tjQuery })()</script>
+    <script type="text/javascript" defer src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0></script>
+    <script> (function() { window.jQuery = window.orgjQuery; delete window.orgjQuery })()</script>
+        <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/script/_/base.js?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0"></script>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/style/dialog.css?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0"/>
+            <link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css">
+    <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/style/postBtn.css?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0"/>
+        <link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/style/component/tistory.css?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0" />
+        <script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js"></script></head>
+<body id="tt-body-page" class="layout-aside-right paging-number promotion-mobile-hide">
+<script type="text/javascript">
+	(function() {
+		if (!window.T) {
+			window.T = {}
+		}
+		window.T.config = {"TOP_SSL_URL":"https:\/\/www.tistory.com","PREVIEW":false,"ROLE":"guest","PREV_PAGE":"\/entry\/Docker\ub85c-\ub525\ub7ec\ub2dd\ud558\uae30-Pytorch","NEXT_PAGE":"\/entry\/make\uc640-Makefile-\uc0ac\uc6a9\ud558\uae30","BLOG":{"isDormancy":false,"title":"HanSeokhyeon.log"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https:\/\/www.tistory.com\/auth\/login\/?redirectUrl=http%3A%2F%2Fhanseokhyeon.tistory.com%2Fentry%2FKaldi-%25EC%2598%2588%25EC%25A0%259C-Voxforge-%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0","DEFAULT_URL":"https:\/\/hanseokhyeon.tistory.com","USER":{"name":null,"homepage":null},"ROLE_GROUP":"visitor","SUBSCRIPTION":{"status":"none","isConnected":false,"isProcessing":false,"isPending":false,"isWait":false,"isNone":true},"IS_LOGIN":false,"HAS_BLOG":false,"TOP_URL":"https:\/\/www.tistory.com","JOIN_URL":"https:\/\/www.tistory.com\/member\/join"};
+		window.appInfo = {"domain":"tistory.com","topUrl":"https:\/\/www.tistory.com","loginUrl":"https:\/\/www.tistory.com\/auth\/login","logoutUrl":"https:\/\/www.tistory.com\/auth\/logout"};
+
+        window.initData = {};
+        
+	})();
+</script>
+
+<script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/script/blog/common.js?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0"></script>
+<div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+<div id="acc-nav">
+	<a href="#content">본문 바로가기</a>
+</div>
+<div id="wrap">
+	<header id="header">
+		<div class="inner">
+			<h1>
+				<a href="/">
+					
+					
+						HanSeokhyeon.log
+					
+				</a>
+			</h1>
+			<div class="util">
+				<div class="search">
+					
+						<input type="text" name="search" value="" placeholder="검색내용을 입력하세요." onkeypress="if (event.keyCode == 13) { try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){} }">
+						<button type="submit" onclick="try{window.location.href='/search/'+looseURIEncode(document.getElementsByName('search')[0].value);document.getElementsByName('search')[0].value='';return false;}catch(e){}">검색</button>
+					
+				</div>
+				<div class="profile">
+					<button type="button"><img src="https://tistory4.daumcdn.net/tistory/3543662/attach/aca6f8a19a1645ddae6c8985bf5fc33f" alt="블로그 이미지" /></button>
+					<nav>
+						<ul>
+							<li><a href="https://hanseokhyeon.tistory.com/manage">관리</a></li>
+							<li><a href="https://hanseokhyeon.tistory.com/manage/entry/post ">글쓰기</a></li>
+							<li class="login"><a href="#">로그인</a></li>
+							<li class="logout"><a href="#">로그아웃</a></li>
+						</ul>
+					</nav>
+				</div>
+				<button type="button" class="menu"><span>메뉴</span></button>
+			</div>
+			<nav id="gnb">
+				<ul>		<li class="t_menu_home first">
+			<a href="/">홈</a>
+		</li>
+				<li class="t_menu_tag">
+			<a href="/tag">태그</a>
+		</li>
+				<li class="t_menu_guestbook last">
+			<a href="/guestbook">방명록</a>
+		</li>
+		</ul>
+			</nav>
+		</div>
+	</header>
+	<section id="container">
+		
+			<div class="main-slider">
+				<ul>
+					<li style="background-image: url(https://tistory4.daumcdn.net/tistory/3543662/skinSetting/7b9bd793d6ec48598f95bd9bc7dc5ce5);">
+						
+						
+							<span class="inner">
+								<span class="box">
+									
+								</span>
+							</span>
+						
+					</li>
+					
+					
+				</ul>
+			</div>
+		
+		<div class="content-wrap">
+			<article id="content">
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				<div class="inner">
+					
+
+						
+
+						
+							<div class="post-cover">
+								<div class="inner">
+									<span class="category">전공/음성인식</span>
+									<h1>Kaldi 예제 Voxforge 데이터</h1>
+									<span class="meta">
+										<span class="author">by HanSeokhyeon</span>
+										<span class="date">2020. 1. 21.</span>
+										
+									</span>
+								</div>
+							</div>
+
+							<div class="entry-content">
+								<div class="contents_style"><p>지난번에 했던 예제는 나에게 불필요한 기능이 너무 많아서 다른 포스트를 보고 다시 시도한다.</p>
+<h1>1. kaldi projects 다운로드</h1>
+<pre class="crmsh"><code>git clone https://github.com/kaldi-asr/kaldi.git</code></pre>
+<p>본인이 설치하고 싶은 곳에 kaldi 프로젝트를 clone하자.</p>
+<pre class="jboss-cli"><code>cd kaldi
+ls</code></pre>
+<p>output:</p>
+<pre class="reasonml"><code>CMakeLists.txt  COPYING  INSTALL  README.md  cmake  docker  egs  misc  scripts  src  tools  windows</code></pre>
+<p>프로젝트 안에는 이러한 디렉토리와 파일들이 있다.</p>
+<h1>2. path 설정</h1>
+<p>나는 voxforge 예제를 실행할 것이기 때문에 voxforge의 디렉토리로 이동해야한다.</p>
+<pre class="jboss-cli"><code>cd egs/voxforge/s5
+ls</code></pre>
+<p>output:</p>
+<pre class="stata"><code>cmd.sh  conf  getdata.sh  local  path.sh  run.sh  steps  utils</code></pre>
+<p><code>s5</code> 디렉토리에 <code>path.sh</code>를 열면 voxforge의 <code>DATA_ROOT</code>가 주석처리 되어있다. 이를 없애보자.</p>
+<pre class="vim"><code>vim path.sh</code></pre>
+<p>output:</p>
+<pre class="shell"><code>...
+
+# VoxForge data will be stored in:
+# export DATA_ROOT="$KALDI_ROOT/egs/voxforge/s5/voxforge"    # e.g. something like /media/secondary/voxforge
+
+...</code></pre>
+<p><code>export</code> 앞에 #을 지워 주석처리를 제거하자. 제거했으면 저장후 <code>path.sh</code>를 실행해준다.</p>
+<pre class="dos"><code>./path.sh</code></pre>
+<h1>3. Voxforge DATASET 다운로드</h1>
+<p>kaldi는 친절하게 데이터셋 다운로드하는 스크립트를 다 작성해두었다. 용량이 20GB가 넘으니 공간 확보 후 실행해보자.</p>
+<pre class="jboss-cli"><code>./getdata.sh</code></pre>
+<p>output:</p>
+<pre class="angelscript"><code>FINISHED --2019-12-16 15:32:47--
+Total wall clock time: 1h 4m 59s
+Downloaded: 6252 files, 10G in 44m 34s (3.99 MB/s)
+--- Starting VoxForge archives extraction ...</code></pre>
+<h1>4. kaldi 환경 구축</h1>
+<h2>4-1. package</h2>
+<pre class="mipsasm"><code>sudo apt install gawk
+sudo apt install coreutils
+sudo apt install swig
+sudo apt install flac</code></pre>
+<p>한번에 설치할 수도 있지만 설치에 실패하고 출력되는 로그를 지나칠 수 있으므로 하나하나씩 해주자.</p>
+<h2>4-2. SRILM</h2>
+<p>다음은 <code>kaldi/tools</code>에 있는 <code>install_srilm.sh</code>을 실행시켜주자.</p>
+<pre class="jboss-cli"><code>cd kaldi/tools
+
+./install_srilm.sh</code></pre>
+<p>output:</p>
+<pre class="livecodeserver"><code>...
+This script cannot install SRILM in a completely automatic
+way because you need to put your address in a download form.
+Please download SRILM from http://www.speech.sri.com/projects/srilm/download.html
+put it in ./srilm.tgz, then run this script.</code></pre>
+<p>다운로드 양식을 입력해야해서 SRILM을 완벽하게 자동으로 설치할 수 없다고 한다. 위에 주소로 들어가서 다운 받아주자. 1.7.2로 받자.</p>
+<p>다운로드하였다면 다운로드 폴더에 있을테고 그것을 ./srilm.tgz에 넣어주자.</p>
+<pre class="angelscript"><code>mv ~/Downloads/srilm-1.7.2.tar.gz ./srilm.tgz</code></pre>
+<p>옮겼으면 다시 설치파일을 실행하자.</p>
+<pre class="jboss-cli"><code>./install_srilm.sh</code></pre>
+<p>output:</p>
+<pre class="routeros"><code>...
+Installation of SRILM finished successfully
+Please source the tools/env.sh in your path.sh to enable it</code></pre>
+<h2>4-3. SEQUITUR</h2>
+<pre class="awk"><code>./extras/install_sequitur.sh</code></pre>
+<p>output:</p>
+<pre class="crystal"><code>python setup.py build
+Traceback (most recent call last):
+  File "setup.py", line 33, in &lt;module&gt;
+    import numpy
+ImportError: No module named numpy
+Makefile:6: recipe for target 'build' failed
+make: *** [build] Error 1
+USER SITE: /home/han/.local/lib/python2.7/site-packages
+SEQUITUR_PACKAGE: lib/python2.7/site-packages
+SEQUITUR: /home/han/kaldi/tools/sequitur-g2p/lib/python2.7/site-packages
+PYTHONPATH: 
+Traceback (most recent call last):
+  File "setup.py", line 33, in &lt;module&gt;
+    import numpy
+ImportError: No module named numpy
+Problem installing sequitur!</code></pre>
+<p>numpy가 없다고 한다. 파이썬 2.7은 평소에 쓰질 않아서 그렇다.</p>
+<pre class="cmake"><code>pip install numpy</code></pre>
+<p>다시 <code>install_sequitur.sh</code>를 실행하였다.</p>
+<p>output:</p>
+<pre class="crystal"><code>Using /home/han/.local/lib/python2.7/site-packages
+Finished processing dependencies for sequitur==1.0a1
+find: &lsquo;./lib64&rsquo;: 그런 파일이나 디렉터리가 없습니다
+Installation of SEQUITUR finished successfully
+Please source tools/env.sh in your path.sh to enable it</code></pre>
+<p>그런 파일이나 디렉토리가 없다고 하지만 설치가 성공적으로 됐다니깐 넘어가자.</p>
+<h2>4-4. cmd.sh 수정</h2>
+<pre class="dockerfile"><code>vim cmd.sh</code></pre>
+<p><code>cmd.sh</code> 안에 내용을 바꿔주자</p>
+<pre class="routeros"><code>export train_cmd="queue.pl --mem 2G"
+export decode_cmd="queue.pl --mem 4G"
+export mkgraph_cmd="queue.pl --mem 8G"</code></pre>
+<p>를</p>
+<pre class="routeros"><code>export train_cmd="run.pl --mem 2G"
+export decode_cmd="run.pl --mem 4G"
+export mkgraph_cmd="run.pl --mem 8G"</code></pre>
+<p>로 바꿔주자.</p>
+<h1>5. path.sh와 run.sh</h1>
+<p>path.sh로 환경변수를 다시 설정하고 run.sh를 실행시키자.</p>
+<pre class="stata"><code>./path.sh
+./run./sh</code></pre>
+<p>output:</p>
+<pre class="livecodeserver"><code>...
+--- Preparing pronunciations for OOV words ...
+failed to convert "-pau-": translation failed
+failed to convert "&lt;unk&gt;": translation failed
+...
+utils/prepare_lang.sh: line 466: fstcompile: command not found
+utils/prepare_lang.sh: line 468: fstarcsort: command not found
+Traceback (most recent call last):
+  File "utils/lang/make_lexicon_fst.py", line 411, in &lt;module&gt;
+    main()
+  File "utils/lang/make_lexicon_fst.py", line 401, in main
+    left_context_phones=left_context_phones)
+  File "utils/lang/make_lexicon_fst.py", line 278, in write_fst_with_silence
+    cost=(pron_cost if i == 0 else 0.0)))
+BrokenPipeError: [Errno 32] Broken pipe
+...</code></pre>
+<p>왜 이런 에러가 나냐면 git에서 kaldi 프로젝트를 clone만 하고 컴파일을 하지 않아서 그렇다.<br /><a href="https://hanseokhyeon.github.io/kardi-tutorial/">5번, 6번</a>을 참고하자.</p>
+<p>정상적으로 kaldi를 컴파일하고 다시 실행하니 동작한다. 그러나 엄청 오래 걸리는것 같다...</p>
+<hr />
+<p>출처:<br /><a href="https://jybaek.tistory.com/772">https://jybaek.tistory.com/772</a></p><div class="container_postbtn #post_button_group">
+    <div class="postbtn_like">
+        
+<script>
+    window.ReactionButtonType = 'reaction';
+    window.ReactionApiUrl = '//hanseokhyeon.tistory.com/reaction';
+    window.ReactionReqBody = {
+        entryId: 40    }
+</script>
+<div class="wrap_btn" id=reaction-40></div>
+<script src=https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/script/reaction/reaction-button-container.min.js?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0></script>
+        <div class="wrap_btn wrap_btn_share">
+    <button type="button" class="btn_post sns_btn btn_share" data-thumbnail-url="https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png" data-title="Kaldi 예제 Voxforge 데이터" data-description="지난번에 했던 예제는 나에게 불필요한 기능이 너무 많아서 다른 포스트를 보고 다시 시도한다. 1. kaldi projects 다운로드 git clone https://github.com/kaldi-asr/kaldi.git 본인이 설치하고 싶은 곳에 kaldi.." data-profile-image="https://tistory4.daumcdn.net/tistory/3543662/attach/aca6f8a19a1645ddae6c8985bf5fc33f" data-profile-name="HanSeokhyeon" data-pc-url="https://hanseokhyeon.tistory.com/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" data-relative-pc-url="/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0" data-blog-title="HanSeokhyeon.log">
+        <span class="ico_postbtn ico_share">공유하기</span>
+    </button>
+</div>
+                <div class="wrap_btn wrap_btn_etc" data-entry-id="40" data-entry-visibility="public" data-category-visibility="public">
+    <button type="button" class="btn_post btn_etc2"><span class="ico_postbtn ico_etc">글 요소</span></button>
+</div>
+    </div>
+    <button type="button" class="btn_menu_toolbar btn_subscription  #subscribe" data-blog-id="3543662" data-url="https://hanseokhyeon.tistory.com/40" data-device="web_pc">
+    <em class="txt_state">구독하기</em>
+    <strong class="txt_tool_id">HanSeokhyeon.log</strong>
+    <span class="img_common_tistory ico_check_type1"></span>
+</button>
+    <div class="postbtn_ccl" data-ccl-type="3">
+    <a href="https://creativecommons.org/licenses/by/4.0/deed.ko" target="_blank" class="link_ccl" rel="license">
+        <span class="bundle_ccl">
+            <span class="ico_postbtn ico_ccl1">저작자표시</span>        </span>
+    </a>
+</div>
+    <!--
+<rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+        <license rdf:resource="http://creativecommons.org/licenses/by-fr/2.0/kr/" />
+    </Work>
+    <License rdf:about="http://creativecommons.org/licenses/by-fr/">
+        <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <requires rdf:resource="http://web.resource.org/cc/Notice"/>
+        <requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+                <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+                    </License>
+</rdf:RDF>
+-->
+</div><div class="another_category another_category_color_gray">
+<h4>'<a href="/category/전공">전공</a>&nbsp;>&nbsp;<a href="/category/전공/음성인식">음성인식</a>' 카테고리의 다른 글</h4>
+<table>
+<tr>
+<th>
+<a href="/entry/Listen-Attend-and-Spell-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0?category=854708" >Listen, Attend and Spell 논문 리뷰</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.04.08</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0?category=854708"  class ="current" >Kaldi 예제 Voxforge 데이터</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.01.21</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/Kaldi-Kaldi-gstreamer-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%98%88%EC%A0%9C-%EC%8B%A4%ED%96%89?category=854708" >Kaldi, Kaldi gstreamer 설치 및 예제 실행</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.01.21</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/Phoneme-recognition-Spikegram-MFCC-Spectrogram-Melspectrogram?category=854708" >Phoneme recognition (Spikegram, MFCC, Spectrogram, Melspectrogram)</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.01.21</td>
+</tr>
+<tr>
+<th>
+<a href="/entry/Speech-Emotion-Recognition-%EC%97%B0%EA%B5%AC-%EA%B8%B0%EB%A1%9D?category=854708" >Speech Emotion Recognition 연구 기록</a>&nbsp;&nbsp;<span>(0)</span>
+</th>
+<td>
+2020.01.21</td>
+</tr>
+</table></div></div>
+							</div>
+
+							
+								<div class="tags">
+									<h2>태그</h2>
+									<a href="/tag/kaldi"  rel="tag">kaldi</a>,
+<a href="/tag/Tutorial"  rel="tag">Tutorial</a>,
+<a href="/tag/VoxForge"  rel="tag">VoxForge</a>,
+<a href="/tag/%EC%82%AC%EC%9A%A9%EB%B2%95"  rel="tag">사용법</a>,
+<a href="/tag/%EC%98%88%EC%A0%9C"  rel="tag">예제</a>
+								</div>
+							
+
+							
+								<div class="related-articles">
+									<h2>관련글</h2>
+									<ul>
+										
+											<li>
+												<a href="/entry/Listen-Attend-and-Spell-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0?category=854708">
+													<figure>
+														
+															<img src="//i1.daumcdn.net/thumb/C176x120/?fname=https://blog.kakaocdn.net/dn/d0Ue6k/btqDeIilS1q/ck2zfeARZJC1bgNKy1Z5Kk/img.png" alt="">
+														
+													</figure>
+													<span class="title">Listen, Attend and Spell 논문 리뷰</span>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/entry/Kaldi-Kaldi-gstreamer-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%98%88%EC%A0%9C-%EC%8B%A4%ED%96%89?category=854708">
+													<figure>
+														
+													</figure>
+													<span class="title">Kaldi, Kaldi gstreamer 설치 및 예제 실행</span>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/entry/Phoneme-recognition-Spikegram-MFCC-Spectrogram-Melspectrogram?category=854708">
+													<figure>
+														
+															<img src="//i1.daumcdn.net/thumb/C176x120/?fname=https://blog.kakaocdn.net/dn/wcqDZ/btqBphFFlDN/XrkJGHtwLF3V4KEGS9zXJK/img.png" alt="">
+														
+													</figure>
+													<span class="title">Phoneme recognition (Spikegram, MFCC, Spectrogram, Melspectrogram)</span>
+												</a>
+											</li>
+										
+											<li>
+												<a href="/entry/Speech-Emotion-Recognition-%EC%97%B0%EA%B5%AC-%EA%B8%B0%EB%A1%9D?category=854708">
+													<figure>
+														
+															<img src="//i1.daumcdn.net/thumb/C176x120/?fname=https://blog.kakaocdn.net/dn/ytHzh/btqBoxIT6LS/gXUgafBiKUpLu4Kku3bJ6k/img.png" alt="">
+														
+													</figure>
+													<span class="title">Speech Emotion Recognition 연구 기록</span>
+												</a>
+											</li>
+										
+									</ul>
+								</div>
+							
+
+							<div class="comments">
+									<h2>댓글<span class="count"><span id="commentCount40_0">0</span></span></h2>
+									<div id="entry40Comment">
+										
+
+										<form method="post" action="/comment/add/40" onsubmit="return false" style="margin: 0">
+											<div class="comment-form">
+												
+													<div class="field">
+														
+															<input type="text" name="name" placeholder="이름" value="">
+															<input type="password" name="password" maxlength="8" placeholder="비밀번호" value="">
+														
+														<div class="secret">
+															<input type="checkbox" name="secret" id="secret">
+															<label for="secret" tabindex="0">비밀글</label>
+														</div>
+													</div>
+												
+												<textarea name="comment" cols="" rows="4" placeholder="여러분의 소중한 댓글을 입력해주세요."></textarea>
+												<div class="submit">
+													<button type="submit" class="btn" onclick="addComment(this, 40); return false;">등록</button>
+												</div>
+											</div>
+										</form>
+								</div><script type="text/javascript">loadedComments[40]=true;findFragmentAndHighlight(40)</script>
+							</div>
+						
+
+					
+
+				</div>
+
+				
+
+				
+
+				
+					<div class="pagination">
+						<a  href='/entry/Docker로-딥러닝하기-Pytorch' class="prev ">이전</a>
+						
+							<a  href='/entry/TRAINING-NEURAL-AUDIO-CLASSIFIERS-WITH-FEW-DATA-논문-리뷰'><span >1</span></a>
+						
+							<a ><span >&middot;&middot;&middot;</span></a>
+						
+							<a  href='/entry/Riot-API-사용해보기-Python'><span >48</span></a>
+						
+							<a  href='/entry/Ubuntu-1804-고정-IP-설정하기'><span >49</span></a>
+						
+							<a  href='/entry/Mac에-ms-office-2019-설치'><span >50</span></a>
+						
+							<a  href='/entry/Docker로-딥러닝하기-Pytorch'><span >51</span></a>
+						
+							<a ><span class="selected">52</span></a>
+						
+							<a  href='/entry/make와-Makefile-사용하기'><span >53</span></a>
+						
+							<a  href='/entry/우분투에서-하드디스크-자동-마운트하기'><span >54</span></a>
+						
+							<a  href='/entry/Kaldi-Kaldi-gstreamer-설치-및-예제-실행'><span >55</span></a>
+						
+							<a  href='/entry/Phoneme-recognition-Spikegram-MFCC-Spectrogram-Melspectrogram'><span >56</span></a>
+						
+							<a ><span >&middot;&middot;&middot;</span></a>
+						
+							<a  href='/entry/첫글'><span >90</span></a>
+						
+						<a  href='/entry/make와-Makefile-사용하기' class="next ">다음</a>
+					</div>
+				
+
+				
+
+			</article>
+			<aside id="aside" class="sidebar">
+
+					<div class="sidebar-1">
+						
+								<!-- 카테고리 -->
+								<nav class="category">
+									<ul class="tt_category">
+	<li class="">
+		<a class="link_tit" href="/category">
+			분류 전체보기							<span class="c_cnt">(90)</span>
+			
+					</a>
+
+				<ul class="category_list">
+							<li class="">
+					<a class="link_item" href="/category/About%20me">
+						About me													<span class="c_cnt">(1)</span>
+						
+											</a>
+
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/Python">
+						Python													<span class="c_cnt">(7)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/Python/PyTorch">
+									PyTorch
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/Python/Librosa">
+									Librosa
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%96%B8%EC%96%B4">
+						언어													<span class="c_cnt">(7)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%96%B8%EC%96%B4/Markdown">
+									Markdown
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%96%B8%EC%96%B4/C">
+									C
+																			<span class="c_cnt">(5)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD">
+						개발 환경													<span class="c_cnt">(48)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/Mac">
+									Mac
+																			<span class="c_cnt">(4)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/Ubuntu">
+									Ubuntu
+																			<span class="c_cnt">(9)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/CentOS">
+									CentOS
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/Windows">
+									Windows
+																			<span class="c_cnt">(4)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/Docker">
+									Docker
+																			<span class="c_cnt">(15)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/Pycharm">
+									Pycharm
+																			<span class="c_cnt">(5)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/AWS">
+									AWS
+																			<span class="c_cnt">(3)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/Github">
+									Github
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/DataBase">
+									DataBase
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD/Kubernetes">
+									Kubernetes
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98">
+						알고리즘													<span class="c_cnt">(4)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/BOJ">
+									BOJ
+																			<span class="c_cnt">(4)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Samsung%20SW%20Expert%20Academy">
+									Samsung SW Expert Academy
+																			<span class="c_cnt">(0)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%A0%84%EA%B3%B5">
+						전공													<span class="c_cnt">(16)</span>
+						
+											</a>
+
+										<ul class="sub_category_list">
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%A0%84%EA%B3%B5/ESPnet">
+									ESPnet
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%A0%84%EA%B3%B5/Audio%20Signal%20Processing">
+									Audio Signal Processing
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%A0%84%EA%B3%B5/%EC%9D%8C%EC%84%B1%EC%9D%B8%EC%8B%9D">
+									음성인식
+																			<span class="c_cnt">(5)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%A0%84%EA%B3%B5/%EC%9D%8C%EC%84%B1%ED%95%A9%EC%84%B1">
+									음성합성
+																			<span class="c_cnt">(1)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%A0%84%EA%B3%B5/%EB%94%A5%EB%9F%AC%EB%8B%9D">
+									딥러닝
+																			<span class="c_cnt">(4)</span>
+									
+																	</a>
+							</li>
+													<li class="">
+								<a class="link_sub_item" href="/category/%EC%A0%84%EA%B3%B5/Kaldi">
+									Kaldi
+																			<span class="c_cnt">(2)</span>
+									
+																	</a>
+							</li>
+											</ul>
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EC%B7%A8%EC%97%85%EC%A4%80%EB%B9%84">
+						취업준비													<span class="c_cnt">(1)</span>
+						
+											</a>
+
+					
+				</li>
+							<li class="">
+					<a class="link_item" href="/category/%EA%B8%B0%ED%83%80">
+						기타													<span class="c_cnt">(6)</span>
+						
+											</a>
+
+					
+				</li>
+					</ul>
+			</li>
+</ul>
+								</nav>
+							
+					</div>
+					<div class="sidebar-2">
+						
+								<!-- 공지사항 -->
+								
+									<div class="notice">
+										<h2>공지사항</h2>
+										<ul>
+											
+										</ul>
+									</div>
+								
+							
+								<!-- 최근글/인기글 -->
+								<div class="post-list tab-ui">
+									<div id="recent" class="tab-list">
+										<h2>최근글</h2>
+										<ul>
+											
+												<li>
+													<a href="/entry/TRAINING-NEURAL-AUDIO-CLASSIFIERS-WITH-FEW-DATA-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0">
+														
+															<img src="//i1.daumcdn.net/thumb/C58x58/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FFlXjr%2FbtqMn4oFfLa%2FDKR1lCbEs6Rrkku2JUlHP0%2Fimg.png" alt="" />
+														
+														<span class="title">TRAINING NEURAL AUDIO CL⋯</span>
+														<span class="date">2020.11.02</span>
+													</a>
+												</li>
+											
+
+												<li>
+													<a href="/entry/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%84%EC%A0%81-%EC%9E%91%EC%84%B1%EC%A4%91">
+														
+														<span class="title">코딩테스트 전적</span>
+														<span class="date">2020.10.09</span>
+													</a>
+												</li>
+											
+
+												<li>
+													<a href="/entry/TACOTRON-TOWARDS-END-TO-END-SPEECH-SYN-THESIS-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0">
+														
+															<img src="//i1.daumcdn.net/thumb/C58x58/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fnz4ep%2FbtqJvTRs8Hj%2FVFOQPH5StM7spb6Ka8GYI1%2Fimg.png" alt="" />
+														
+														<span class="title">TACOTRON: TOWARDS END-TO⋯</span>
+														<span class="date">2020.09.25</span>
+													</a>
+												</li>
+											
+
+												<li>
+													<a href="/entry/2020917-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%99%98%EB%B6%88-%ED%9B%84%EA%B8%B0-%EC%95%84%EC%9D%B4%ED%8F%B0-or-%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%EB%A1%9C">
+														
+															<img src="//i1.daumcdn.net/thumb/C58x58/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbdim08%2FbtqIX3694VU%2F0B4Pw1Pp38VmPfgqWoCsWK%2Fimg.png" alt="" />
+														
+														<span class="title">[2020.9.17] 넷플릭스 환⋯</span>
+														<span class="date">2020.09.17</span>
+													</a>
+												</li>
+											
+
+												<li>
+													<a href="/entry/Pycharm%EC%97%90%EC%84%9C-server%EC%9D%98-docker-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0-%EB%AC%B4%EC%8A%A8-%EB%A7%90">
+														
+															<img src="//i1.daumcdn.net/thumb/C58x58/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbaXUPw%2FbtqHYJ9Pyx9%2FTprFvaQDAZDe4kg87GZrR1%2Fimg.png" alt="" />
+														
+														<span class="title">Pycharm에서 server의 doc⋯</span>
+														<span class="date">2020.09.03</span>
+													</a>
+												</li>
+											
+										</ul>
+									</div>
+									<div id="popular" class="tab-list">
+										<h2>인기글</h2>
+										<ul>
+											
+												<li>
+													<a href="/entry/Mac%EC%97%90-ms-office-2019-%EC%84%A4%EC%B9%98">
+														
+															<img src="//i1.daumcdn.net/thumb/C58x58/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FWaBTB%2FbtqBGfgWl3B%2FhEFVLDfjr8ArCKEvRy4A70%2Fimg.png" alt="" />
+														
+														<span class="title">Mac에 ms office 2019 설⋯</span>
+														<span class="date">2020.02.03</span>
+													</a>
+												</li>
+											
+
+												<li>
+													<a href="/entry/Docker-Pytorch-GPU%EB%A1%9C-%EB%94%A5-%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0">
+														
+														<span class="title">Docker + Pytorch + GPU로⋯</span>
+														<span class="date">2020.02.18</span>
+													</a>
+												</li>
+											
+
+												<li>
+													<a href="/entry/ESPnet-%EC%84%A4%EC%B9%98-docker">
+														
+															<img src="//i1.daumcdn.net/thumb/C58x58/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMHEdZ%2FbtqFSZ2jIF6%2FC3S0Qhk9d0nXFmUQb8nDgK%2Fimg.png" alt="" />
+														
+														<span class="title">ESPnet 설치 및 CPU 예제⋯</span>
+														<span class="date">2020.07.22</span>
+													</a>
+												</li>
+											
+
+												<li>
+													<a href="/entry/Pycharm-Docker-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0">
+														
+															<img src="//i1.daumcdn.net/thumb/C58x58/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxnsA8%2FbtqB8Qu9Dww%2FRjkOnzOh4zmgsP05LKVDYK%2Fimg.png" alt="" />
+														
+														<span class="title">Pycharm + Docker 이용하기</span>
+														<span class="date">2020.02.21</span>
+													</a>
+												</li>
+											
+
+												<li>
+													<a href="/entry/Pycharm-Docker%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EB%B0%9C-%EC%A4%80%EB%B9%84">
+														
+															<img src="//i1.daumcdn.net/thumb/C58x58/?fname=https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcIn9i3%2FbtqB8QUDIAx%2FaqCiL55hKk6H6HOTSR0SV0%2Fimg.png" alt="" />
+														
+														<span class="title">Mac + Pycharm profession⋯</span>
+														<span class="date">2020.02.20</span>
+													</a>
+												</li>
+											
+										</ul>
+									</div>
+								</div>
+							
+								<!-- 최근댓글 -->
+								<div class="recent-comment">
+									<h2>최근댓글</h2>
+									<ul>
+										
+											<li><a href="/21#comment13571498">윈도우에서 ssh로 맥에 접속⋯</a></li>
+										
+
+											<li><a href="/42#comment13556659">여기저기 찾아봐도 가짜 파일⋯</a></li>
+										
+
+											<li><a href="/42#comment13506907">정말 감사합니다~ 복받으세요!</a></li>
+										
+
+											<li><a href="/42#comment13475351">넘 감사합니다 ㅜㅜ 자세한⋯</a></li>
+										
+									</ul>
+								</div>
+							
+								<!-- Facebook/Twitter -->
+								<div class="social-list tab-ui">
+									
+									
+								</div>
+							
+						
+								<!-- 태그 -->
+								<div class="tags">
+									<h2>태그</h2>
+									
+										<a href="/tag/Tutorial">Tutorial</a>
+									
+										<a href="/tag/Terminal">Terminal</a>
+									
+										<a href="/tag/Learning">Learning</a>
+									
+										<a href="/tag/cp949">cp949</a>
+									
+										<a href="/tag/PyCharm">PyCharm</a>
+									
+										<a href="/tag/docker">docker</a>
+									
+										<a href="/tag/%EB%B0%B1%EC%A4%80">백준</a>
+									
+										<a href="/tag/AWS">AWS</a>
+									
+										<a href="/tag/mac">mac</a>
+									
+										<a href="/tag/docker-compose">docker-compose</a>
+									
+										<a href="/tag/Python">Python</a>
+									
+										<a href="/tag/HANDS-ON">HANDS-ON</a>
+									
+										<a href="/tag/server">server</a>
+									
+										<a href="/tag/tmuxinator">tmuxinator</a>
+									
+										<a href="/tag/Git">Git</a>
+									
+										<a href="/tag/kaldi">kaldi</a>
+									
+										<a href="/tag/%EC%82%AC%EC%9A%A9%EB%B2%95">사용법</a>
+									
+										<a href="/tag/ssh">ssh</a>
+									
+										<a href="/tag/GCC">GCC</a>
+									
+										<a href="/tag/tmux">tmux</a>
+									
+										<a href="/tag/github">github</a>
+									
+										<a href="/tag/espnet">espnet</a>
+									
+										<a href="/tag/TensorBoard">TensorBoard</a>
+									
+										<a href="/tag/pytorch">pytorch</a>
+									
+										<a href="/tag/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4">마크다운</a>
+									
+										<a href="/tag/%ED%8C%8C%EC%9D%B4%EC%B0%B8">파이참</a>
+									
+										<a href="/tag/default">default</a>
+									
+										<a href="/tag/%ED%8C%8C%EC%9D%B4%EC%8D%AC">파이썬</a>
+									
+										<a href="/tag/GPU">GPU</a>
+									
+										<a href="/tag/ubuntu">ubuntu</a>
+									
+								</div>
+							
+								<!-- 전체 방문자 -->
+								<div class="count">
+									<h2>전체 방문자</h2>
+									<p class="total">158,749</p>
+									<p>Today : 188</p>
+									<p>Yesterday : 113</p>
+								</div>
+							
+								<!-- 소셜 채널 -->
+								<div class="social-channel">
+									<ul>
+										
+										
+										
+										
+									</ul>
+								</div>
+							
+					</div>
+				</aside>
+		</div>
+	</section>
+	<hr>
+	<footer id="footer">
+		<div class="inner">
+			<div class="order-menu">
+				
+				
+				
+				
+			</div>
+			<a href="#" class="page-top">TOP</a>
+			<p class="meta"></p>
+			<p class="copyright"></p>
+		</div>
+	</footer>
+</div>
+
+<script src="https://tistory2.daumcdn.net/tistory/0/BookClub/images/script.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/kotlin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/swift.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/go.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/scala.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script><script src="//search1.daumcdn.net/search/statics/common/js/g/search_dragselection.min.js"></script>
+
+	<script>
+	    lightbox.option({
+			"fadeDuration": 200,
+		    "resizeDuration": 200,
+		    "wrapAround": false,
+			"albumLabel": "%1 / %2",
+			"fitImagesInViewport":true ,
+			"stopEvent": false
+	    })
+	</script>            <script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script>
+            <script type="text/javascript">window.tiara = {"svcDomain":"user.tistory.com","section":"\uae00\ubdf0","trackPage":"\uae00\ubdf0_\ubcf4\uae30","page":"\uae00\ubdf0","key":"3543662-40","customProps":{"userId":0,"blogId":"3543662","role":"guest","filterTarget":false,"trackPage":"\uae00\ubdf0_\ubcf4\uae30","entryId":"40"},"entry":{"entryId":"40","categoryName":"\uc74c\uc131\uc778\uc2dd","categoryId":"854708","author":"4147289","authorId":"4147289","image":"4147289","plink":"\/entry\/Kaldi-%EC%98%88%EC%A0%9C-Voxforge-%EB%8D%B0%EC%9D%B4%ED%84%B0","tags":["kaldi","Tutorial","VoxForge","\uc0ac\uc6a9\ubc95","\uc608\uc81c"],"key":"3543662-40"},"sentryDsn":"https:\/\/a53520229cd744e798d42900d76b0e2a@aem-collector.daumkakao.io\/713","kakaoAppKey":"b8aef3eeb03fa312b81795386484f051","appUserId":null};</script>
+            <script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/script/tiara/tiara.min.js?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0" defer></script>
+                        <script type="text/javascript">
+                window.roosevelt_params_queue = window.roosevelt_params_queue || [{channel_id: 'dk', channel_label: 'tistory'}];
+            </script>
+            <script type="text/javascript" src="//t1.daumcdn.net/midas/rt/dk_bt/roosevelt_dk_bt.js" async></script><script type="text/javascript">if(window.console!=undefined){setTimeout(console.log.bind(console,"%cTISTORY","font:8em Arial;color:#EC6521;font-weight:bold"),0);setTimeout(console.log.bind(console,"%c  나를 표현하는 블로그","font:2em sans-serif;color:#333;"),0);}</script><iframe style="position:absolute;width:1px;height:1px;left:-100px;top:-100px" src="//hanseokhyeon.tistory.com/api" id="editEntry"></iframe>            <div class="#menubar menu_toolbar ">
+                                <h2 class="screen_out">티스토리툴바</h2>
+                                <div class='btn_tool btn_tool_type1' id='menubar_wrapper'></div><div class="btn_tool">
+                    <button class="btn_menu_toolbar btn_subscription  #subscribe" data-blog-id="3543662" data-url="https://hanseokhyeon.tistory.com" data-device="web_pc">
+                        <strong class="txt_tool_id">HanSeokhyeon.log</strong>
+                        <em class="txt_state">구독하기</em>
+                        <span class="img_common_tistory ico_check_type1"></span>
+                    </button>
+                </div>
+                            </div><script type="text/javascript" src="https://t1.daumcdn.net/tistory_admin/assets/blog/tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0/blogs/script/menubar.min.js?_version_=tistory-0b7c2d9fcbf495c906d3da33f70944aff64535e0"></script>        <div class="layer_tooltip">
+            <div class="inner_layer_tooltip">
+                <p class="desc_g"></p>
+            </div>
+        </div>
+        <div id="tistoryEtcLayer" class="layer_post"></div><div id="tistorySnsLayer" class="layer_post"></div></body>
+</html>

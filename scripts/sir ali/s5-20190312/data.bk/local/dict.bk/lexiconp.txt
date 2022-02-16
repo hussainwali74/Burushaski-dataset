@@ -1,0 +1,4005 @@
+ءی	1.0	i
+آ 1.0	A 
+آء	1.0	A
+آءل 1.0	A i l 
+آءنده 1.0	A i n dd A 
+آءی 1.0	A i 
+آءینده	1.0	A i n dd A
+آءیڈیا 1.0	A i d' i j A 
+آءیں 1.0	A i~ 
+آءے 1.0	A e 
+آب 1.0	A b 
+آباد 1.0	A b A dd 
+آبادی 1.0	A b A dd i 
+آبادیوں 1.0	A b A dd i o~ 
+آتا 1.0	A td A 
+آتاهے 1.0	A td A h Y 
+آتش 1.0	A td i S 
+آتشزدگی 1.0	A td i S z y dd g i 
+آتی 1.0	A td i 
+آتے 1.0	A td e 
+آج 1.0	A dZ 
+آجاءے 1.0	A dZ A e 
+آجاتا	1.0	A dZ A td A
+آجاتے	1.0	A dZ A td e
+آخر 1.0	A x i r 
+آخرکیوں	1.0	A x y r k i o~
+آخری 1.0	A x i r i 
+آدمی 1.0	A dd m i 
+آدھا 1.0	A ddh A 
+آدھی 1.0	A ddh i 
+آدھے 1.0	A ddh e 
+آرام 1.0	A r A m 
+آرها 1.0	A r y h A 
+آرهی 1.0	A r y h i 
+آزاد 1.0	A z A dd 
+آزادی 1.0	A z A dd i 
+آزما 1.0	A z m A 
+آزماءشی 1.0	A z m A i S i 
+آس 1.0	A s 
+آسان 1.0	A s A n 
+آسانی 1.0	A s A n i 
+آسمان 1.0	A s m A n 
+آصف 1.0	A s y f 
+آغاز 1.0	A 7 A z 
+آف 1.0	A f 
+آفات 1.0	A f A td 
+آفس 1.0	A f i s 
+آقا 1.0	A q A 
+آل 1.0	A l 
+آلو 1.0	A l u 
+آمدورفت 1.0	A m dd o r y f td 
+آن 1.0	A n 
+آنرز 1.0	A n y r z 
+آنسو 1.0	A n s u 
+آنٹی 1.0	A n t' i 
+آنچ 1.0	A n tS 
+آنکھوں 1.0	A~ kh o~ 
+آنکھیں 1.0	A~ kh e~ 
+آنے 1.0	A n e 
+آواز 1.0	A v A z 
+آوازوں 1.0	A v A z o~ 
+آوازیں 1.0	A v A z e~ 
+آوروں	1.0	A v y r o~
+آوزوں	1.0	A v y z o~
+آٹھ 1.0	A t'h 
+آپ 1.0	A p 
+آپریشن 1.0	A p r e S y n 
+آکر 1.0	A k y r 
+آکسیجن 1.0	A k s i dZ y n 
+آگ 1.0	A g 
+آگءے	1.0	A g y e
+آگاهی 1.0	A g A h i 
+آگر	1.0	A g y r
+آگهی 1.0	A g y h i 
+آگے 1.0	A g e 
+آیا 1.0	A j A 
+آیات 1.0	A j A td 
+ا	1.0	m A
+اءرلاءن 1.0	e y r l A i n 
+اءیر	1.0	i r
+اب 1.0	y b 
+ابتداءی 1.0	i b td i dd A i 
+ابتر 1.0	y b td y r 
+ابهام 1.0	i b h A m 
+ابو 1.0	y b u 
+ابوبکر 1.0	y b u b y k r 
+ابوظهبی 1.0	y b u z y h b i 
+ابھرتے 1.0	U bh y r td e 
+ابھی 1.0	y bh i 
+اتارتا 1.0	U td A r td A 
+اتارنا 1.0	U td A r n A 
+اتحاد 1.0	i td td i h A dd 
+اترتا 1.0	U td y r td A 
+اترن 1.0	U td r y n 
+اتفاق 1.0	i td td i f A q 
+اتنا 1.0	U td n A 
+اتنا 1.0	i td n A 
+اتنی 1.0	i td n i 
+اتوار 1.0	i td v A r 
+اتھارٹی 1.0	y tdh A r i t' i 
+اتھلیٹکس 1.0	y tdh l Y t' i k s 
+اثر 1.0	y s y r 
+اثرات 1.0	y s r A td 
+اثرات 1.0	y s y r A td 
+اجازت 1.0	i dZ A z y td 
+اجتناب 1.0	i dZ td i n A b 
+اجلاس 1.0	i dZ l A s 
+احادیث 1.0	A dd i s 
+احادیث 1.0	y h A dd i s 
+احادیث 1.0	y h y dd i s 
+احتجاج 1.0	i h td i dZ A dZ 
+احتجاجا 1.0	i h td i dZ A dZ y n 
+احتجاجی 1.0	i h td i dZ A dZ i 
+احتساب 1.0	i h td i s A b 
+احتیاط 1.0	i h td i j A td 
+احسا 1.0	y h s A 
+احساس 1.0	i h s A s 
+احسان 1.0	i h s A n 
+احمد 1.0	y h m y dd 
+احکامات 1.0	i h k A m A td 
+اخبار 1.0	i x b A r 
+اختتام 1.0	i x td i td A m 
+اختر 1.0	y x td y r 
+اختلاف 1.0	i x td i l A f 
+اختلافات 1.0	i x td i l A f A td 
+اختیار 1.0	i x td i j A r 
+اخراجات 1.0	y x r A dZ A td 
+اخلاقی 1.0	y x l A q i 
+ادا 1.0	y dd A 
+اداره 1.0	i dd A r A 
+اداروں 1.0	i dd A r o~ 
+ادارۂ	1.0	y dd A r q
+ادارے 1.0	i dd A r e 
+اداسی 1.0	U dd A s i 
+اداشت	1.0	y dd A S td
+ادب 1.0	y dd y b 
+ادریس 1.0	i dd r i s 
+ادوار 1.0	y dd v A r 
+ادویات 1.0	y dd v i j A td 
+ادھر 1.0	U dd y r 
+ادھر 1.0	U ddh y r 
+ادھر 1.0	i dd y r 
+ادھر 1.0	i ddh y r 
+اراکین 1.0	y r A k i n 
+ارب 1.0	y r y b 
+اردو 1.0	U r dd u 
+ارشاد 1.0	i r S A dd 
+ارم 1.0	i r y m 
+ارکان 1.0	y r k A n 
+ارے 1.0	y r e 
+ازاں 1.0	y z A~ 
+ازبکستان 1.0	U z b i k i s td A n 
+ازل 1.0	y z y l 
+ازیں 1.0	y z i~ 
+اس 1.0	U s 
+اس 1.0	i s 
+اساتذه 1.0	y s A td i z A 
+اساس 1.0	y s A s 
+استاد 1.0	U s td A dd 
+استطاعت 1.0	i s td i td A y td 
+استعمال 1.0	i s td i m A l 
+استواءی 1.0	i s td i v A i 
+اسحاق 1.0	i s h A q 
+اسحق	1.0	i s h y q
+اسد 1.0	y s y dd 
+اسراءیل 1.0	i s r A i l 
+اسلام 1.0	i s l A m 
+اسلام 1.0	y s l A m 
+اسلامی 1.0	i s l A m i 
+اسلامیه 1.0	i s l A m i j A 
+اسمارٹ 1.0	i s m A r t' 
+اسمبلی 1.0	y s y m b l i 
+اسناد 1.0	y s n A dd 
+اسوقت 1.0	i s v y q td 
+اسٹریٹیجک	1.0	i s t' y r i t' e dZ i k
+اسٹیبلشمنٹ 1.0	i s t' Y b l i S m y n t' 
+اسٹیشن 1.0	i s t' e S y n 
+اسٹیشنز 1.0	i s t' e S y n z 
+اسٹیٹس 1.0	i s t' e t' y s 
+اسٹیڈیم 1.0	i s t' e d' j y m 
+اسکلز 1.0	i s k i l z 
+اسکول 1.0	s k u l 
+اسکی 1.0	U s k i 
+اسکی 1.0	i s k i 
+اسکے 1.0	U s k e 
+اسی 1.0	y s s i 
+اسے 1.0	U s e 
+اسے 1.0	i s e 
+اشتعال 1.0	i S td i A l 
+اشتهار 1.0	i S td i h A r 
+اشخاص 1.0	y S x A s 
+اشد 1.0	y S y dd 
+اشرفیه 1.0	y S r y f i j A 
+اشعار 1.0	y S A r 
+اصرار 1.0	i s r A r 
+اصل 1.0	y s l 
+اصل 1.0	y s y l 
+اصلی 1.0	y s l i 
+اصول 1.0	U s u l 
+اصولوں 1.0	U s u l o~ 
+اضافه 1.0	i z A f A 
+اضافی 1.0	i z A f i 
+اضافے 1.0	i z A f e 
+اضلاع 1.0	y z l A 
+اطالوی 1.0	y td A l v i 
+اطراف 1.0	y td r A f 
+اطلاع 1.0	i td td i l A 
+اطلاعات 1.0	i td td i l A A td 
+اطمینان 1.0	i td m i n A n 
+اظهار 1.0	i z h A r 
+اظهاری 1.0	i z h A r i 
+اعتماد 1.0	i td i m A dd 
+اعداد 1.0	y dd A dd 
+اعزاز 1.0	i z A z 
+اعشاریه 1.0	y S A r i j A 
+اعضاء	1.0	y z A
+اعظم 1.0	A z y m 
+اعلان 1.0	e l A n 
+اعلی 1.0	y y l A 
+اغاز	1.0	y 7 A z
+اغوا 1.0	i 7 v A 
+اغواء	1.0	i 7 v A
+افادیت 1.0	i f A dd i j y td 
+افتاده 1.0	U f td A dd A 
+افتتاح 1.0	i f td i td A 
+افتخار 1.0	i f td i x A r 
+افراتفری 1.0	y f r A td y f r i 
+افراد 1.0	y f r A dd 
+افروز 1.0	y f r o z 
+افریقه 1.0	y f r i q A 
+افریقی 1.0	y f r i q i 
+افزاءی 1.0	y f z A i 
+افسانوی 1.0	y f s A n v i 
+افسر 1.0	y f s y r 
+افسران 1.0	y f s y r A n 
+افسرده 1.0	y f s U r dd A 
+افسوس 1.0	y f s o s 
+افشانی 1.0	y f S A n i 
+افضل 1.0	y f z y l 
+افطار 1.0	i f td A r 
+افظار	1.0	y f z A r
+افغان 1.0	y f 7 A n 
+افغانستان 1.0	y f 7 A n i s td A n 
+افلاک 1.0	y f l A k 
+افواج 1.0	y f v A dZ 
+اقبال 1.0	i q b A l 
+اقتصادی 1.0	i q td i s A dd i 
+اقدامات 1.0	i q dd A m A td 
+اقسام 1.0	y q s A m 
+اقوام 1.0	y q v A m 
+الارم 1.0	y l A r y m 
+البته 1.0	y l b y td td A 
+الجھن 1.0	U l dZh y n 
+الخلا	1.0	U l x y l A
+الخیر 1.0	y l x Y r 
+الدین	1.0	U dd dd i n
+الرحمن 1.0	y r r E h m A n 
+الرحیم 1.0	y r r y h i m 
+الرفق	1.0	y l y r f i q
+الزام 1.0	i l z A m 
+الزامات 1.0	i l z A m A td 
+الشان	1.0	S A n
+الصرف	1.0	s i r i f
+الفاظ 1.0	y l f A z 
+الله 1.0	y l l A 
+الله 1.0	y l l A h 
+الله 1.0	y l l A h o 
+الله 1.0	y l l A h u 
+الناس	1.0	U l i s
+النحو	1.0	U l n y h u
+اله 1.0	i l A 
+الواسع 1.0	y l v A s e 
+الٹے 1.0	U l t' e 
+الیکشن 1.0	i l Y k S y n 
+الے	1.0	U l e
+امارات 1.0	i m A r A td 
+امام 1.0	i m A m 
+امام 1.0	i m A m e 
+امتحانی 1.0	i m td i h A n i 
+امتیاز 1.0	i m td i j A z 
+امداد 1.0	i m dd A dd 
+امدادی 1.0	i m dd A dd i 
+امر 1.0	y m y r 
+امرا 1.0	U m y r A 
+امراض 1.0	y m r A z 
+امریکی 1.0	y m r i k i 
+املاک 1.0	i m l A k 
+امن 1.0	y m n 
+اموات 1.0	y m v A td 
+امور 1.0	U m u r 
+امکان 1.0	i m k A n 
+امی 1.0	U m m i 
+امید 1.0	U m i dd 
+امیر 1.0	y m i r 
+امیروں 1.0	y m i r o~ 
+ان 1.0	U n 
+ان 1.0	i n 
+ان 1.0	y n 
+انتخاب 1.0	i n td i x A b 
+انتخابات 1.0	i n td i x A b A td 
+انتظار 1.0	i n td i z A r 
+انتظام 1.0	i n td i z A m 
+انتظامی 1.0	i n td i z A m i 
+انتظامیه 1.0	i n td i z A m i j A 
+انتهاء	1.0	i n td y h A
+انتهاءی 1.0	i n td i h A i 
+انتیس 1.0	U n td i s 
+انتیس 1.0	U n y td i s 
+انجام 1.0	y n dZ A m 
+انجانی 1.0	y n dZ A n i 
+انجمن 1.0	y n dZ U m y n 
+انجن 1.0	i n dZ y n 
+انجینءر 1.0	i n dZ i n i y r 
+انحصار 1.0	i n h i s A r 
+انداز 1.0	y n dd A z 
+اندازه 1.0	y n dd A z A 
+اندر 1.0	i n dd y r 
+اندھیرے 1.0	y n ddh e r e 
+انسان 1.0	i n s A n 
+انسانوں 1.0	i n s A n o~ 
+انسانی 1.0	i n s A n i 
+انسانیت 1.0	i n s A n i j y td 
+انسداد 1.0	i n s i dd A dd 
+انسٹی	1.0	i n s t' i
+انسٹیٹیوٹ 1.0	i n s t' i t' i j u t' 
+انسپکٹر 1.0	i n s p y k t' y r 
+انصاف 1.0	i n s A f 
+انهضام 1.0	i n h i z A m 
+انهوں 1.0	U n o~ 
+انهوں 1.0	U nh o 
+انهوں 1.0	U nh o~ 
+انهوں 1.0	i n o~ 
+انهوں 1.0	i nh o 
+انهوں 1.0	i nh o~ 
+انهیں 1.0	U n e~ 
+انهیں 1.0	U nh e 
+انهیں 1.0	U nh e~ 
+انهیں 1.0	i n e~ 
+انهیں 1.0	i nh e 
+انهیں 1.0	i nh e~ 
+انوکھا 1.0	y n o kh A 
+انوکھی 1.0	y n o kh i 
+انٹر 1.0	i n t' y r 
+انٹرنیشل	1.0	i n t' y r n e S y l
+انٹرنیشنل 1.0	i n t' y r n Y S n y l 
+انٹرنیٹ 1.0	i n t' y r n Y t' 
+انچاس 1.0	U n tS A s 
+انڈراءیڈ	1.0	i n d' y r A i d'
+انڈیا 1.0	i n d' i j A 
+انڈیز	1.0	i n d' i z
+انڈین 1.0	i n d' i j y n 
+انکار 1.0	i n k A r 
+انکاری 1.0	i n k A r i 
+انکشاف 1.0	i n k i S A f 
+انگاروں 1.0	y N g A r o~ 
+انگریز 1.0	y N r e z 
+انگریزوں 1.0	y N r e z o~ 
+انگریزی 1.0	y N r e z i 
+انگلش 1.0	i N l i S 
+انگلی 1.0	U N l i 
+انگھنے	1.0	y N n e
+انگیز 1.0	y N g e z 
+انھوں 1.0	U n o~ 
+انھوں 1.0	U nh o~ 
+انھوں 1.0	i n o~ 
+انھوں 1.0	i nh o~ 
+انھی 1.0	U nh i 
+انھی 1.0	i nh i 
+انھیں 1.0	U n e~ 
+انھیں 1.0	U nh e~ 
+انھیں 1.0	i n e~ 
+انھیں 1.0	i nh e~ 
+انیس 1.0	U n n i s 
+اهل 1.0	e h l 
+اهل 1.0	e h l e 
+اهل 1.0	y h l 
+اهلکار 1.0	y h l k A r 
+اهم 1.0	E h y m 
+اهمیت 1.0	y h m i j y td 
+اهے 1.0	y h e 
+او 1.0	o 
+اوبر	1.0	o b y r
+اور 1.0	O r 
+اور 1.0	o r 
+اوران	1.0	o r A n
+اوراپنے	1.0	o r A p n e
+اوراینجل	1.0	o r Y n dZ y l
+اوقات 1.0	O q A td 
+اوقیانوس 1.0	o q y j A n u s 
+اولاد 1.0	O l A dd 
+اونچے 1.0	u~ tS e 
+اوپر 1.0	u p y r 
+اوڑی 1.0	u r' i 
+اوگرا	1.0	o g y r A
+اٹ 1.0	y t' 
+اٹلی 1.0	i t' l i 
+اٹھ 1.0	U t'h 
+اٹھا 1.0	U t'h A 
+اٹھاءیس 1.0	y t'h A i s 
+اٹھاءے 1.0	U t'h A e 
+اٹھاره	1.0	U t'h A r A
+اٹھانا 1.0	U t'h A n A 
+اٹھانے 1.0	U t'h A n e 
+اٹھایا 1.0	U t'h A j A 
+اٹھتا 1.0	U t'h td A 
+اٹھی 1.0	U t'h i 
+اپ 1.0	U p 
+اپنا 1.0	y p n A 
+اپنوں 1.0	y p n o~ 
+اپنی 1.0	y p n i 
+اپنے 1.0	y p n e 
+اپوزیشن 1.0	y p o z i S y n 
+اپیل 1.0	y p i l 
+اچانک 1.0	y tS A n y k 
+اچکا 1.0	U tS k A 
+اچکزءی 1.0	y tS y k z y i 
+اچھا 1.0	y tSh tSh A 
+اچھنبے	1.0	U tSh i m b e
+اچھی 1.0	y tSh tSh i 
+اچھے 1.0	y tS tS tSh e 
+اڈا 1.0	y d' A 
+اڈا 1.0	y d' d' A 
+اڈے 1.0	y d' d' e 
+اکاءونٹ 1.0	y k A u n t' 
+اکبر 1.0	y k b y r 
+اکتالیس 1.0	i k td A l i s 
+اکثر 1.0	y k s y r 
+اکرم 1.0	y k r y m 
+اکساتی 1.0	U k s A td i 
+اکلوتے 1.0	i k l O td e 
+اکهتر 1.0	i k h y td td y r 
+اکٹھی 1.0	i k y t' tdh i 
+اکیاون 1.0	i k j A v y n 
+اکیس 1.0	i k k i s 
+اگتا 1.0	U g td A 
+اگر 1.0	y g y r 
+اگربتیوں 1.0	y g y r b y td td i o~ 
+اگرچه 1.0	y g y r tS e 
+اگست 1.0	y g y s td 
+اگلا 1.0	y g l A 
+اگلے 1.0	y g l e 
+ای 1.0	i 
+ایءر 1.0	e y r 
+ایءرلاءن 1.0	e y r l A i n 
+ایجاد 1.0	i dZ A dd 
+ایجادوں 1.0	i dZ A dd o~ 
+ایجنڈے 1.0	e dZ y n d' e 
+ایجوکیشن 1.0	Y dZ u k e S y n 
+ایران 1.0	i r A n 
+ایریا 1.0	e r i j A 
+ایس 1.0	Y s 
+ایس 1.0	e s 
+ایسا 1.0	i s A 
+ایسوسی 1.0	Y s u s i 
+ایسی 1.0	Y s i 
+ایسے 1.0	Y s e 
+ایشن	1.0	e S y n
+ایشیا 1.0	e S j A 
+ایصال 1.0	i s A l 
+ایف 1.0	Y f 
+ایلوپیتھی 1.0	Y l o p Y tdh i 
+ایم 1.0	Y m 
+ایمانداری 1.0	i m A n dd A r i 
+این 1.0	Y n 
+اینجل 1.0	Y n dZ y l 
+ایندھن 1.0	i n ddh y n 
+اینڈ 1.0	Y n d' 
+ایوبی 1.0	y j u b i 
+ایپ 1.0	Y p 
+ایپلیکیشن 1.0	Y p l i k e S y n 
+ایچ 1.0	e tS 
+ایڈریس 1.0	Y d' r Y s 
+ایک 1.0	e k 
+ایکشن 1.0	Y k S y n 
+ایکٹ 1.0	Y k t' 
+ایکٹر 1.0	Y k t' y r 
+ایکٹرز 1.0	Y k t' y r z 
+اے 1.0	e 
+با 1.0	b A 
+باءولرز 1.0	b A u l y r z 
+باءیس 1.0	b A i s 
+باءیک 1.0	b A i k 
+بابر 1.0	b A b y r 
+بابو 1.0	b A b u 
+بات 1.0	b A td 
+باتوں 1.0	b A td o~ 
+باتیں 1.0	b A td e~ 
+باجماعت 1.0	b A dZ y m A td 
+باخبر 1.0	b A x y b y r 
+باد 1.0	b A dd 
+بادشا	1.0	b A dd i S A
+بادشاه 1.0	b A dd S A 
+بادشاهی 1.0	b A dd S A h i 
+بادل 1.0	b A dd y l 
+بادلوں 1.0	b A dd l o~ 
+بار 1.0	b A r 
+بارشوں 1.0	b A r i S o~ 
+بارعب 1.0	b A r o b 
+باره 1.0	b A r A 
+بارڈر 1.0	b A r d' y r 
+باری 1.0	b A r i 
+باریک 1.0	b A r i k 
+بارے 1.0	b A r e 
+بازار 1.0	b A z A r 
+بازو 1.0	b A z u 
+بازی 1.0	b A z i 
+بازیابی 1.0	b A z j A b i 
+باسی 1.0	b A s i 
+باشعور 1.0	b A S U u r 
+باشندوں 1.0	b A S i n dd o~ 
+باشندے 1.0	b A S i n dd e 
+باعث 1.0	b A i s 
+باغ 1.0	b A 7 
+باقاعده 1.0	b A q A e dd A 
+باقی 1.0	b A q i 
+باقیات 1.0	b A q i j A td 
+بال 1.0	b A l 
+بالا 1.0	b A l A 
+بالاءی 1.0	b A l A i 
+بالاخر	1.0	b A l A x y r
+بالخصوص 1.0	b i l x U s u s 
+بالکل 1.0	b i l k U l 
+بامقصد 1.0	b A m y q s y dd 
+بانٹاجا	1.0	b A n t' A dZ A
+باهر 1.0	b A h y r 
+باهمت 1.0	b A h i m m y td 
+باوجود 1.0	b A v U dZ u dd 
+باور 1.0	b A v y r 
+باورچی 1.0	b A v y r tS i 
+باورچیوں 1.0	b A v y r tS i o~ 
+باون 1.0	b A v y n 
+باپ 1.0	b A p 
+بتا 1.0	b U td td A 
+بتاءو 1.0	b y td A o 
+بتاءوں 1.0	b y td A u~ 
+بتاءے 1.0	b y td A e 
+بتاتا 1.0	b y td A td A 
+بتاتی 1.0	b y td A td i 
+بتاتے 1.0	b y td A td e 
+بتانا 1.0	b U td A n A 
+بتانے 1.0	b y td A n e 
+بتایا 1.0	b y td A j A 
+بتلاهے	1.0	b y td l A h e
+بتی 1.0	b y td td i 
+بتیس 1.0	b i td td i s 
+بج 1.0	b y dZ 
+بجا 1.0	b y dZ A 
+بجاءے 1.0	b y dZ A e 
+بجاکر	1.0	b y dZ A k y r
+بجز 1.0	b y dZ U z 
+بجلی 1.0	b i dZ l i 
+بجھ 1.0	b U dZh 
+بجھوا 1.0	b U dZh v A 
+بجی 1.0	b y dZ i 
+بجے 1.0	b i dZ Y 
+بحال 1.0	b y h A l 
+بحث 1.0	b y h y s 
+بحثیت	1.0	b y h s i j y td
+بحر 1.0	b y h r 
+بحیرے	1.0	b y h i r e
+بخار 1.0	b U x A r 
+بدامنی 1.0	b y dd y m n i 
+بدتمیزی 1.0	b y dd td y m i z i 
+بدقسمتی 1.0	b y dd q i s m y td i 
+بدل 1.0	b y dd i l 
+بدل 1.0	b y dd y l 
+بدلا 1.0	b y dd l A 
+بدلتاهے	1.0	b y dd y l td A h e
+بدلے 1.0	b y dd l e 
+بدنام 1.0	b y dd n A m 
+بدوشوں 1.0	b y dd o S o~ 
+بدھ 1.0	b U ddh 
+بر 1.0	b U r 
+برآمدات 1.0	b y r y A m dd A td 
+برا 1.0	b U r A 
+براءی 1.0	b U r A i 
+براءے 1.0	b y r A e 
+برابر 1.0	b y r A b y r 
+برابرتنخوا	1.0	b y r A b y r td n y x A
+برازیل 1.0	b y r A z i l 
+براعظم 1.0	b y r r e y y z y m 
+براه 1.0	b y r A 
+برباد 1.0	b y r b A dd 
+برتا 1.0	b y r td A 
+برتن 1.0	b y r td y n 
+برخلاف 1.0	b y r x i l A f 
+برداشت 1.0	b y r dd A S td 
+بردباری 1.0	b U r dd b A r i 
+برس 1.0	b y r y s 
+برسلز 1.0	b y r s y l z 
+برسوں 1.0	b y r s u~ 
+برصغیر 1.0	b y r r e s y 7 i r 
+برطانوی 1.0	b y r td A n v i 
+برطانیه 1.0	b y r td A n j A 
+برعکس 1.0	b y r y k s 
+برقرار 1.0	b y r q y r A r 
+برقراری	1.0	b y r q U r A r i
+برقی 1.0	b y r q i 
+برهان 1.0	b U r h A n 
+بروز 1.0	b U r u z 
+برگزیده 1.0	b y r g U z i dd A 
+بری 1.0	b U r i 
+بریانی 1.0	b i r j A n i 
+بریں 1.0	b y r i~ 
+بس 1.0	b y s 
+بساط 1.0	b i s A td 
+بستر 1.0	b i s td y r 
+بسر 1.0	b i s y r 
+بشرطیکه 1.0	b y S y r td e k e 
+بصورت 1.0	b y s u r y td 
+بطور 1.0	b y td O r 
+بطور 1.0	b y td O r e 
+بطور 1.0	b y td o r 
+بطور 1.0	b y td o r e 
+بظاهر 1.0	b y z A h i r 
+بعد 1.0	b A dd 
+بعدازاں 1.0	b y y dd y z A~ 
+بعض 1.0	b A z 
+بغیر 1.0	b y 7 Y r 
+بل 1.0	b U l 
+بلا 1.0	b i l l A 
+بلاک 1.0	b i l A k 
+بلتت	1.0	b y l td y td
+بلتستان 1.0	b y l td i s td A n 
+بلدیات 1.0	b y l dd i j A td 
+بلند 1.0	b U l y n dd 
+بلندی 1.0	b U l y n dd i 
+بلندیاں 1.0	b U l y n dd i j A~ 
+بلوچ 1.0	b y l l o tS 
+بلوچستان 1.0	b y l o tS i s td A n 
+بلوں 1.0	b i l l o~ 
+بلکه 1.0	b y l k e 
+بلکھڑ	1.0	b l i kh y r'
+بلی 1.0	b i l i 
+بلیٹن 1.0	b U l i t' y n 
+بلیک 1.0	b i l Y k 
+بم 1.0	b y m 
+بمباری 1.0	b y m b A r i 
+بمشکل 1.0	b y m U S k i l 
+بموں 1.0	b y m o~ 
+بن 1.0	b U n 
+بنا 1.0	b U n A 
+بناءی 1.0	b y n A i 
+بناءے 1.0	b y n A e 
+بنانا 1.0	b y n A n A 
+بنانے 1.0	b y n A n e 
+بناوٹ 1.0	b y n A v y t' 
+بنایا 1.0	b y n A j A 
+بنتا 1.0	b U n td A 
+بنتی 1.0	b U n td i 
+بنتے 1.0	b U n td e 
+بند 1.0	b y n dd 
+بنده 1.0	b y n dd A 
+بندوبست 1.0	b y n dd o b y s td 
+بندوقیں 1.0	b y n dd u q e~ 
+بندوں 1.0	b y n dd o~ 
+بندی 1.0	b y n dd i 
+بننا 1.0	b U n n A 
+بننے 1.0	b U n n e 
+بنگله 1.0	b y N l A 
+بنی 1.0	b U n i 
+بنیادی 1.0	b U n j A dd i 
+بنے 1.0	b U n e 
+بهادر 1.0	b y h A dd U r 
+بهادری 1.0	b y h A dd U r i 
+بهار 1.0	b y h A r 
+بهانے 1.0	b y h A n e 
+بهاولپور 1.0	b y h A v y l p u r 
+بهت 1.0	b o h y td 
+بهت 1.0	b o td 
+بهتر 1.0	b y h y td td y r 
+بهتری 1.0	b i h td y r i 
+بهترین 1.0	b e h td y r i n 
+بهتے 1.0	b y h td e 
+بهن 1.0	b y h y n 
+بورڈ 1.0	b o r d' 
+بوسیده 1.0	b o s i dd A 
+بول 1.0	b o l 
+بولا 1.0	b o l A 
+بولتا 1.0	b o l td A 
+بولنے 1.0	b o l n e 
+بولے 1.0	b o l e 
+بوٹیوں 1.0	b u t' i o~ 
+بوڑھاهو	1.0	b o r'h A h o
+بوڑھی 1.0	b u r'h i 
+بٹھا 1.0	b i t'h A 
+بپتا 1.0	b i p td A 
+بچ 1.0	b y tS 
+بچا 1.0	b U tS tS A 
+بچاتے 1.0	b y tS A td e 
+بچار 1.0	b i tS A r 
+بچانے 1.0	b y tS A n e 
+بچت 1.0	b y tS y td 
+بچتے 1.0	b y tS td e 
+بچنے 1.0	b y tS n e 
+بچه 1.0	b U tS tS A 
+بچو 1.0	b y tS o 
+بچوں 1.0	b y tS u~ 
+بچپن 1.0	b y tS p y n 
+بچی 1.0	b y tS i 
+بچے 1.0	b y tS tS e 
+بڑ 1.0	b U r' 
+بڑا 1.0	b y r' A 
+بڑاتے	1.0	b y r' A td e
+بڑوں 1.0	b y r' o~ 
+بڑھ 1.0	b y r'h 
+بڑھا 1.0	b y r'h A 
+بڑھانے 1.0	b y r'h A n e 
+بڑھایا 1.0	b y r'h A j A 
+بڑھتی 1.0	b y r'h td i 
+بڑھنا 1.0	b y r'h n A 
+بڑھنے 1.0	b y r'h n e 
+بڑی 1.0	b y r' i 
+بڑے 1.0	b y r' e 
+بک 1.0	b y k 
+بکا 1.0	b U k A 
+بکھری 1.0	b i kh r i 
+بگٹی 1.0	b U g t' i 
+بھاءی 1.0	bh A i 
+بھابھی 1.0	bh A bh i 
+بھارت 1.0	bh A r y td 
+بھاری 1.0	bh A r i 
+بھانت 1.0	bh A n td 
+بھانپ 1.0	bh A m p 
+بھانڈ 1.0	bh A n d' 
+بھاگتا 1.0	bh A g td A 
+بھاگتے 1.0	bh A g td e 
+بھاگی 1.0	bh A g i 
+بھر 1.0	bh y r 
+بھرا 1.0	bh y r A 
+بھرم 1.0	bh y r y m 
+بھرپور 1.0	bh y r p u r 
+بھری 1.0	bh y r i 
+بھرے 1.0	bh y r e 
+بھلا 1.0	bh U l A 
+بھلاء	1.0	bh U l A
+بھلیوں 1.0	bh y l j o~ 
+بھلے 1.0	bh y l e 
+بھنور 1.0	bh y n v y r 
+بھول 1.0	bh u l 
+بھوک 1.0	bh u k 
+بھی 1.0	bh i 
+بھیانک 1.0	bh y j A n y k 
+بھیج 1.0	bh e dZ 
+بھیجا 1.0	bh e dZ A 
+بھیجتا 1.0	bh e dZ td A 
+بھیجنے 1.0	bh e dZ n e 
+بھیجی 1.0	bh e dZ i 
+بھیجے 1.0	bh e dZ e 
+بھیک 1.0	bh i k 
+بی 1.0	b i 
+بیا 1.0	b i j A 
+بیان 1.0	b i j A n 
+بیت 1.0	b Y td 
+بیتابی 1.0	b e td A b i 
+بیجھے	1.0	b i dZh e
+بیدار 1.0	b e dd A r 
+بیرونی 1.0	b e r u n i 
+بیزاری 1.0	b e z A r i 
+بیس 1.0	b i s 
+بیشتر 1.0	b e S td y r 
+بیشک 1.0	b e S y k 
+بیمار 1.0	b i m A r 
+بیماری 1.0	b i m A r i 
+بیماریاں 1.0	b i m A r i j A~ 
+بین 1.0	b e n 
+بیناءی 1.0	b i n A i 
+بینک 1.0	b Y n k 
+بیوٹی 1.0	b i j u t' i 
+بیوی 1.0	b i v i 
+بیٹ 1.0	b i t' 
+بیٹا 1.0	b e t' A 
+بیٹابیٹی	1.0	b e t' A b e t' i
+بیٹھ 1.0	b Y t'h 
+بیٹھا 1.0	b Y t'h A 
+بیٹھتا 1.0	b Y t'h td A 
+بیٹھتے 1.0	b Y t'h td e 
+بیٹھنا 1.0	b Y t'h n A 
+بیٹھک 1.0	b Y t'h y k 
+بیٹھی 1.0	b Y t'h i 
+بیٹھے 1.0	b Y t'h e 
+بیٹی 1.0	b e t' i 
+بیٹے 1.0	b e t' e 
+بیپ 1.0	b i p 
+بیچ 1.0	b i tS 
+بیچار	1.0	b e tS A r
+بیڈمنٹن 1.0	b Y d' m i n t' y n 
+بیڑا 1.0	b e r' A 
+بیک 1.0	b Y k 
+بیگ 1.0	b e g 
+بیگم 1.0	b e g y m 
+بیھٹک	1.0	b e y t' k
+بے 1.0	b e 
+بےروزگار 1.0	b e r o z g A r 
+بےلاحقی	1.0	b e l A h y q i
+بےچارا	1.0	b e tS A r A
+بےکار 1.0	b e k A r 
+ت	1.0	td
+تءیس 1.0	td y i s 
+تءیں 1.0	td y i~ 
+تا 1.0	td A 
+تاثر 1.0	td A s U r 
+تاثرات 1.0	td A s U r A td 
+تاج 1.0	td A dZ 
+تاجکستان 1.0	td A dZ i k s td A n 
+تاحال 1.0	td A h A l 
+تارکین 1.0	td A r i k i n 
+تاریخ 1.0	td A r i x 
+تاریخی 1.0	td A r i x i 
+تاریک 1.0	td A r i k 
+تاریکی 1.0	td A r i k i 
+تازه 1.0	td A z A 
+تاش 1.0	td A S 
+تاهم 1.0	td A h y m 
+تاکه 1.0	td A k e 
+تب 1.0	td y b 
+تبادله 1.0	td y b A dd i l A 
+تبارک 1.0	td y b A r y k 
+تباه 1.0	td y b A 
+تبدیل 1.0	td y b dd i l 
+تبدیلی 1.0	td y b dd i l i 
+تبدیلیاں 1.0	td y b dd i l i j A~ 
+تجارت 1.0	td i dZ A r y td 
+تجارتی 1.0	td i dZ A r y td i 
+تجاوز 1.0	td y dZ A v U z 
+تجربے 1.0	td y dZ r i b e 
+تجوری 1.0	td y dZ o r i 
+تجویدالقرآن	1.0	td y dZ v i dd A l q U r A n
+تجھے 1.0	td U dZh e 
+تحت 1.0	td y h td 
+تحریری 1.0	td y h r i r i 
+تحریک 1.0	td E h r i k 
+تحصیل 1.0	td y h s i l 
+تحفظ 1.0	td y h y f f U z 
+تحفے 1.0	td U h f e 
+تحقیق 1.0	td y h q i q 
+تحقیقات 1.0	td y h q i q A td 
+تحلیل 1.0	td y h l i l 
+تخت 1.0	td y x td 
+تخلیق 1.0	td y x l i q 
+تدریسی 1.0	td y dd r i s i 
+تذکره 1.0	td y z k i r A 
+تر 1.0	td y r 
+تربوز 1.0	td y r b u z 
+تربوزوں 1.0	td y r b u z o~ 
+تربیت 1.0	td y r b i j y td 
+تربیتی 1.0	td y r b i j y td i 
+تربیلا 1.0	td y r b e l A 
+ترتیب 1.0	td y r td i b 
+ترجمان 1.0	td y r dZ U m A n 
+ترغیب 1.0	td y r 7 i b 
+ترقی 1.0	td y r y q q i 
+ترک 1.0	td y r k 
+ترکیب 1.0	td y r k i b 
+تریسٹھ 1.0	td y r e s y t'h 
+ترین 1.0	td y r i n 
+تسکین 1.0	td y s k i n 
+تشخیص 1.0	td y S x i s 
+تشدد 1.0	td y S y dd dd U dd 
+تشریف 1.0	td y S r i f 
+تشکیل 1.0	td y S k i l 
+تصادم 1.0	td y s A dd U m 
+تصاویر 1.0	td y s A v i r 
+تصدیق 1.0	td y s dd i q 
+تصور 1.0	td y s y v U r 
+تصورات 1.0	td y s O v U r A td 
+تصورکرکے	1.0	td y s u r k y r k e
+تصویر 1.0	td y s v i r 
+تصویروں 1.0	td y s v i r o~ 
+تصویریں 1.0	td y s v i r e~ 
+تعاقب 1.0	td y A q U b 
+تعبیر 1.0	td y b i r 
+تعداد 1.0	td y y dd A dd 
+تعطیلات 1.0	td y y td i l A td 
+تعلق 1.0	td y y l l U q 
+تعلقات 1.0	td y y l l U q A td 
+تعلیم 1.0	td y y l i m 
+تعلیمی 1.0	td y y l i m i 
+تعمیر 1.0	td y y m i r 
+تعین 1.0	td y y j U n 
+تعینات 1.0	td y y j U n A td 
+تفریح 1.0	td y f r i 
+تفسیر 1.0	td y f s i r 
+تفصیل 1.0	td y f s i l 
+تفصیلات 1.0	td y f s i l A td 
+تفصیلی 1.0	td y f s i l i 
+تقریبا 1.0	td y q r i b y n 
+تقریبا 1.0	td y q y r i b y n 
+تقسیم 1.0	td y q s i m 
+تلاش 1.0	td y l A S 
+تلفظ 1.0	td y l y f f U z 
+تلواریں 1.0	td y l v A r e~ 
+تم 1.0	td U m 
+تمارا 1.0	td y m A r A 
+تماشا 1.0	td y m A S A 
+تمام 1.0	td y m A m 
+تمنا 1.0	td y m y n n A 
+تمهیں 1.0	td U m e~ 
+تمهیں 1.0	td U m h e~ 
+تنازع 1.0	td y n A z e 
+تنازعات 1.0	td y n A z y A td 
+تنازعه 1.0	td y n A z i A 
+تناسب 1.0	td y n A s U b 
+تناظر 1.0	td y n A z U r 
+تنخوا	1.0	td n y x A
+تنخواه 1.0	td y n x A 
+تنخواهوں 1.0	td y n x A h o~ 
+تنخواهیں 1.0	td y n x A h e~ 
+تندرست 1.0	td y n dd r U s td 
+تنظیموں 1.0	td y n z i m o~ 
+تنظیمیں 1.0	td y n z i m e~ 
+تنقید 1.0	td y n q i dd 
+تنگ 1.0	td y N 
+تهجی 1.0	td y h y dZ dZ i 
+تهه	1.0	td y h A
+تهوار 1.0	td y h v A r 
+تهواروں 1.0	td y h v A r o~ 
+تو 1.0	td o 
+تو 1.0	td u 
+تواب	1.0	td y v A b
+توازن 1.0	td y v A z U n 
+توانا 1.0	td U v A n A 
+تواناءی 1.0	td U v A n A i 
+توجه 1.0	td y v y dZ dZ o 
+توسونے	1.0	td o s u n e
+توقع 1.0	td y v y q o 
+تولتے 1.0	td o l td e 
+تونهیں	1.0	td i~
+تونگری 1.0	td y v y N g y r i 
+توپ 1.0	td o p 
+توڑ 1.0	td o r' 
+تک 1.0	td U k 
+تک 1.0	td y k 
+تکلیف 1.0	td y k l i f 
+تکنیک 1.0	td y k n i k 
+تگڑا 1.0	td y g r' A 
+تگڑے 1.0	td y g r' e 
+تھا 1.0	tdh A 
+تھرا 1.0	tdh y r r A 
+تھری 1.0	tdh y r i 
+تھوڑی 1.0	tdh o r' i 
+تھوڑے 1.0	tdh o r' Y 
+تھک 1.0	tdh y k 
+تھکا 1.0	tdh y k A 
+تھکتی 1.0	tdh y k td i 
+تھی 1.0	tdh i 
+تھیں 1.0	tdh i~ 
+تھے 1.0	tdh e 
+تیار 1.0	td j A r 
+تیار 1.0	td y j A r 
+تیاری 1.0	td y j A r i 
+تیرا 1.0	td e r A 
+تیراندازی 1.0	td i r y n dd A z i 
+تیراکی 1.0	td Y r A k i 
+تیره 1.0	td e r A 
+تیری 1.0	td e r i 
+تیز 1.0	td e z 
+تیزی 1.0	td e z i 
+تیس 1.0	td i s 
+تیسری 1.0	td i s r i 
+تین 1.0	td i n 
+تیونسی	1.0	td i o n s i
+ثابت 1.0	s A b i td 
+ثبوت 1.0	s U b u td 
+ثمرین 1.0	s y m r i n 
+ثواب 1.0	s y v A b 
+ثے 1.0	s e 
+جا 1.0	dZ A 
+جاءز 1.0	dZ A i z 
+جاءزه 1.0	dZ A i z A 
+جاءیداد 1.0	dZ A i dd A dd 
+جاءیں 1.0	dZ A e~ 
+جاءے 1.0	dZ A e 
+جاب 1.0	dZ A b 
+جاب 1.0	dZ O b 
+جات 1.0	dZ A td 
+جاتا 1.0	dZ A td A 
+جاتااور	1.0	dZ A td A o r
+جاتاهے	1.0	dZ A td A h e
+جاتی 1.0	dZ A td i 
+جاتیں 1.0	dZ A td i~ 
+جاتے 1.0	dZ A td e 
+جادو 1.0	dZ A dd u 
+جارحیت	1.0	dZ A r e h y j y td
+جارها	1.0	dZ A r y h A
+جارهی	1.0	dZ A r y h i
+جاری 1.0	dZ A r i 
+جاسوس 1.0	dZ A s u s 
+جاسویا	1.0	dZ A s y v i j A
+جاسکتا	1.0	i s k td A
+جامع 1.0	dZ A m i A m 
+جامعه 1.0	dZ A m i A 
+جان 1.0	dZ A n 
+جانا 1.0	dZ A n A 
+جانب 1.0	dZ A n i b 
+جانتی 1.0	dZ A n td i 
+جانتے 1.0	dZ A n td e 
+جاننے 1.0	dZ A n n e 
+جانوروں 1.0	dZ A n v y r o~ 
+جانی 1.0	dZ A n i 
+جانیں 1.0	dZ A n i~ 
+جانے 1.0	dZ A n e 
+جاکر 1.0	dZ A k y r 
+جاگتی 1.0	dZ A g td i 
+جاگتے 1.0	dZ A g td e 
+جب 1.0	dZ y b 
+جبر 1.0	dZ y b r 
+جبکه 1.0	dZ y b k e 
+جتنا 1.0	dZ i td n A 
+جتنی 1.0	dZ i td n i 
+جدا 1.0	dZ U dd A 
+جدوجهد 1.0	dZ i dd dd o dZ y h y dd 
+جدید 1.0	dZ y dd i dd 
+جذبا	1.0	dZ y z y b A
+جذبات 1.0	dZ y z b A td 
+جذبه 1.0	dZ y z b A 
+جراءم 1.0	dZ y r A e m 
+جراءم 1.0	dZ y r A i m 
+جران	1.0	dZ y r A n
+جرم 1.0	dZ U r m 
+جرمانه 1.0	dZ U r m A n A 
+جزیره 1.0	dZ y z i r A 
+جس 1.0	dZ i s 
+جسامت 1.0	dZ y s A m y td 
+جسم 1.0	dZ i s m 
+جسمانی 1.0	dZ i s m A n i 
+جسے 1.0	dZ i s e 
+جشن 1.0	dZ y S n 
+جعفر 1.0	dZ y y f y r 
+جعلی 1.0	dZ y y l i 
+جفاکش 1.0	dZ y f A k y S 
+جلانے 1.0	dZ y l A n e 
+جلتے 1.0	dZ y l td e 
+جلد 1.0	dZ i l dd 
+جلد 1.0	dZ y l dd 
+جلدی 1.0	dZ y l dd i 
+جلسه 1.0	dZ y l s A 
+جلن 1.0	dZ y l y n 
+جلنے 1.0	dZ y l n e 
+جلوه 1.0	dZ y l v A 
+جم 1.0	dZ y m 
+جماعتوں 1.0	dZ y m A y td o~ 
+جمع 1.0	dZ y m A 
+جمعرات 1.0	dZ U m e r A td 
+جمعه 1.0	dZ U m A 
+جمعه 1.0	dZ U m e 
+جملے 1.0	dZ U m l e 
+جمناسٹک 1.0	dZ i m n A s t' i k 
+جمهوریت 1.0	dZ y m h u r i j y td 
+جمهوریه 1.0	dZ y m h u r i j A 
+جموں 1.0	dZ y m u~ 
+جن 1.0	dZ i n 
+جناب 1.0	dZ y n A b 
+جناح 1.0	dZ i n A 
+جنجوعه 1.0	dZ y n dZ u A 
+جنجھور	1.0	dZ y n dZh o r
+جنرل 1.0	dZ y n r y l 
+جنسی 1.0	dZ i n s i 
+جنم 1.0	dZ y n y m 
+جنهوں 1.0	dZ i n h o~ 
+جنهیں 1.0	dZ i n h e~ 
+جنوبی 1.0	dZ U n u b i 
+جنوری 1.0	dZ y n v y r i 
+جنگ 1.0	dZ y N 
+جنگل 1.0	dZ y N g y l 
+جنید 1.0	dZ U n e dd 
+جهاز 1.0	dZ y h A z 
+جهاں 1.0	dZ y h A~ 
+جهنوں	1.0	dZ y h n o~
+جو 1.0	dZ o 
+جوا 1.0	dZ U v A 
+جواءنٹ 1.0	dZ U v A i n t' 
+جواب 1.0	dZ y v A b 
+جوان 1.0	dZ y v A n 
+جوده	1.0	dZ u dd A
+جوس 1.0	dZ u s 
+جولاءی 1.0	dZ u l A i 
+جولیٹ	1.0	dZ u l i t'
+جون 1.0	dZ u n 
+جوهڑ 1.0	dZ o h y r' 
+جوں 1.0	dZ u~ 
+جڑ 1.0	dZ U r' 
+جڑی 1.0	dZ U r' i 
+جگا 1.0	dZ y g g A 
+جگه 1.0	dZ y g A 
+جگهوں 1.0	dZ y g y h o~ 
+جھانکا 1.0	dZh A n k A 
+جھاڑ 1.0	dZh A r' 
+جھجکتے 1.0	dZh i dZ y k td e 
+جھلک 1.0	dZh y l y k 
+جھنجھٹ 1.0	dZh y n dZh y t' 
+جھوٹ 1.0	dZh u t' 
+جھڑتا 1.0	dZh y r' td A 
+جھک 1.0	dZh y k 
+جھکاءے 1.0	dZh U k A e 
+جھگڑا 1.0	dZh y g r' A 
+جھیل 1.0	dZh i l 
+جھیلوں 1.0	dZh i l o~ 
+جی 1.0	dZ i 
+جیتا 1.0	dZ i td A 
+جیتنا 1.0	dZ i td n A 
+جیتی 1.0	dZ i td i 
+جیسا 1.0	dZ Y s A 
+جیسی 1.0	dZ Y s i 
+جیسے 1.0	dZ Y s e 
+جیل 1.0	dZ e l 
+جیلسی 1.0	dZ Y l s i 
+جینا 1.0	dZ i n A 
+جینے 1.0	dZ i n e 
+حاد 1.0	h A dd 
+حادثات 1.0	h A dd i s A td 
+حادثے 1.0	h A dd s e 
+حاسدا	1.0	h A s i dd A
+حاصل 1.0	h A s i l 
+حاضر 1.0	h A z i r 
+حاضری 1.0	h A z i r i 
+حافظ 1.0	h A f i z 
+حافظه 1.0	h A f i z A 
+حافظوں 1.0	h A f i z o~ 
+حافظے 1.0	h A f i z e 
+حال 1.0	h A l 
+حالات	1.0	h A l A td
+حالات 1.0	h A l A td 
+حالانکه 1.0	h A l A n k e 
+حالت 1.0	h A l y td 
+حالیه 1.0	h A l i j A 
+حامد 1.0	h A m i dd 
+حامل 1.0	h A m i l 
+حامی 1.0	h A m i 
+حامیوں 1.0	h A m i o~ 
+حبس 1.0	h y b s 
+حتمی 1.0	h y td m i 
+حجر 1.0	h i dZ r 
+حجروں 1.0	h U dZ r o~ 
+حجم 1.0	h y dZ m 
+حد 1.0	h y dd 
+حدتک	1.0	h y dd dd y td k
+حدیث 1.0	h y dd i s 
+حرارت 1.0	h y r A r y td 
+حرام 1.0	h y r A m 
+حروف 1.0	h U r u f 
+حرکات 1.0	h y r k A td 
+حرکت 1.0	h y r k y td 
+حریت 1.0	h U r i j y td 
+حریف 1.0	h y r i f 
+حریفوں 1.0	h y r i f o~ 
+حزب 1.0	h i z b 
+حساب 1.0	h i s A b 
+حسن 1.0	h U s n 
+حسن 1.0	h y s n 
+حسن 1.0	h y s y n 
+حسنی 1.0	h y s n i 
+حسین 1.0	h U s Y n 
+حصه 1.0	h i s s A 
+حصول 1.0	h U s u l 
+حصے 1.0	h i s e 
+حصے 1.0	h i s s e 
+حضرات 1.0	h y z r A td 
+حضرت 1.0	h y z r y td 
+حضور 1.0	h U z u r 
+حضوری 1.0	h U z u r i 
+حفاظتی 1.0	h i f A z td i 
+حفظ 1.0	h i f z 
+حق 1.0	h y q 
+حقاءق 1.0	h y q A i q 
+حقانیه	1.0	h y q A n i j A
+حققین	1.0	h y q q i q i n
+حقو	1.0	h y q u
+حقوق 1.0	h U q u q 
+حقیقت 1.0	h y q i q y td 
+حقیقی 1.0	h y q i q i 
+حقیقین	1.0	h y q i q i n
+حل 1.0	h y l 
+حلق 1.0	h y l q 
+حلیم 1.0	h y l i m 
+حماقت 1.0	h y m A q y td 
+حمله 1.0	h y m l A 
+حملے 1.0	h y m l e 
+حنا 1.0	h i n A 
+حواس 1.0	h y v A s 
+حواله 1.0	h y v A l A 
+حوالے 1.0	h y v A l e 
+حوریں 1.0	h u r e~ 
+حوصله 1.0	h O s y l A 
+حوصلی	1.0	h y v y s l i
+حکام 1.0	h U k k A m 
+حکایت 1.0	h i k A j y td 
+حکم 1.0	h U k m 
+حکمرانوں 1.0	h U k m y r A n o~ 
+حکمرانی 1.0	h U k m r A n i 
+حکومت 1.0	h U k u m y td 
+حکومت 1.0	h y k u m y td 
+حکومتوں 1.0	h U k u m td o~ 
+حکومتوں 1.0	h U k u m y td o~ 
+حکومتوں 1.0	h y k u m td o~ 
+حکومتوں 1.0	h y k u m y td o~ 
+حکومتیں 1.0	h U k u m td e~ 
+حکومتیں 1.0	h U k u m y td e~ 
+حکومتیں 1.0	h y k u m td e~ 
+حکومتیں 1.0	h y k u m y td e~ 
+حکیم 1.0	h y k i m 
+حیاتی 1.0	h y j A td i 
+حیتوں	1.0	h i j y td o~
+حیثیت 1.0	h Y s i j y td 
+حیدر 1.0	h Y dd y r 
+حیران 1.0	h e r A n 
+حیرانگی 1.0	h Y r A N g i 
+حیرت 1.0	h Y r y td 
+خاتمه 1.0	x A td i m A 
+خاتمے 1.0	x A td i m e 
+خاتون 1.0	x A td u n 
+خادم 1.0	x A dd i m 
+خارجه 1.0	x A r i dZ A 
+خارجی 1.0	x A r dZ i 
+خاص 1.0	x A s 
+خاصا 1.0	x A s A 
+خاصه 1.0	x A s A 
+خالد 1.0	x A l i dd 
+خاله 1.0	x A l A 
+خالو 1.0	x A l u 
+خاموشی 1.0	x A m o S i 
+خامیوں 1.0	x A m i o~ 
+خان 1.0	x A n 
+خاندان 1.0	x A n dd A n 
+خاندانی 1.0	x A n dd A n i 
+خانه 1.0	x A n A 
+خانے 1.0	x A n e 
+خاوند 1.0	x A v i n dd 
+خاک 1.0	x A k 
+خاکه 1.0	x A k A 
+خاں 1.0	x A~ 
+خبر 1.0	x y b y r 
+خبردار 1.0	x y b y r dd A r 
+خبریں 1.0	x y b r e~ 
+خبطیوں 1.0	x y b td i o~ 
+ختم 1.0	x y td m 
+خدا 1.0	x U dd A 
+خدشه 1.0	x y dd S A 
+خدمات 1.0	x i dd m A td 
+خدمت 1.0	x i dd m y td 
+خراب 1.0	x y r A b 
+خرابیوں 1.0	x y r A b i o~ 
+خرچ 1.0	x y r tS 
+خرید 1.0	x y r i dd 
+خریدنے 1.0	x y r i dd n e 
+خزانه 1.0	x y z A n A 
+خزانوں 1.0	x y z A n o~ 
+خزانے 1.0	x y z A n e 
+خساره 1.0	x y s A r A 
+خسارے 1.0	x y s A r e 
+خشک 1.0	x U S k 
+خصوصا 1.0	x U s u s y n 
+خصوصی 1.0	x U s u s i 
+خط 1.0	x y td 
+خطاب 1.0	x i td A b 
+خطرناک 1.0	x y td y r n A k 
+خطرے 1.0	x y td r e 
+خطه 1.0	x i td td A 
+خطیب 1.0	x y td i b 
+خطے 1.0	x i td td e 
+خفیه 1.0	x U f j A 
+خلاءی 1.0	x y l A i 
+خلاف 1.0	x i l A f 
+خلق 1.0	x U l q 
+خلل 1.0	x y l y l 
+خلیات 1.0	x y l i j A td 
+خلیجی 1.0	x y l i dZ i 
+خو 1.0	x u 
+خوا	1.0	x A
+خواب 1.0	x A b 
+خوابوں 1.0	x A b o~ 
+خوابیں	1.0	x i~
+خواتین 1.0	x o A td i n 
+خواستگار 1.0	x A s td g A r 
+خواندگی 1.0	x A n dd y g i 
+خواه 1.0	x A 
+خواهاں 1.0	x A h A~ 
+خواهش 1.0	x A h i S 
+خواهشات 1.0	x A h i S A td 
+خوب 1.0	x u b 
+خوبصورت 1.0	x u b s u r y td 
+خود 1.0	x U dd 
+خودکار 1.0	x U dd k A r 
+خودکشی 1.0	x U dd k U S i 
+خوراک 1.0	x U r A k 
+خوش 1.0	x U S 
+خوشبو 1.0	x U S b u 
+خوشبودار 1.0	x U S b u dd A r 
+خوشحالی 1.0	x U S h A l i 
+خوشی 1.0	x U S i 
+خوف 1.0	x O f 
+خوفزده 1.0	x O f z y dd A 
+خوفناک	1.0	x u f y n A k
+خون 1.0	x u n 
+خٹک 1.0	x y t' y k 
+خپلو 1.0	x y p l u 
+خیال 1.0	x y j A l 
+خیبر 1.0	x Y b y r 
+خیبرپختونخوا	1.0	x Y b y r p U x td u n y x A
+خیر 1.0	x Y r 
+خیرات 1.0	x Y r A td 
+خیرجب	1.0	i r dZ y b
+خیمه 1.0	x Y m A 
+داءیں 1.0	dd A e~ 
+داخل 1.0	dd A x i l 
+داخله 1.0	dd A x i l A 
+داخلی 1.0	dd A x i l i 
+داخلے 1.0	dd A x i l e 
+دار 1.0	dd A r 
+دارالحکومت 1.0	dd A r U l h U k u m y td 
+داری 1.0	dd A r i 
+داریا	1.0	dd A r i j A
+داستان 1.0	dd A s td A n 
+داغ	1.0	dd A 7
+داقبال	1.0	dd A q y b A l
+دان 1.0	dd A n 
+دانسته 1.0	dd A n i s td A 
+دایاں 1.0	dd A j A~ 
+دبءی	1.0	dd y b i
+دبانے 1.0	dd y b A n e 
+دداشت	1.0	dd U dd A S td
+در 1.0	dd y r 
+درآمد 1.0	dd y r A m y dd 
+درآمدات 1.0	dd y r A m y dd A td 
+دراز 1.0	dd y r A z 
+دراصل 1.0	dd y r y s y l 
+درانی 1.0	dd U r r A n i 
+دراوڑ 1.0	dd y r A v y r' 
+دربار 1.0	dd y r b A r 
+درجه 1.0	dd y r dZ A 
+درجے 1.0	dd y r dZ e 
+درختوں 1.0	dd y r y x td o~ 
+درخواست 1.0	dd y r x A s td 
+درد 1.0	dd y r dd 
+درست 1.0	dd U r U s td 
+درمیان 1.0	dd y r m i j A n 
+درمیانے 1.0	dd y r m i j A n e 
+دروازه 1.0	dd y r v A z A 
+دروازے 1.0	dd y r v A z e 
+درکا	1.0	dd y r k A
+درکار 1.0	dd y r k A r 
+دریاءوں 1.0	dd y r j A o~ 
+دریاءے	1.0	dd r i j A e
+دریافت 1.0	dd y r j A f td 
+دریافتوں 1.0	dd y r j A f td o~ 
+دس 1.0	dd y s 
+دستخط 1.0	dd y s td x y td 
+دسترس 1.0	dd y s td r y s 
+دستک 1.0	dd y s td y k 
+دستی 1.0	dd y s td i 
+دعاوں	1.0	dd o~
+دعوت 1.0	dd y y v y td 
+دعوی 1.0	dd y y v A 
+دفتر 1.0	dd y f td y r 
+دل 1.0	dd i l 
+دلاتی 1.0	dd i l A td i 
+دلداده 1.0	dd i l dd A dd A 
+دلدل 1.0	dd y l dd y l 
+دلواءیں 1.0	dd y l v A i~ 
+دلوں 1.0	dd i l o~ 
+دلچسپی 1.0	dd i l tS y s p i 
+دلکش 1.0	dd i l k y S 
+دلی 1.0	dd i l i 
+دم 1.0	dd U m 
+دماغ 1.0	dd i m A 7 
+دماغی 1.0	dd i m A 7 i 
+دمشق 1.0	dd y m i S q 
+دن 1.0	dd i n 
+دنوں 1.0	dd i n o~ 
+دنیا 1.0	dd U n j A 
+ده 1.0	dd e 
+دهاءی 1.0	dd U h A i 
+دهاءیوں 1.0	dd y h A i o~ 
+دهانی	1.0	dd y h A n i
+دهرا 1.0	dd U h r A 
+دهراءی 1.0	dd U h r A i 
+دهشت 1.0	dd y h S y td 
+دهلی 1.0	dd e h l i 
+دهکتی 1.0	dd y h y k td i 
+دهی 1.0	dd y h i 
+دو 1.0	dd o 
+دو 1.0	dd u 
+دوا 1.0	dd y v A 
+دواں	1.0	dd A~
+دوباره 1.0	dd o b A r A 
+دوبھر 1.0	dd o bh y r 
+دور 1.0	dd O r 
+دور 1.0	dd o r 
+دور 1.0	dd u r 
+دوران 1.0	dd o r A n 
+دورحکومت 1.0	dd O r e h y k u m y td 
+دوره 1.0	dd o r A 
+دورکے	1.0	dd u r k e
+دورے 1.0	dd O r e 
+دوست 1.0	dd o s td 
+دوستوں 1.0	dd o s td o~ 
+دوستی 1.0	dd o s td i 
+دوسرا 1.0	dd u s r A 
+دوسروں 1.0	dd u s r o~ 
+دوسری 1.0	dd u s r i 
+دوسرے 1.0	dd u s r e 
+دولت 1.0	dd O l y td 
+دونوں 1.0	dd o n o~ 
+دوڑ 1.0	dd O r' 
+دوگنی	1.0	dd o g n i
+دکان 1.0	dd U k A n 
+دکھ 1.0	dd U kh 
+دکھا 1.0	dd U kh A 
+دکھاءی 1.0	dd i kh A i 
+دکھاءیں 1.0	dd i kh A i~ 
+دکھاتی 1.0	dd i kh A td i 
+دکھاتے 1.0	dd i kh A td e 
+دکھایا 1.0	dd i kh A j A 
+دکھلاوے 1.0	dd i kh l A v e 
+دھاریوں 1.0	ddh A r i o~ 
+دھارے 1.0	ddh A r e 
+دھاڑ 1.0	ddh A r' 
+دھبه 1.0	ddh y b b A 
+دھبوں 1.0	ddh y b b o~ 
+دھرتی 1.0	ddh y r td i 
+دھمکی 1.0	ddh y m k i 
+دھنستا 1.0	ddh y n s td A 
+دھنسنے 1.0	ddh y n s n e 
+دھنگ 1.0	ddh y N 
+دھو 1.0	ddh o 
+دھوم 1.0	ddh u m 
+دھوکه 1.0	ddh o k A 
+دھڑ 1.0	ddh y r' 
+دھڑا 1.0	ddh y r' A 
+دھڑنگ 1.0	ddh y r' y N 
+دھڑکتا 1.0	ddh y r' y k td A 
+دھکا 1.0	ddh y k k A 
+دھیمی 1.0	ddh i m i 
+دی 1.0	dd i 
+دیءے	1.0	dd i e
+دیا 1.0	dd i A 
+دیا 1.0	dd i j A 
+دیابھابی	1.0	dd i j A bh A b i
+دیاهے	1.0	dd i j A h e
+دیتا 1.0	dd e td A 
+دیتاهے	1.0	dd i j y td A h e
+دیتی 1.0	dd e td i 
+دیتے 1.0	dd e td e 
+دیر 1.0	dd i r 
+دیش 1.0	dd e S 
+دین 1.0	dd i n 
+دینا 1.0	dd i n A 
+دینی 1.0	dd i n i 
+دینے 1.0	dd e n e 
+دیهات 1.0	dd e h A td 
+دیهاتی 1.0	dd e h A td i 
+دیهاتیوں 1.0	dd e h A td i o~ 
+دیواروں 1.0	dd i v A r o~ 
+دیوانه 1.0	dd i v A n A 
+دیٹ	1.0	dd e t'
+دیپ 1.0	dd i p 
+دیکنھے	1.0	dd i k e
+دیکھ 1.0	dd e kh 
+دیکھا 1.0	dd e kh A 
+دیکھاوا	1.0	dd e kh A v A
+دیکھایاجاتاهے	1.0	dd e kh A j A dZ A td A h e
+دیکھتا 1.0	dd e kh td A 
+دیکھتے 1.0	dd e kh td e 
+دیکھنا 1.0	dd e kh n A 
+دیکھنے 1.0	dd e kh n e 
+دیکھی 1.0	dd e kh i 
+دیکھیں 1.0	dd e kh e~ 
+دیکھے 1.0	dd e kh e 
+دیگ 1.0	dd e g 
+دیگر 1.0	dd i g y r 
+دیں 1.0	dd e~ 
+دیں 1.0	dd i~ 
+دیے 1.0	dd i e 
+دے 1.0	dd e 
+ذاءقه 1.0	z A e q A 
+ذاءقے 1.0	z A e q e 
+ذات 1.0	z A td 
+ذاتی 1.0	z A td i 
+ذخاءر 1.0	z y x A i r 
+ذخیره 1.0	z y x i r A 
+ذخیرے 1.0	z y x i r e 
+ذرا 1.0	z y r A 
+ذراءع 1.0	z y r A e 
+ذریعه 1.0	z y r i A 
+ذریعے 1.0	z y r i e 
+ذمه 1.0	z i m m A 
+ذهانت 1.0	z y h A n y td 
+ذهن 1.0	z i h n 
+ذهنوں 1.0	z i h n o~ 
+ذهنی 1.0	z i h n i 
+ذهین 1.0	z y h i n 
+ذکر 1.0	z i k r 
+ر	1.0	r
+را 1.0	r A 
+راءی 1.0	r A i 
+راءے 1.0	r A e 
+رابطه 1.0	r A b i td A 
+رابطوں 1.0	r A b i td o~ 
+رات 1.0	r A td 
+راجستھان	1.0	r A dZ i s tdh A n
+راحت 1.0	r A h y td 
+راز 1.0	r A z 
+راست 1.0	r A s td 
+راسته 1.0	r A s td A 
+راستے 1.0	r A s td e 
+راشد 1.0	r A S i dd 
+رال 1.0	r A l 
+رام 1.0	r A m 
+راهداری 1.0	r A h dd A r i 
+راهنماءی 1.0	r A h n U m A i 
+راولا 1.0	r A v l A 
+راولپنڈی 1.0	r A v y l p i n d' i 
+راوی 1.0	r A v i 
+رب 1.0	r y b 
+ربانی 1.0	r y b b A n i 
+رجمنٹ 1.0	r i dZ m i n t' 
+رس 1.0	r y s 
+رساءی 1.0	r y s A i 
+رسد 1.0	r y s y dd 
+رسولی 1.0	r y s O l i 
+رسومات 1.0	r U s u m A td 
+رسک 1.0	r i s k 
+رشتوں 1.0	r i S td o~ 
+رشتے 1.0	r i S td e 
+رشید 1.0	r y S i dd 
+رضا 1.0	r y z A 
+رضاکار 1.0	r y z A k A r 
+رضاکاروں 1.0	r y z A k A r o~ 
+رضی 1.0	r y z i 
+رعایا 1.0	r i A j A 
+رفتار 1.0	r y f td A r 
+رقم 1.0	r y q y m 
+رن 1.0	r y n 
+رند 1.0	r i n dd 
+رنگ 1.0	r i N 
+رنگیلا 1.0	r y N g i l A 
+رنگے 1.0	r y N g e 
+ره 1.0	r A 
+ره 1.0	r e 
+رها 1.0	r A 
+رها 1.0	r i h A 
+رها 1.0	r y h A 
+رهاءش 1.0	r y h A i S 
+رهاءشی 1.0	r y h A i S i 
+رهاءشیوں 1.0	r y h A i S i o~ 
+رهاءی 1.0	r i h A i 
+رهتا 1.0	r y h td A 
+رهتاهے	1.0	r y h td A h e
+رهتی 1.0	r E h td i 
+رهتے 1.0	r E h td e 
+رهنا 1.0	r E h n A 
+رهنما 1.0	r y h n U m A 
+رهنماءوں 1.0	r y h n U m A o~ 
+رهنے 1.0	r y h n e 
+رهی 1.0	r i 
+رهی 1.0	r y h i 
+رهی 1.0	r y i 
+رهیں 1.0	r y h i~ 
+رهے 1.0	r e 
+رهے 1.0	r y e 
+رهے 1.0	r y h e 
+رو 1.0	r u 
+روانه 1.0	r v A n A 
+روانه 1.0	r y v A n A 
+رواں 1.0	r U v A~ 
+روایت 1.0	r i v A j y td 
+روایتی 1.0	r i v A j y td i 
+روتی 1.0	r o td i 
+روتے 1.0	r o td e 
+روح 1.0	r u 
+روز 1.0	r u z 
+روزانه 1.0	r o z A n A 
+روزمره 1.0	r o z m y r r A 
+روزه 1.0	r o z A 
+روزگار 1.0	r o z g A r 
+روشن 1.0	r O S y n 
+روشنی 1.0	r O S n i 
+رومیو 1.0	r O m i o 
+رونے 1.0	r o n e 
+روهتاس 1.0	r O h td A s 
+روٹیوں 1.0	r o t' i o~ 
+روپ 1.0	r u p 
+روپے 1.0	r u p e 
+روڈ 1.0	r o d' 
+روکاوٹ	1.0	r o k A v y t'
+روکنے 1.0	r o k n e 
+رپورٹ 1.0	r i p o r t' 
+رپورٹس 1.0	r i p o r t' s 
+رپورٹیں 1.0	r i p o r t' e~ 
+رک 1.0	r U k 
+رکاوٹوں 1.0	r U k A v y t' o~ 
+رکاوٹیں 1.0	r U k A v y t' e~ 
+رکھ 1.0	r y kh 
+رکھا 1.0	r y kh kh A 
+رکھااور	1.0	r y kh A o r
+رکھاهےاس	1.0	r y kh A h e i s
+رکھتا 1.0	r y kh td A 
+رکھتی 1.0	r y kh td i 
+رکھتے 1.0	r y kh td e 
+رکھنا 1.0	r y kh n A 
+رکھنی 1.0	r y kh n i 
+رکھنے 1.0	r y kh n e 
+رکھی 1.0	r y kh i 
+رکھیں 1.0	r y kh i~ 
+رکھیے 1.0	r y kh j e 
+رکھے 1.0	r y kh e 
+ری 1.0	r i 
+ریاست 1.0	r i j A s y td 
+ریاستی 1.0	r i j A s y td i 
+ریجمنٹ 1.0	r Y dZ m y n t' 
+ریزیڈنٹ 1.0	r Y z i d' y n t' 
+ریستوران 1.0	r Y s td u r A n 
+ریسرچ 1.0	r i s y r tS 
+ریسکیو 1.0	r Y s k i j u 
+ریل 1.0	r i l 
+ریلا 1.0	r e l A 
+ریلوے 1.0	r e l v e 
+ریلی 1.0	r Y l i 
+ریلے 1.0	r e l e 
+رینج 1.0	r e n dZ 
+رینجرز 1.0	r e n dZ y r z 
+ریڈیو 1.0	r e d' j o 
+ریڑھی 1.0	r e r'h i 
+ریکارڈ 1.0	r i k A r d' 
+ریکارڈنگ 1.0	r i k A r d' i N 
+ریگولیٹری 1.0	r Y g u l e t' r i 
+زاءد 1.0	z A i dd 
+زاد 1.0	z A dd 
+زار 1.0	z A r 
+زبان 1.0	z U b A n 
+زبانیں 1.0	z U b A n e~ 
+زبردست 1.0	z y b y r dd y s td 
+زخمی 1.0	z y x m i 
+زد 1.0	z y dd 
+زده 1.0	z y dd A 
+زرخیز 1.0	z y r x e z 
+زرداری	1.0	z y r dd A r i
+زمانه 1.0	z y m A n A 
+زمانے 1.0	z y m A n e 
+زمین 1.0	z y m i n 
+زمینی 1.0	z y m i n i 
+زمیں 1.0	z y m i~ 
+زنده 1.0	z i n dd A 
+زندگی 1.0	z i n dd y g i 
+زندگیاں 1.0	z i n dd y g j A~ 
+زور 1.0	z o r 
+زون 1.0	z o n 
+زیادتی 1.0	z i j A dd y td i 
+زیاده 1.0	z A dd A 
+زیاده 1.0	z e A dd A 
+زیاده 1.0	z i j A dd A 
+زیارت 1.0	z i j A r y td 
+زیر 1.0	z i r 
+زیرآب 1.0	z e r e A b 
+زینت 1.0	z i n y td 
+س	1.0	s
+سا 1.0	s A 
+ساءن 1.0	s A i n 
+ساءنسدان 1.0	s A i n s dd A n 
+ساءونڈ 1.0	s A u n d' 
+ساءٹ 1.0	s A i t' 
+ساءٹس 1.0	s A i t' s 
+ساب	1.0	s A b
+سابق 1.0	s A b i q 
+سابقه 1.0	s A b i q A 
+سات 1.0	s A td 
+ساتوں 1.0	s A td o~ 
+ساتھ 1.0	s A tdh 
+ساتھی 1.0	s A tdh i 
+ساحل 1.0	s A h i l 
+سارا 1.0	s A r A 
+ساری 1.0	s A r i 
+سارے 1.0	s A r e 
+سازباز 1.0	s A z b A z 
+سازی	1.0	s A z i
+سال 1.0	s A l 
+سالانه 1.0	s A l A n A 
+ساله 1.0	s A l A 
+سالهپانچ	1.0	s A l y h p A n tS
+سالوں 1.0	s A l o~ 
+سالی 1.0	s A l i 
+سامان 1.0	s A m A n 
+سامنا 1.0	s A m n A 
+سامنے 1.0	s A m n e 
+سانس 1.0	s A n s 
+ساٹھ 1.0	s A t'h 
+ساڑھے 1.0	s A r'h e 
+سب 1.0	s y b 
+سبب 1.0	s y b y b 
+سبز 1.0	s y b z 
+ستارے 1.0	s i td A r e 
+ستر 1.0	s y td r 
+ستلج 1.0	s y td l U dZ 
+ستھرے 1.0	s U tdh r e 
+سجا 1.0	s y dZ A 
+سحر 1.0	s E h E r 
+سخاوت 1.0	s y x A v y td 
+سخت 1.0	s y x td 
+سدا 1.0	s y dd A 
+سدھ 1.0	s U ddh 
+سر 1.0	s U r 
+سر 1.0	s y r 
+سر 1.0	s y r e 
+سرانجام 1.0	s y r y n dZ A m 
+سربراه 1.0	s y r b y r A 
+سربراهان 1.0	s y r b y r A h A n 
+سرتاج 1.0	s y r td A dZ 
+سرحد 1.0	s y r h y dd 
+سرد 1.0	s y r dd 
+سردار 1.0	s y r dd A r 
+سرشار 1.0	s y r S A r 
+سرفراز 1.0	s y r f y r A z 
+سرمایه 1.0	s y r m A j A 
+سرور 1.0	s U r u r 
+سروس 1.0	s y r v i s 
+سروسز 1.0	s y r v i s i z 
+سروے 1.0	s y r v e 
+سرکاری 1.0	s y r k A r i 
+سرگرم 1.0	s y r g y r m 
+سرگرمیوں 1.0	s y r g y r m i o~ 
+سرگوشیاں 1.0	s y r g o S i j A~ 
+سرے 1.0	s i r e 
+سزا 1.0	s y z A 
+سستی 1.0	s U s td i 
+سستے 1.0	s y s td e 
+سسٹم 1.0	s i s t' y m 
+سسے	1.0	s i s e
+سطح 1.0	s y td h 
+سطع	1.0	s y td td e
+سعدی 1.0	s y y dd i 
+سعودی 1.0	s y u dd i 
+سفارتی 1.0	s i f A r td i 
+سفر 1.0	s y f y r 
+سلام 1.0	s l A m 
+سلام 1.0	s y l A m 
+سلامت 1.0	s y l A m y td 
+سلامتی 1.0	s y l A m td i 
+سلسله 1.0	s i l s i l A 
+سلسله 1.0	s i l s l A 
+سلسلے 1.0	s i l s i l e 
+سلطنت 1.0	s y l td y n y td 
+سلوا 1.0	s i l v A 
+سلیب	1.0	i b
+سلیمان 1.0	s U l Y m A n 
+سلیپنگ 1.0	s y l i p i N 
+سما 1.0	s y m A 
+سماجی 1.0	s y m A dZ i 
+سماع 1.0	s y m A 
+سماعت 1.0	s y m A y td 
+سماعتوں 1.0	s y m A y td o~ 
+سمت 1.0	s i m td 
+سمجھ 1.0	s y m y dZh 
+سمجھا 1.0	s y m dZh A 
+سمجھتا 1.0	s y m y dZh td A 
+سمجھتے 1.0	s y m y dZh td e 
+سمجھنے 1.0	s y m y dZh n e 
+سمجھیں 1.0	s y m dZh i~ 
+سمجھے 1.0	s y m dZh e 
+سمز 1.0	s i m z 
+سمندر 1.0	s y m y n dd y r 
+سموسه 1.0	s y m o s A 
+سموسے 1.0	s y m o s e 
+سمیت 1.0	s y m e td 
+سمیع 1.0	s y m i 
+سمیٹ 1.0	s y m e t' 
+سن 1.0	s U n 
+سنا 1.0	s U n A 
+سناتے 1.0	s U n A td e 
+سنانا 1.0	s U n A n A 
+سنبھال 1.0	s y m bh A l 
+سنبھالتاهے	1.0	s n i bh A l td A h e
+سنت 1.0	s U n n y td 
+سنتا 1.0	s U n td A 
+سنتے 1.0	s U n td e 
+سنجیده 1.0	s y n dZ i dd A 
+سندھ 1.0	s i n ddh 
+سنسر 1.0	s y n s y r 
+سننے 1.0	s U n n e 
+سنهرے 1.0	s U n y h r e 
+سنوارا 1.0	s y n v A r A 
+سنوواءٹ	1.0	s y n O v A i t'
+سنٹر 1.0	s y n t' y r 
+سنڈریلا	1.0	s y n d' y r i l A
+سنکی 1.0	s y n k i 
+سنگھ 1.0	s i n gh 
+سنیما 1.0	s y n i m A 
+سنے 1.0	s U n e 
+سهارے 1.0	s y h A r e 
+سهانے 1.0	s y h A n e 
+سهمے 1.0	s y h m e 
+سهولت 1.0	s U h u l y td 
+سهولتوں 1.0	s U h u l y td o~ 
+سهولتیں 1.0	s U h u l y td e~ 
+سهولیات 1.0	s U h u l i j A td 
+سهیل 1.0	s U h e l 
+سو 1.0	s o 
+سو 1.0	s u 
+سوءی 1.0	s u i 
+سوءے 1.0	s o e 
+سوا 1.0	s U v A 
+سواءے 1.0	s i v A e 
+سوات 1.0	s y v A td 
+سوال 1.0	s U v A l 
+سوالات 1.0	s y v A l A td 
+سوالیه 1.0	s U v A l i j A 
+سوتے 1.0	s o td e 
+سوجھ 1.0	s u dZh 
+سورج 1.0	s u r y dZ 
+سوشل 1.0	s o S y l 
+سولر 1.0	s o l y r 
+سوله 1.0	s o l A 
+سولهویں 1.0	s o l y h v i~ 
+سونے 1.0	s u n e 
+سوهان 1.0	s o h A n 
+سوچ 1.0	s o tS 
+سوچا 1.0	s o tS A 
+سوچتا 1.0	s o tS td A 
+سوچتے 1.0	s o tS td e 
+سوچنا 1.0	s o tS n A 
+سوچنے 1.0	s o tS n e 
+سوچوں 1.0	s o tS o~ 
+سوچیں 1.0	s o tS e~ 
+سٹارٹ 1.0	s y t' A r t' 
+سٹه 1.0	s y t' t' A 
+سٹی 1.0	s i t' i 
+سٹیشنز 1.0	s i t' e S y n z 
+سٹیٹس 1.0	s i t' e t' s 
+سپاره 1.0	s i p A r A 
+سپاهی 1.0	s i p A h i 
+سپاهیوں 1.0	s i p A h i o~ 
+سپر 1.0	s U p y r 
+سپرد 1.0	s U p U r dd 
+سپلاءی 1.0	s y p l A i 
+سپنوں 1.0	s y p n o~ 
+سپنے 1.0	s y p n e 
+سپورٹس 1.0	s p o r t' s 
+سچ 1.0	s y tS 
+سچا 1.0	s y tS tS A 
+سچاءی 1.0	s y tS tS A i 
+سچی 1.0	s y tS tS i 
+سڑک 1.0	s y r' y k 
+سڑکوں 1.0	s y r' k o~ 
+سکتا 1.0	s y k td A 
+سکتی 1.0	s y k td i 
+سکتے 1.0	s y k td e 
+سکنات 1.0	s y k n A td 
+سکندر 1.0	s i k y n dd y r 
+سکواش 1.0	s y k U v A S 
+سکوبی	1.0	s y k o b i
+سکول 1.0	s k u l 
+سکولز 1.0	s k u l z 
+سکولوں 1.0	s k u l o~ 
+سکون 1.0	s U k u n 
+سکوں 1.0	s U k u~ 
+سکینر 1.0	s y k e n y r 
+سکیں 1.0	s y k e~ 
+سکے 1.0	s i k k e 
+سی 1.0	s i 
+سیاح 1.0	s y j A 
+سیاحوں 1.0	s y j A h o~ 
+سیاست 1.0	s i j A s y td 
+سیاسی 1.0	s i j A s i 
+سیالکوٹ 1.0	s i j A l k o t' 
+سیخ 1.0	s i x 
+سید 1.0	s y j y dd 
+سیریل 1.0	s i r i j y l 
+سیز 1.0	s i z 
+سیف 1.0	s e f 
+سیفٹی 1.0	s e f t' i 
+سیلاب 1.0	s Y l A b 
+سیلابوں 1.0	s Y l A b o~ 
+سیلابی 1.0	s Y l A b i 
+سیلن 1.0	s i l y n 
+سیمی 1.0	s i m i 
+سین 1.0	s i n 
+سینسر 1.0	s Y n s y r 
+سینٹر 1.0	s Y n t' y r 
+سینکڑوں 1.0	s Y n k r' o~ 
+سینیٹ 1.0	s e n e t' 
+سینیٹر 1.0	s e n e t' y r 
+سیکریٹری 1.0	s Y k r e t' r i 
+سیکنڈری 1.0	s Y k i n d' r i 
+سیکٹر 1.0	s Y k t' y r 
+سیکھ 1.0	s i kh 
+سیکھا 1.0	s i kh A 
+سیکیورٹی 1.0	s i k j o r i t' i 
+سے 1.0	s e 
+ش	1.0	S
+شءیرز	1.0	S y i r z
+شا 1.0	S A 
+شاءد 1.0	S A i dd 
+شاءع 1.0	S A e 
+شاءقین 1.0	S A i q i n 
+شادی 1.0	S A dd i 
+شارٹ 1.0	S A r t' 
+شاعر 1.0	S A i r 
+شاعری 1.0	S A i r i 
+شام 1.0	S A m 
+شامل 1.0	S A m i l 
+شاموں 1.0	S A m o~ 
+شان 1.0	S A n 
+شانے 1.0	S A n e 
+شاه 1.0	S A 
+شاهد 1.0	S A h i dd 
+شاهدره 1.0	S A h dd y r A 
+شاهراه 1.0	S A h r A 
+شاهوں 1.0	S A h o~ 
+شاهکار 1.0	S A h k A r 
+شاهی 1.0	S A h i 
+شاپنگ 1.0	S O p i N 
+شاگرد 1.0	S A g i r dd 
+شاید 1.0	S A e dd 
+شاید 1.0	S A j y dd 
+شب 1.0	S y b 
+شبه 1.0	S U b A 
+شبیر 1.0	S y b i r 
+شخص 1.0	S y x s 
+شخصیات 1.0	S y x s i j A td 
+شخصیت 1.0	S y x s i j y td 
+شدت 1.0	S i dd dd y td 
+شده 1.0	S U dd A 
+شدید 1.0	S y dd i dd 
+شراب 1.0	S y r A b 
+شرارتا 1.0	S y r A r y td y n 
+شراکت 1.0	S i r A k y td 
+شرح 1.0	S y r A 
+شرط 1.0	S y r td 
+شرم 1.0	S y r m 
+شرمنده 1.0	S y r m i n dd A 
+شروع 1.0	S U r u 
+شروع 1.0	S r u 
+شرکا	1.0	S y r k A
+شرکت 1.0	S i r k y td 
+شریف 1.0	S y r i f 
+شریڈل	1.0	i d' y l
+شریک 1.0	S y r i k 
+شعبے 1.0	S U b e 
+شعر 1.0	S e r 
+شعور 1.0	S U u r 
+شعوری 1.0	S U u r i 
+شعیب 1.0	S U Y b 
+شفاف 1.0	S y f f A f 
+شفیق 1.0	S y f i q 
+شمار 1.0	S U m A r 
+شمال 1.0	S U m A l 
+شمالی 1.0	S U m A l i 
+شمسی 1.0	S y m s i 
+شمولیت 1.0	S U m u l i j y td 
+شناختی 1.0	S y n A x td i 
+شنواری	1.0	S y n v A r i
+شنگھاءی 1.0	S i n gh A i 
+شهادت 1.0	S y h A dd y td 
+شهر 1.0	S E h y r 
+شهرت 1.0	S U h r y td 
+شهروں 1.0	S y h r o~ 
+شهری 1.0	S y h r i 
+شهریوں 1.0	S y h y r i o~ 
+شهزادی 1.0	S y h z A dd i 
+شهزادے 1.0	S y h z A dd e 
+شهید 1.0	S y h i dd 
+شهیدطفیل	1.0	S y h i dd e td i f i l
+شو 1.0	S u 
+شوشل	1.0	S o S y l
+شوق 1.0	S O q 
+شوقین 1.0	S O q i n 
+شوهر 1.0	S O h y r 
+شوکت 1.0	S O k y td 
+شٹل 1.0	S y t' y l 
+شپ 1.0	S i p 
+شک 1.0	S y k 
+شکار 1.0	S i k A r 
+شکاری 1.0	S i k A r i 
+شکر 1.0	S U k r 
+شکریه 1.0	S U k r i j A 
+شکل 1.0	S y k l 
+شکل 1.0	S y k y l 
+شکنی	1.0	S y k n i
+شکوه 1.0	S i k v A 
+شکیل 1.0	S y k i l 
+شیءر 1.0	S e y r 
+شیخ 1.0	S e x 
+شیطان 1.0	S Y td A n 
+شیلنگ 1.0	S Y l i N 
+شیڈول 1.0	S e d' u l 
+شے 1.0	S Y 
+صاحب 1.0	s A h i b 
+صاحبه 1.0	s A h i b A 
+صادر 1.0	s A dd i r 
+صارف 1.0	s A r i f 
+صارفین 1.0	s A r i f i n 
+صاف 1.0	s A f 
+صبح 1.0	s U b h 
+صبح 1.0	s U b y 
+صبح 1.0	s U b y h 
+صبر 1.0	s y b r 
+صحافیوں 1.0	s y h A f i o~ 
+صحت 1.0	s i h h y td 
+صحرا 1.0	s y h r A 
+صحراءے	1.0	s U h y r A e
+صحیح 1.0	s y h i 
+صد 1.0	s y dd 
+صدارت 1.0	s y dd A r y td 
+صدر 1.0	s y dd r 
+صدمه 1.0	s y dd m A 
+صدی 1.0	s y dd i 
+صدیوں 1.0	s y dd j o~ 
+صرف 1.0	s i r f 
+صرف 1.0	s i r y f 
+صرف 1.0	s y r f 
+صرف 1.0	s y r y f 
+صغیر 1.0	s y 7 i r 
+صفاءی 1.0	s y f A i 
+صفحات 1.0	s y f h A td 
+صفر 1.0	s y f y r 
+صلا 1.0	s y l A 
+صلاح 1.0	s y l A 
+صلاحتیں	1.0	s y l A h y td i~
+صلاحیت 1.0	s y l A h i j y td 
+صلاحیتوں 1.0	s y l A h i j y td o~ 
+صلی 1.0	s y l 
+صوابدیدی 1.0	s y v A b dd i dd i 
+صوباءی 1.0	s u b A i 
+صوبوں 1.0	s u b o~ 
+صوبے 1.0	s u b e 
+صورت 1.0	s u r y td 
+صورتحال 1.0	s u r y td e h A l 
+صورتیں 1.0	s u r y td e~ 
+ضرور 1.0	z U r u r 
+ضرورت 1.0	z U r u r y td 
+ضروری 1.0	z U r u r i 
+ضروریات 1.0	z U r u r i j A td 
+ضلع 1.0	z i l A 
+ضمن 1.0	z i m n 
+ضمیر 1.0	z y m i r 
+طارق 1.0	td A r i q 
+طاقت 1.0	td A q y td 
+طالب 1.0	td A l i b 
+طالبانوں	1.0	td A l y b A n o~
+طالبه 1.0	td A l i b A 
+طالبوں 1.0	td A l i b o~ 
+طاهر 1.0	td A h i r 
+طرح 1.0	td y r h A 
+طرز 1.0	td y r z 
+طرف 1.0	td y r f 
+طرفه 1.0	td y r f A 
+طره 1.0	td U r r A 
+طریقه 1.0	td y r i q A 
+طریقه 1.0	td y r i q A e 
+طریقے 1.0	td y r i q e 
+طغیانی 1.0	td U 7 j A n i 
+طفیل 1.0	td U f Y l 
+طلاق 1.0	td y l A q 
+طلب 1.0	td y l y b 
+طلباء	1.0	td y l b A
+طلبه 1.0	td y l y b A 
+طور 1.0	td O r 
+طور 1.0	td o r 
+طور 1.0	td u r 
+طویل 1.0	td y v i l 
+طیاره 1.0	td y j A r A 
+طیارے 1.0	td y j A r e 
+طے 1.0	td Y 
+ظاهر 1.0	z A h i r 
+ظرف 1.0	z y r f 
+ظلم 1.0	z U l m 
+ظهبی	1.0	z y h b i
+عاءد 1.0	A i dd 
+عادت 1.0	A dd y td 
+عارضی 1.0	A r z i 
+عارف 1.0	A r i f 
+عاری 1.0	A r i 
+عالم 1.0	A l i m 
+عالمگیر 1.0	A l y m g i r 
+عالمی 1.0	A l y m i 
+عام 1.0	A m 
+عبارات 1.0	i b A r A td 
+عبد 1.0	y b dd 
+عبدالستار 1.0	y b dd U s s y td A r 
+عبدالقادر 1.0	y b dd U l q A dd i r 
+عبور 1.0	U b u r 
+عثمان 1.0	U s m A n 
+عجیب 1.0	y dZ i b 
+عدالت 1.0	y dd A l y td 
+عدل 1.0	y dd l 
+عدل 1.0	y dd y l 
+عرب 1.0	A r y b 
+عرب 1.0	y r y b 
+عربی 1.0	y r y b i 
+عرش 1.0	y r S 
+عرصه 1.0	y r s A 
+عرصے 1.0	y r s e 
+عرض 1.0	y r z 
+عرفان 1.0	i r f A n 
+عروج 1.0	U r u dZ 
+عزت 1.0	i z y td 
+عزت 1.0	i z z y td 
+عزم 1.0	y z m 
+عزیز 1.0	y z i z 
+عسکریت 1.0	y s k y r i j y td 
+عشق 1.0	i S q 
+عطا 1.0	y td A 
+عطاء 1.0	y td A 
+عظیم 1.0	y z i m 
+عقب 1.0	y q y b 
+عقل 1.0	y q l 
+علاج 1.0	i l A dZ 
+علاقه 1.0	i l A q A 
+علاقوں 1.0	i l A q o~ 
+علاقے 1.0	i l A q e 
+علاوه 1.0	i l A v A 
+علم 1.0	i l m 
+علم 1.0	i l y m 
+علوم 1.0	U l u m 
+علی 1.0	y l A 
+علیه 1.0	y l Y 
+علیه 1.0	y l Y h 
+علیه 1.0	y l Y h e 
+عمارات 1.0	i m A r A td 
+عمارت 1.0	i m A r y td 
+عمارتوں 1.0	i m A r y td o~ 
+عمر 1.0	U m y r 
+عمران 1.0	i m r A n 
+عمریں 1.0	U m r e~ 
+عمل 1.0	y m y l 
+عمله 1.0	y m l A 
+عملی 1.0	y m y l i 
+عملے 1.0	y m l e 
+عموما 1.0	U m u m y n 
+عمومی 1.0	U m u m i 
+عناصر 1.0	y n A s i r 
+عنبر 1.0	y m b y r 
+عنصر 1.0	U n s y r 
+عنقریب 1.0	y n q y r i b 
+عنه 1.0	y n h o 
+عهد 1.0	y h y dd 
+عهدیداران 1.0	U h dd e dd A r A n 
+عوام 1.0	y v A m 
+عوامی 1.0	y v A m i 
+عورت 1.0	O r y td 
+عورتو 1.0	O r y td o 
+عورتوں 1.0	O r y td o~ 
+عورتیں 1.0	O r y td e~ 
+عیاری 1.0	Y j A r i 
+عیاش 1.0	Y j A S 
+عید 1.0	i dd 
+عیش 1.0	Y S 
+عین 1.0	Y n 
+عینی 1.0	Y n i 
+غداروں 1.0	7 y dd dd A r o~ 
+غذا 1.0	7 i z A 
+غربت 1.0	7 U r b y td 
+غرض 1.0	7 y r y z 
+غرق 1.0	7 y r q 
+غریب 1.0	7 y r i b 
+غصه 1.0	7 U s s A 
+غصے 1.0	7 U s s e 
+غلام 1.0	7 U l A m 
+غلط 1.0	7 y l y td 
+غلطی 1.0	7 y l y td i 
+غلیظ 1.0	7 y l i z 
+غم 1.0	7 y m 
+غنودگی 1.0	7 U n u dd y g i 
+غنی 1.0	7 y n i 
+غور 1.0	7 O r 
+غیر 1.0	7 Y r 
+غیرت 1.0	7 Y r y td 
+غیرحاضر 1.0	7 Y r h A z i r 
+غیرمعمولی 1.0	7 Y r m y m u l i 
+فاءده 1.0	f A i dd A 
+فاءر 1.0	f A i r 
+فاءرنگ 1.0	f A i r i N 
+فاءنل 1.0	f A e n y l 
+فاءنڈنگ 1.0	f A i n d' i N 
+فاخره 1.0	f A x r A 
+فارسی 1.0	f A r s i 
+فارغ 1.0	f A r i 7 
+فارم 1.0	f A r m 
+فارمولا 1.0	f A r m u l A 
+فارموله 1.0	f A r m u l A 
+فاروق 1.0	f A r u q 
+فاروقی 1.0	f A r u q i 
+فاصله 1.0	f A s i l A 
+فاصلے 1.0	f A s i l e 
+فاطمه 1.0	f A td i m A 
+فاطمی 1.0	f A td i m i 
+فاقه 1.0	f A q A 
+فانوس 1.0	f A n u s 
+فانی 1.0	f A n i 
+فتاوا	1.0	f td A v A
+فتح 1.0	f y td h 
+فتح 1.0	f y td y h 
+فتوی 1.0	f y td v A 
+فخریه 1.0	f y x r i j A 
+فرا 1.0	f y r A 
+فراءض 1.0	f y r A i z 
+فرانس 1.0	f y r A n s 
+فرانسیسی 1.0	f y r A n s i s i 
+فراهم 1.0	f y r A h y m 
+فراهمی 1.0	f y r A h y m i 
+فرحت 1.0	f y r h y td 
+فرد 1.0	f y r dd 
+فرش 1.0	f y r S 
+فرشتوں 1.0	f y r i S td o~ 
+فرشتے 1.0	f y r i S td e 
+فرشی 1.0	f y r S i 
+فرصت 1.0	f U r s y td 
+فرق 1.0	f y r q 
+فرما 1.0	f y r m A 
+فرماءی 1.0	f y r m A i 
+فرماءیں 1.0	f y r m A e~ 
+فروانی	1.0	f y r v A n i
+فروخت 1.0	f y r O x td 
+فروری 1.0	f y r v y r i 
+فروغ 1.0	f y r u 7 
+فری 1.0	f r i 
+فرید 1.0	f y r i dd 
+فریضه 1.0	f y r i z A 
+فریقه	1.0	f y r i q A
+فریقین 1.0	f y r i q Y n 
+فرینک 1.0	f y r Y n k 
+فصلوں 1.0	f y s l o~ 
+فضاءی 1.0	f i z A i 
+فضاءیه 1.0	f i z A i j A 
+فضل 1.0	f y z l 
+فطرت 1.0	f i td r y td 
+فقدان 1.0	f U q dd A n 
+فقه 1.0	f i q A 
+فقهه	1.0	f U q y h A
+فقهی 1.0	f i q h i 
+فقیر 1.0	f y q i r 
+فلاءٹ 1.0	f y l A i t' 
+فلسفه 1.0	f y l s y f A 
+فلم 1.0	f i l m 
+فن 1.0	f i n 
+فنڈ 1.0	f y n d' 
+فنکشن 1.0	f y n k S y n 
+فهرست 1.0	f y h r i s td 
+فواءد 1.0	f y v A i dd 
+فوت 1.0	f O td 
+فوتگی	1.0	f O td y g i
+فوج 1.0	f O dZ 
+فوجی 1.0	f O dZ i 
+فور	1.0	f o r
+فورا 1.0	f O r y n 
+فورس 1.0	f o r s 
+فورسز 1.0	f o r s i z 
+فوری 1.0	f O r i 
+فوقتا	1.0	f O q y td A
+فون 1.0	f o n 
+فٹ 1.0	f U t' 
+فکر 1.0	f i k r 
+فکروں 1.0	f i k r o~ 
+فی 1.0	f i 
+فیس 1.0	f i s 
+فیشن 1.0	f Y S y n 
+فیصد 1.0	f i s y dd 
+فیصله 1.0	f Y s l A 
+فیصلے 1.0	f Y s l e 
+فیض 1.0	f Y z 
+فیل 1.0	f i l 
+فیملی 1.0	f Y m l i 
+فیکٹ 1.0	f Y k t' 
+فیکٹری 1.0	f Y k t' y r i 
+ق	1.0	q
+قاءد 1.0	q A i dd 
+قاءدانه 1.0	q A e dd A n A 
+قاءم 1.0	q A i m 
+قابل 1.0	q A b i l 
+قابو 1.0	q A b u 
+قاری 1.0	q A r i 
+قاعده 1.0	q A i dd A 
+قانون 1.0	q A n u n 
+قانونی 1.0	q A n u n i 
+قاهره 1.0	q A h i r A 
+قباءلی 1.0	q y b A i l i 
+قبر 1.0	q y b r 
+قبل 1.0	q y b l 
+قبول 1.0	q U b u l 
+قتل 1.0	q y td l 
+قتل 1.0	q y td y l 
+قد 1.0	q y dd 
+قدر 1.0	q y dd r 
+قدرت 1.0	q U dd r y td 
+قدرتی 1.0	q U dd r y td i 
+قدرے 1.0	q y dd r e 
+قدم 1.0	q y dd y m 
+قدیم 1.0	q y dd i m 
+قرآن 1.0	k U r A n 
+قرآن 1.0	k U r A n e 
+قرآن 1.0	q U r A n 
+قرآن 1.0	q U r A n e 
+قرآنی 1.0	q U r A n i 
+قرار 1.0	q y r A r 
+قریب 1.0	q y r i b 
+قسام 1.0	q y s s A m 
+قسم 1.0	q i s m 
+قسم 1.0	q i s y m 
+قصبے 1.0	q y s b e 
+قصه 1.0	q i s s A 
+قصور 1.0	q U s u r 
+قطار 1.0	q i td A r 
+قطرے 1.0	q y td r e 
+قطعی 1.0	q y td i 
+قلب 1.0	q y l b 
+قلت 1.0	q i l l y td 
+قلعلے	1.0	y l e
+قلعه 1.0	q y l A 
+قلعوں 1.0	q y l o~ 
+قلعے 1.0	q y l e 
+قلیل 1.0	q y l i l 
+قناعت 1.0	q y n A y td 
+قهقه	1.0	q y h q A
+قوانین 1.0	q y v A n i n 
+قوت 1.0	q U v y td 
+قوت 1.0	q U v y td e 
+قوت 1.0	q U y td 
+قوت 1.0	q U y td e 
+قوله	1.0	q u l A
+قوم 1.0	q O m 
+قومی 1.0	q O m i 
+قوی 1.0	q y v i 
+قی	1.0	q i
+قیادت 1.0	q i j A dd y td 
+قیام 1.0	q i j A m 
+قیامت 1.0	q i j A m y td 
+قید 1.0	q Y dd 
+قیدی 1.0	q Y dd i 
+قیدیوں 1.0	q Y dd i o~ 
+قیصر 1.0	q Y s y r 
+قیمت 1.0	k i m y td 
+قیمت 1.0	q i m y td 
+قیمتی 1.0	q i m y td i 
+لءیے	1.0	l y i e
+لءے 1.0	l i e 
+لا 1.0	l A 
+لاءبریری 1.0	l A i b r e r i 
+لاءزنگ	1.0	l A i z i N
+لاءسنس 1.0	l A e s y n s 
+لاءن 1.0	l A i n 
+لاءونج 1.0	l A u n dZ 
+لاءٹ 1.0	l A i t' 
+لاءے 1.0	l A e 
+لابی 1.0	l A b i 
+لاحقه 1.0	l A h i q A 
+لازم 1.0	l A z i m 
+لازمی 1.0	l A z m i 
+لاشعوری 1.0	l A S U u r i 
+لاعلم 1.0	l A i l m 
+لاغر 1.0	l A 7 y r 
+لال 1.0	l A l 
+لانا 1.0	l A n A 
+لانے 1.0	l A n e 
+لاهور 1.0	l A h o r 
+لاٹھی 1.0	l A t'h i 
+لاپته 1.0	l A p y td A 
+لاپرواهی 1.0	l A p y r v A h i 
+لاکھ 1.0	l A kh 
+لاکھوں 1.0	l A kh o~ 
+لایا 1.0	l A j A 
+لباس 1.0	l i b A s 
+لذیذ 1.0	l y z i z 
+لطیفے 1.0	l y td i f e 
+لعنت 1.0	l y y n y td 
+لغو 1.0	l y 7 v 
+لفظ 1.0	l y f z 
+للچاءی 1.0	l y l tS A i 
+لمبے 1.0	l y m b e 
+لمحات 1.0	l y m h A td 
+لمحوں 1.0	l y m h o~ 
+لمحے 1.0	l y m h e 
+لمیٹڈ 1.0	l i m i t' i d' 
+لندن 1.0	l y n dd y n 
+لنگر 1.0	l y N g y r 
+لهذا 1.0	l h A z A 
+لهروں 1.0	l y h r o~ 
+لهریں 1.0	l y h r e~ 
+لوها 1.0	l o h A 
+لوٹنے 1.0	l u t' n e 
+لوڈ 1.0	l o d' 
+لوگ 1.0	l o g 
+لوگوں 1.0	l o g o~ 
+لپیٹ 1.0	l y p e t' 
+لپیٹے 1.0	l y p e t' e 
+لڑتے 1.0	l y r' td e 
+لڑنا 1.0	l y r' n A 
+لڑنے	1.0	l y r' n e
+لڑکوں 1.0	l y r' k o~ 
+لڑکی 1.0	l y r' k i 
+لڑکے 1.0	l y r' k e 
+لکھ 1.0	l i kh 
+لکھا 1.0	l i kh A 
+لکھا 1.0	l i kh kh A 
+لکھتے 1.0	l i kh td e 
+لکھنءو 1.0	l y kh n y u 
+لکھنا 1.0	l i kh n A 
+لکھنو	1.0	l i kh y n o
+لکھنے 1.0	l i kh n e 
+لکھیں 1.0	l i kh i~ 
+لکھے 1.0	l i kh kh e 
+لگ 1.0	l y g 
+لگا 1.0	l y g A 
+لگاءی 1.0	l y g A i 
+لگام 1.0	l y g A m 
+لگانے 1.0	l y g A n e 
+لگایا 1.0	l y g A j A 
+لگتا 1.0	l y g td A 
+لگتیں 1.0	l y g td i~ 
+لگتے 1.0	l y g td e 
+لگنے 1.0	l y g n e 
+لگی 1.0	l y g i 
+لگیں 1.0	l y g i~ 
+لگے 1.0	l y g e 
+لی 1.0	l i 
+لیءے 1.0	l i e 
+لیا 1.0	l i A 
+لیا 1.0	l i j A 
+لیب 1.0	l Y b 
+لیبارٹری 1.0	l i b A r t' y r i 
+لیتا 1.0	l e td A 
+لیتی 1.0	l e td i 
+لیتے 1.0	l e td e 
+لیزر 1.0	l e z y r 
+لیس 1.0	l i s 
+لیسدار 1.0	l e s dd A r 
+لین 1.0	l e n 
+لینا 1.0	l i n A 
+لینس 1.0	l Y n s 
+لینے 1.0	l e n e 
+لیٹر 1.0	l i t' y r 
+لیٹرز 1.0	l Y t' y r z 
+لیڈر 1.0	l i d' y r 
+لیڈیز 1.0	l e d' i z 
+لیک 1.0	l i k 
+لیکن 1.0	l e k i n 
+لیں 1.0	l e~ 
+لیں 1.0	l i~ 
+لیے 1.0	l i e 
+لے 1.0	l e 
+مءی 1.0	m y i 
+ماحول 1.0	m A h O l 
+مار 1.0	m A r 
+مارتا 1.0	m A r td A 
+مارچ 1.0	m A r tS 
+مارکیٹ 1.0	m A r k i t' 
+مارے 1.0	m A r e 
+ماسی 1.0	m A s i 
+ماضی 1.0	m A z i 
+مال 1.0	m A l 
+مالا 1.0	m A l A 
+مالک 1.0	m A l i k 
+مالکان 1.0	m A l i k A n 
+مالی 1.0	m A l i 
+مالیاتی 1.0	m A l i j A td i 
+ماما 1.0	m A m A 
+مانند 1.0	m A n i n dd 
+مانگ 1.0	m A N 
+مانگتے 1.0	m A N td e 
+مانگنا 1.0	m A N n A 
+مانیے 1.0	m A n j e 
+ماه 1.0	m A 
+ماها 1.0	m A h A 
+ماهانه 1.0	m A h A n A 
+ماهر 1.0	m A h i r 
+ماهرین 1.0	m A h i r i n 
+ماڈلز 1.0	m A d' y l z 
+ماڑے 1.0	m A r' e 
+ماں 1.0	m A~ 
+مایه 1.0	m A j A 
+مایوس 1.0	m A j u s 
+مباحثے 1.0	m U b A h y s e 
+مبارک 1.0	m U b A r i k 
+مبارکباد 1.0	m U b A r y k b A dd 
+مبتلا 1.0	m U b td y l A 
+مبرا 1.0	m U b y r r A 
+مبصرین 1.0	m U b y s s i r i n 
+مبنی 1.0	m y b n i 
+متاثر 1.0	m U td A s i r 
+متاثره 1.0	m U td A s i r A 
+متاثرین 1.0	m U td A s i r i n 
+متاع 1.0	m y td A 
+متبادل 1.0	m U td b A dd i l 
+متحده 1.0	m U td td y h i dd A 
+متصل 1.0	m U td td y s i l 
+متعارف 1.0	m U td y y r i f 
+متعدد 1.0	m U td y y dd dd i dd 
+متعلق 1.0	m U td y y l l y q 
+متعلقه 1.0	m U td y l i q A 
+متفق 1.0	m U td td y f i q 
+متنازع 1.0	m U td y n A z e 
+متناهی 1.0	m U td y n A h i 
+متواتر 1.0	m U td y v A td i r 
+متوقع 1.0	m U td y v y q q e 
+مثالیں 1.0	m i s A l e~ 
+مثبت 1.0	m U s b y td 
+مثلا 1.0	m y s l y n 
+مثلا 1.0	m y s y l y n 
+مجبور 1.0	m y dZ b u r 
+مجرم 1.0	m U dZ r i m 
+مجروح 1.0	m y dZ r u 
+مجموعی 1.0	m y dZ m u i 
+مجھے 1.0	m U dZh e 
+مجید 1.0	m y dZ i dd 
+محاصرے 1.0	m U h A s y r e 
+محال 1.0	m U h A l 
+محبت 1.0	m U h y b b y td 
+محدود 1.0	m y h dd u dd 
+محروم 1.0	m y h r u m 
+محسوس 1.0	m y h s u s 
+محصور 1.0	m y h s u r 
+محض 1.0	m y h z 
+محظوظ 1.0	m y h z u z 
+محفوظ 1.0	m y h f u z 
+محلے 1.0	m U h y l l e 
+محمد 1.0	m U h y m m y dd 
+محنت 1.0	m i h n y td 
+محنتی 1.0	m i h n y td i 
+محو 1.0	m y h v 
+محکمه 1.0	m y h k y m A 
+محکمے 1.0	m y h k y m e 
+مخالف 1.0	m U x A l i f 
+مخالفت 1.0	m U x A l f y td 
+مختصر 1.0	m U x td y s y r 
+مختلف 1.0	m U x td l i f 
+مختلف 1.0	m U x td y l i f 
+مخصوص 1.0	m y x s u s 
+مد 1.0	m U dd 
+مداحوں 1.0	m y dd dd A h o~ 
+مدد 1.0	m y dd y dd 
+مدرسه 1.0	m y dd r i s A 
+مدرسوں 1.0	m y dd r i s o~ 
+مدرسے 1.0	m y dd r i s e 
+مدعا 1.0	m U dd dd y A 
+مدعو 1.0	m y dd u 
+مدنظر 1.0	m y dd dd e n y z y r 
+مدیحه 1.0	m y dd i h A 
+مذاق 1.0	m y z A q 
+مذاکرات 1.0	m U z A k y r A td 
+مذهبی 1.0	m y z h y b i 
+مذکوره 1.0	m y z k u r A 
+مر 1.0	m y r 
+مراد 1.0	m U r A dd 
+مراسم 1.0	m y r A s i m 
+مراعات 1.0	m U r A A td 
+مراکز 1.0	m y r A k i z 
+مرتبه 1.0	m y r td y b A 
+مرحلے 1.0	m y r h y l e 
+مرحوم 1.0	m y r h u m 
+مرد 1.0	m y r dd 
+مردوں 1.0	m U r dd o~ 
+مرض 1.0	m y r y z 
+مرغوب 1.0	m y r 7 u b 
+مرمت 1.0	m y r y m m y td 
+مرنے 1.0	m y r n e 
+مرهون 1.0	m y r h u n 
+مرچ 1.0	m i r tS 
+مرکب 1.0	m U r y k k y b 
+مرکبات 1.0	m U r y k k y b A td 
+مرکز 1.0	m y r k y z 
+مرکزی 1.0	m y r k y z i 
+مریخ 1.0	m i r r i x 
+مریضه 1.0	m y r i z A 
+مز 1.0	m i z 
+مزاج 1.0	m i z A dZ 
+مزار 1.0	m y z A r 
+مزدور 1.0	m y z dd u r 
+مزید 1.0	m y z i dd 
+مزیدار 1.0	m y z e dd A r 
+مزین 1.0	m U z Y j y n 
+مزے 1.0	m y z e 
+مس 1.0	m i s 
+مسءله 1.0	m y s y l A 
+مسءلے 1.0	m y s y l e 
+مساءل 1.0	m y s A i l 
+مسافر 1.0	m U s A f i r 
+مسالے 1.0	m y s A l e 
+مساوی 1.0	m U s A v i 
+مستحق 1.0	m U s td y h i q 
+مستزاد 1.0	m U s td y z A dd 
+مستعفی 1.0	m U s td y f i 
+مستفید 1.0	m U s td y f i dd 
+مستقبل 1.0	m U s td y q b i l 
+مستقل 1.0	m U s td y q i l 
+مسجد 1.0	m y s dZ i dd 
+مسجدوں 1.0	m y s dZ i dd o~ 
+مسجدوں 1.0	m y s z i dd o~ 
+مسز 1.0	m i s i z 
+مسلح 1.0	m U s y l l A 
+مسلسل 1.0	m U s y l s y l 
+مسلط 1.0	m U s y l l i td 
+مسلم 1.0	m U s l i m 
+مسلکی 1.0	m y s l y k i 
+مسوری 1.0	m y s u r i 
+مسکراتا 1.0	m U s k U r A td A 
+مسکرایا 1.0	m U s k U r A j A 
+مسیح 1.0	m y s i 
+مشاهده 1.0	m U S A h i dd A 
+مشترکه 1.0	m U S td y r y k A 
+مشتعل 1.0	m U S td y i l 
+مشتمل 1.0	m U S td y m i l 
+مشرق 1.0	m y S r i q 
+مشرقی 1.0	m y S r i q i 
+مشرقی 1.0	m y S r y q i 
+مشرقی 1.0	m y S y r q i 
+مشغول 1.0	m y S 7 u l 
+مشن 1.0	m i S y n 
+مشهور 1.0	m y S h u r 
+مشوره 1.0	m y S v y r A 
+مشکل 1.0	m U S k i l 
+مشکلات 1.0	m U S k i l A td 
+مشکلیں 1.0	m U S k i l e~ 
+مشیر 1.0	m U S i r 
+مشیروں 1.0	m U S i r o~ 
+مشین 1.0	m U S y j y n 
+مصالحوں 1.0	m U s A l y h o~ 
+مصالحے 1.0	m y s A l y h e 
+مصروف 1.0	m y s r u f 
+مصطفی 1.0	m U s td y f A 
+مصنوعات 1.0	m y s n u A td 
+مصیبت 1.0	m U s i b y td 
+مضامین 1.0	m y z A m i n 
+مضبوط 1.0	m y z b u td 
+مضبوطی 1.0	m y z b u td i 
+مضر 1.0	m U z i r 
+مضمون 1.0	m y z m u n 
+مطابق 1.0	m U td A b i q 
+مطالبه 1.0	m U td A l b A 
+مطالبے 1.0	m U td A l b e 
+مطالعے 1.0	m U td A l y e 
+مطلب 1.0	m U td l i b 
+مطلوبه 1.0	m y td l u b A 
+مظاهره 1.0	m U z A h e r A 
+مظاهروں 1.0	m U z A h y r o~ 
+مظاهرین 1.0	m U z A h i r i n 
+مظفر 1.0	m U z y f f y r 
+معاءنه 1.0	m U A i n A 
+معاشرتی 1.0	m U A S y r y td i 
+معاشره 1.0	m U A S y r A 
+معاشرے 1.0	m U A S y r e 
+معافی 1.0	m U A f i 
+معاملات 1.0	m U A m y l A td 
+معامله 1.0	m U A m l A 
+معاملے 1.0	m U A m y l e 
+معاهده 1.0	m U A h y dd A 
+معاهدے 1.0	m U A h y dd e 
+معاون 1.0	m U A v i n 
+معترف 1.0	m U td y r i f 
+معذور 1.0	m y z u r 
+معرض 1.0	m y r i z 
+معروف 1.0	m y y r u f 
+معطل 1.0	m U y td td y l 
+معلوم 1.0	m y y l u m 
+معلومات 1.0	m y y l u m A td 
+معلوماتی 1.0	m y y l u m A td i 
+معمه 1.0	m U y m m A 
+معمول 1.0	m A m u l 
+معمول 1.0	m y y m u l 
+معمولی 1.0	m y y m u l i 
+معمے 1.0	m U y m m e 
+معنوں 1.0	m y y n o~ 
+معیار 1.0	m i j A r 
+معین 1.0	m U i n 
+مغرب 1.0	m y 7 r i b 
+مغربی 1.0	m y 7 r i b i 
+مغل 1.0	m U 7 y l 
+مفاهیم 1.0	m y f A h i m 
+مفت 1.0	m U f td 
+مفتی 1.0	m U f td i 
+مفرد 1.0	m U f r i dd 
+مفروضوں 1.0	m y f r u z o~ 
+مفلس 1.0	m U f l i s 
+مفید 1.0	m U f i dd 
+مقابله 1.0	m U q A b i l A 
+مقابلے 1.0	m U q A b i l e 
+مقاصد 1.0	m y q A s y dd 
+مقام 1.0	m y q A m 
+مقامات 1.0	m y q A m A td 
+مقامی 1.0	m y q A m i 
+مقبول 1.0	m y q b u l 
+مقبولیت 1.0	m y q b u l i j y td 
+مقدر 1.0	m U q y dd dd y r 
+مقدمات 1.0	m U q y dd m A td 
+مقدمه 1.0	m U q y dd m A 
+مقرر 1.0	m U q y r r y r 
+مقصد 1.0	m y q s y dd 
+مقصود 1.0	m y q s u dd 
+مقید 1.0	m U q i dd 
+مقیم 1.0	m U q i m 
+مل 1.0	m U l 
+ملا 1.0	m U l l A 
+ملاءکه 1.0	m y l A i k A 
+ملاحظه 1.0	m U l A h y z A 
+ملازمت 1.0	m U l A z y m y td 
+ملازمتوں 1.0	m U l A z y m y td o~ 
+ملازمین 1.0	m U l A z i m i n 
+ملاقات 1.0	m U l A q A td 
+ملاقاتیں 1.0	m U l A q A td e~ 
+ملامت 1.0	m y l A m y td 
+ملانا 1.0	m i l A n A 
+ملانے 1.0	m i l A n e 
+ملاپ 1.0	m i l A p 
+ملبوسات 1.0	m y l b u s A td 
+ملتا 1.0	m i l td A 
+ملتی 1.0	m i l td i 
+ملتے 1.0	m i l td e 
+ملحد 1.0	m U l h i dd 
+ملحق 1.0	m U l h y q 
+ملنے 1.0	m i l n e 
+ملک 1.0	m U l k 
+ملک 1.0	m i l k 
+ملک 1.0	m y l i k 
+ملکه 1.0	m y l k A 
+ملکوں 1.0	m U l k o~ 
+ملکی 1.0	m U l k i 
+ملی 1.0	m i l i 
+ملیں 1.0	m i l i~ 
+ملے 1.0	m i l e 
+ممالک 1.0	m y m A l i k 
+ممتاز 1.0	m U m td A z 
+ممکن 1.0	m U m k i n 
+ممکنه 1.0	m U m k i n A 
+من 1.0	m y n 
+مناسب 1.0	m y n A s i b 
+مناظر 1.0	m y n A z i r 
+منانے 1.0	m y n A n e 
+منت 1.0	m y n n y td 
+منتخب 1.0	m U n td y x i b 
+منتظر 1.0	m U n td y z i r 
+مند 1.0	m y n dd 
+منسلک 1.0	m U n s y l i k 
+منسوخ 1.0	m y n s u x 
+منصوبه 1.0	m y n s u b A 
+منصوبے 1.0	m y n s u b e 
+منطق 1.0	m y n td i q 
+منظر 1.0	m y n z y r 
+منظور 1.0	m y n z u r 
+منظوری 1.0	m y n z u r i 
+منع 1.0	m y n A 
+منعقد 1.0	m U n y q i dd 
+منفرد 1.0	m U n f y r i dd 
+منفی 1.0	m y n f i 
+منقطع 1.0	m U n q y td e 
+منه 1.0	m U n h 
+منهاس 1.0	m i n h A s 
+منوایا 1.0	m y n v A j A 
+منٹ 1.0	m i n t' 
+منٹوں 1.0	m i n t' o~ 
+منڈا 1.0	m U n d' A 
+منگل 1.0	m y N g y l 
+منی 1.0	m U n n i 
+مهاتما 1.0	m y h A td m A 
+مهربانی 1.0	m i h r b A n i 
+مهرباں 1.0	m i h r b A~ 
+مهم 1.0	m U h i m 
+مهمان 1.0	m i h m A n 
+مهنگی 1.0	m y h N g i 
+مهیا 1.0	m U h Y j A 
+مهینے 1.0	m y h i n e 
+مو 1.0	m u 
+مواقع 1.0	m y v A q e 
+موباءل 1.0	m o b A i l 
+موت 1.0	m O td 
+موجود 1.0	m O dZ u dd 
+موجوده 1.0	m O dZ u dd A 
+موجودگی 1.0	m O dZ u dd y g i 
+موذن 1.0	m U y z z i n 
+موزوں 1.0	m O z u~ 
+موسم 1.0	m O s y m 
+موسمی 1.0	m O s y m i 
+موسمیات 1.0	m O s y m i j A td 
+موسیقی 1.0	m O s i q i 
+موصول 1.0	m O s u l 
+موضوع 1.0	m O z u 
+موقع 1.0	m O k A 
+موقع 1.0	m O q A 
+موقعے 1.0	m O k e 
+موقعے 1.0	m O q y e 
+موقف 1.0	m O q i f 
+مولانا 1.0	m O l A n A 
+مولوی 1.0	m O l v i 
+موٹی 1.0	m o t' i 
+مٹھاءی 1.0	m i t'h A i 
+مچ 1.0	m y tS 
+مچا 1.0	m U tS tS A 
+مڑ 1.0	m U r' 
+مکان 1.0	m y k A n 
+مکانات 1.0	m y k A n A td 
+مکانی 1.0	m y k A n i 
+مکمل 1.0	m U k y m m y l 
+مکمل 1.0	m U k y m y l 
+مکی 1.0	m U k k i 
+مگر 1.0	m y g y r 
+میانمار 1.0	m i j A n m A r 
+میاں 1.0	m i j A~ 
+میجر 1.0	m e dZ y r 
+میدان 1.0	m Y dd A n 
+میدان 1.0	m Y dd A n e 
+میر 1.0	m i r 
+میرا 1.0	m i r A 
+میراث 1.0	m i r A s 
+میری 1.0	m i r i 
+میرے 1.0	m e r e 
+میزبانی 1.0	m e z b A n i 
+میسر 1.0	m U j y s s y r 
+میل 1.0	m e l 
+میلنگ 1.0	m e l i N 
+مین 1.0	m e n 
+مینڈیٹ 1.0	m e n d' e t' 
+مینیو 1.0	m Y n j u 
+میوزک 1.0	m i j u z i k 
+میٹر 1.0	m i t' y r 
+میٹرز 1.0	m i t' y r z 
+میچ 1.0	m i tS 
+میڈیا 1.0	m i d' j A 
+میک 1.0	m Y k 
+میگھ 1.0	m e gh 
+میں 1.0	m Y 
+میں 1.0	m Y~ 
+میں 1.0	m e 
+میں 1.0	m e~ 
+نءی 1.0	n y i 
+نءے 1.0	n y Y 
+نا 1.0	n A 
+ناءب 1.0	n A i b 
+ناءیک 1.0	n A i k 
+نابینا 1.0	n A b i n A 
+ناتجربه	1.0	n A td y dZ y r b A
+ناجلدی	1.0	n A dZ y l dd i
+ناز 1.0	n A z 
+نازوں 1.0	n A z o~ 
+ناسا 1.0	n A s A 
+ناصر 1.0	n A s i r 
+ناصرف 1.0	n A s i r f 
+نافذ 1.0	n A f i z 
+ناقص 1.0	n A q i s 
+ناقصں	1.0	A~
+نالاءق 1.0	n A l A i q 
+نالج 1.0	n A l i dZ 
+نام 1.0	n A m 
+ناممکن 1.0	n A m U m k i n 
+نامه 1.0	n A m A 
+نانی 1.0	n A n i 
+ناپسند 1.0	n A p y s y n dd 
+ناپید 1.0	n A p Y dd 
+ناکاره 1.0	n A k A r A 
+ناکافی 1.0	n A k A f i 
+ناکام 1.0	n A k A m 
+ناکامی 1.0	n A k A m i 
+نبرد 1.0	n y b y r dd 
+نبی 1.0	n y b i 
+نتاءج 1.0	n y td A i dZ 
+نتیجه 1.0	n y td i dZ A 
+نتیجے 1.0	n y td i dZ e 
+نثار 1.0	n i s A r 
+نجات 1.0	n i dZ A td 
+نجکاری 1.0	n i dZ k A r i 
+نجیب 1.0	n y dZ i b 
+نحیف 1.0	n y h i f 
+نخریلی 1.0	n y x r i l i 
+نخواسته	1.0	n y x i s td A
+ندارد 1.0	n y dd A r y dd 
+ندیوں 1.0	n y dd i o~ 
+نذر 1.0	n y z y r 
+نذرانه 1.0	n y z r A n A 
+نذیر 1.0	n y z i r 
+نرسری 1.0	n y r s y r i 
+نرم 1.0	n y r m 
+نرمی 1.0	n y r m i 
+نرگس 1.0	n y r g i s 
+نری 1.0	n i r i 
+نزدیک 1.0	n y z dd i k 
+نسل 1.0	n y s l 
+نشان 1.0	n i S A n 
+نشانات 1.0	n i S A n A td 
+نشاندهی 1.0	n i S A n dd i h i 
+نشانه 1.0	n i S A n A 
+نشتر 1.0	n i S td y r 
+نشر 1.0	n y S r 
+نشست 1.0	n i S i s td 
+نصب 1.0	n y s b 
+نصف 1.0	n i s f 
+نصیب 1.0	n y s i b 
+نصیبی 1.0	n y s i b i 
+نطروں	1.0	n e td y r o~
+نظام 1.0	n i z A m 
+نظام 1.0	n i z A m e 
+نظر 1.0	n y z y r 
+نظرقصور	1.0	n y z y r q s u r
+نظروں 1.0	n y z y r o~ 
+نظریں 1.0	n y z y r e~ 
+نظریے 1.0	n y z y r i j e 
+نعت 1.0	n y y td 
+نعرے 1.0	n y y r e 
+نعیمه 1.0	n y i m A 
+نفاذ 1.0	n y f A z 
+نفس 1.0	n y f y s 
+نقالی 1.0	n y q A l i 
+نقشوں 1.0	n y q S o~ 
+نقصان 1.0	n U q s A n 
+نقطع	1.0	n q y td td e
+نقطه 1.0	n U q td A 
+نقطه 1.0	n U q td A e 
+نقطے 1.0	n U q td e 
+نقل 1.0	n y q l 
+نل 1.0	n y l 
+نما 1.0	n U m A 
+نماءش 1.0	n U m A i S 
+نماءندگی 1.0	n U m A i n dd y g i 
+نماءندے 1.0	n U m A i n dd e 
+نماز 1.0	n i m A z 
+نماز 1.0	n y m A z 
+نمایا 1.0	n y m A j A 
+نمبر 1.0	n y m b y r 
+نمٹنے 1.0	n i m y t' n e 
+نمکین 1.0	n y m k i n 
+نمی 1.0	n y m i 
+ننانوے 1.0	n i n A n v e 
+ننگ 1.0	n i N 
+ننگا 1.0	n y N g A 
+ننھے 1.0	n y nh nh e 
+نه 1.0	n A 
+نهایت 1.0	n i h A j y td 
+نهتے 1.0	n y h y td td e 
+نهروں 1.0	n y h r o~ 
+نهیں 1.0	n i 
+نهیں 1.0	n i~ 
+نهیں 1.0	n y h i 
+نهیں 1.0	n y h i~ 
+نهیں 1.0	n y i 
+نهیں 1.0	n y i~ 
+نو 1.0	n O 
+نواحی 1.0	n y v A h i 
+نواز 1.0	n y v A z 
+نوازا 1.0	n y v A z A 
+نواله 1.0	n y v A l A 
+نوجوان 1.0	n O dZ v A n 
+نوجوان 1.0	n O dZ y v A n 
+نوجوانوں 1.0	n O dZ y v A n o~ 
+نوری 1.0	n u r i 
+نوشهره	1.0	n o S y h r A
+نوعیت 1.0	n O i j y td 
+نوٹس 1.0	n o t' s 
+نوٹنکی 1.0	n O t' y n k i 
+نوٹیفیکیشن	1.0	n o t' i f Y k e S y n
+نوں	1.0	n o~
+نچلی 1.0	n i tS l i 
+نکاح 1.0	n i k A 
+نکال 1.0	n i k A l 
+نکالتے 1.0	n i k A l td e 
+نکالنے 1.0	n i k A l n e 
+نکل 1.0	n i k y l 
+نکلا 1.0	n i k l A 
+نکلتا 1.0	n i k y l td A 
+نکلتے 1.0	n i k y l td e 
+نکلنا 1.0	n i k y l n A 
+نکلنے 1.0	n i k y l n e 
+نکلوا 1.0	n i k y l v A 
+نکلے 1.0	n i k l e 
+نکڑپر	1.0	n k y r' p y r
+نکھارنے 1.0	n i kh A r n e 
+نکیلا	1.0	n k e l A
+نگاروں 1.0	n i g A r o~ 
+نگرانی 1.0	n i g r A n i 
+نگے	1.0	m y N g e
+نیا 1.0	n y j A 
+نیز 1.0	n i z 
+نیزه 1.0	n e z A 
+نیس 1.0	n Y s 
+نیشنل 1.0	n Y S n y l 
+نیلا 1.0	n i l A 
+نیم 1.0	n i m 
+نیند 1.0	n i n dd 
+نیواڈا	1.0	n i v A d' A
+نیوز 1.0	n i j u z 
+نیٹ 1.0	n Y t' 
+نیچی 1.0	n i tS i 
+نیچے 1.0	n i tS e 
+نیک 1.0	n e k 
+نیکٹا	1.0	n i k t' A
+نے 1.0	n Y 
+نے 1.0	n e 
+ه	1.0	m A
+ها 1.0	h A 
+هاءوس 1.0	h A u s 
+هاءی 1.0	h A i 
+هاتھ 1.0	h A tdh 
+هاتھوں 1.0	h A tdh o~ 
+هالینڈ 1.0	h A l Y n d' 
+هانکتے	1.0	h A n k td e
+هاکی 1.0	h A k i 
+هاں 1.0	h A~ 
+هتھیار 1.0	h y tdh j A r 
+هتھیاروں 1.0	h y tdh j A r o~ 
+هدایت 1.0	h i dd A j y td 
+هر 1.0	h y r 
+هراس	1.0	h y r A s
+هرصورت	1.0	h y r s u r y td
+هرکسی 1.0	h y r k i s i 
+هرگز 1.0	h y r g i z 
+هری 1.0	h y r i 
+هرے 1.0	h y r e 
+هزار 1.0	h y z A r 
+هزاروں 1.0	h y z A r o~ 
+هستی 1.0	h y s td i 
+هسٹری 1.0	h i s t' y r i 
+هسپتال 1.0	h y s p y td A l 
+هسپتالو	1.0	h y s p y td A l o
+هشیار 1.0	h U S j A r 
+هفته 1.0	h y f td A 
+هفتے 1.0	h y f td e 
+هلال 1.0	h i l A l 
+هلاک 1.0	h y l A k 
+هلاکت 1.0	h y l A k y td 
+هلکا	1.0	h i l k A
+هلکی	1.0	h i l k i
+هم 1.0	h y m 
+همار 1.0	h y m A r 
+همارا 1.0	h y m A r A 
+هماری 1.0	h y m A r i 
+همارے 1.0	h y m A r e 
+همت 1.0	h i m m y td 
+همدردی 1.0	h y m dd y r dd i 
+همراه 1.0	h y m r A 
+همیشه 1.0	h y m e S A 
+همیں 1.0	h y m e~ 
+هند 1.0	h i n dd 
+هندوستان 1.0	h i n dd u s td A n 
+هندوستانی 1.0	h i n dd u s td A n i 
+هنر 1.0	h U n y r 
+هنرمند 1.0	h U n y r m y n dd 
+هنزه 1.0	h U n z A 
+هنسی	1.0	h y n s i
+هنوستان	1.0	h n v y s td A n
+هنگامی 1.0	h y N g A m i 
+هو 1.0	h o 
+هو 1.0	h u 
+هو 1.0	o 
+هوء	1.0	h u
+هوءی 1.0	h u i 
+هوءیں 1.0	h u i~ 
+هوءے 1.0	h u e 
+هوا 1.0	h U A 
+هوا 1.0	h y v A 
+هواءوں 1.0	h y v A o~ 
+هواءی 1.0	h y v A i 
+هوتا 1.0	h o td A 
+هوتا 1.0	o td A 
+هوتاتھا	1.0	h o td A tdh A
+هوتاهے	1.0	h o td A h e
+هوتی 1.0	h o td i 
+هوتی 1.0	o td i 
+هوتے 1.0	h o td e 
+هوتےکافر	1.0	h o td e k A f y r
+هوجاءے 1.0	h o dZ A e 
+هوجاتی 1.0	h o dZ A td i 
+هوجاتے 1.0	h o dZ A td e 
+هورها 1.0	h o r y h A 
+هورهی	1.0	h o r y h i
+هوس 1.0	h y v y s 
+هوسکتا 1.0	h o s y k td A 
+هوسکی	1.0	h o s k i
+هوش 1.0	h o S 
+هوشیار 1.0	h o S j A r 
+هوم 1.0	h o m 
+هونا 1.0	h o n A 
+هونگے 1.0	h o N g e 
+هونی 1.0	h o n i 
+هونے 1.0	h o n e 
+هونےوالے 1.0	h o n e v A l e 
+هوٹل 1.0	h o t' y l 
+هوٹلوں	1.0	h o~
+هوچکے 1.0	h o tS U k e 
+هوکه 1.0	h o k e 
+هوکھیل	1.0	h o kh i l
+هوگءی 1.0	h o g y i 
+هوگءے 1.0	h o g y e 
+هوگا 1.0	h o g A 
+هوگی 1.0	h o g i 
+هوگیا 1.0	h o g e A 
+هوگیا 1.0	h o g y j A 
+هوں 1.0	h o~ 
+هوں 1.0	h u~ 
+هوں 1.0	o~ 
+هوں 1.0	u~ 
+هوے 1.0	h u e 
+هٹادیں	1.0	h y t' A dd i~
+هڈیاں 1.0	h y d' d' i j A~ 
+هڑتال 1.0	h y r' td A l 
+هکا	1.0	h k A
+هی 1.0	h i 
+هیرا 1.0	h i r A 
+هیری 1.0	h e r i 
+هیلپ 1.0	h Y l p 
+هیڈ 1.0	h Y d' 
+هیڈکوارٹر 1.0	h Y d' k y v A r t' y r 
+هیں 1.0	Y~ 
+هیں 1.0	h Y~ 
+هے 1.0	Y 
+هے 1.0	h Y 
+و 1.0	o 
+و 1.0	v A o 
+و 1.0	v y 
+وا 1.0	v A 
+واءبر	1.0	v A i b r
+واءر 1.0	v A i r 
+وابسته 1.0	v A b y s td A 
+واجبی 1.0	v A dZ i b i 
+واحد 1.0	v A h i dd 
+وادء	1.0	v A dd
+وادی 1.0	v A dd i 
+وارد 1.0	v A r i dd 
+واسطه 1.0	v A s i td A 
+واضح 1.0	v A z e 
+واقع 1.0	v A q e 
+واقعات 1.0	v A q i A td 
+واقعه 1.0	v A q i A 
+واقعے 1.0	v A q i e 
+واقف 1.0	v A q i f 
+واقفی	1.0	v A q y f i
+وال 1.0	v A l 
+والا 1.0	v A l A 
+والد 1.0	v A l i dd 
+والدین 1.0	v A l i dd Y n 
+والوں 1.0	v A l o~ 
+والی 1.0	v A l i 
+والے 1.0	v A l e 
+وانصاف	1.0	v A n y s A f
+وانی 1.0	v A n i 
+واهگه 1.0	v A h g A 
+واٹ 1.0	v A t' 
+واٹس 1.0	v A t' s 
+واپس 1.0	v A p i s 
+وباءی 1.0	v y b A i 
+وبیش	1.0	m u b e S
+وتعالی	1.0	v y td A l i
+وثوق 1.0	v U s u q 
+وجه 1.0	v y dZ A 
+وجه 1.0	v y dZ h 
+وجود 1.0	v U dZ u dd 
+وجودهےاس	1.0	v y dZ u dd y h e i s
+وجودهےایک	1.0	v y dZ u dd y h e Y k
+وحیا	1.0	v y h j A
+ودیعت 1.0	v y dd i y td 
+ور 1.0	v y r 
+وراثت 1.0	v i r A s y td 
+ورثه 1.0	v i r s A 
+ورثے 1.0	v y r s e 
+ورزش 1.0	v y r z i S 
+ورزی 1.0	v y r z i 
+ورزیاں	1.0	v y r z i j A~
+ورزیوں 1.0	v y r z i o~ 
+ورنه 1.0	v y r n A 
+ورک 1.0	v i r y k 
+ورکس 1.0	v y r k s 
+وزارت 1.0	v i z A r y td 
+وزرا 1.0	v U z y r A 
+وزن 1.0	v y z n 
+وزنی 1.0	v y z n i 
+وزیر 1.0	v y z i r 
+وزیراعظم 1.0	v y z i r e y y z y m 
+وزیراعلی 1.0	v y z i r e y y l A 
+وزیرخزانه 1.0	v y z i r e x y z A n A 
+وزیروں 1.0	v y z i r o~ 
+وسط 1.0	v y s td 
+وسطی 1.0	v U s td A 
+وسلم 1.0	v y s y l l y m 
+وسیع 1.0	v y s i 
+وسیم 1.0	v y s i m 
+وصول 1.0	v U s u l 
+وصیت 1.0	v y s i j y td 
+وضاحت 1.0	v y z A h y td 
+وضع 1.0	v y z y 
+وطن 1.0	v y td y n 
+وظیفه 1.0	v y z i f A 
+وعده 1.0	v y y dd A 
+وعدے 1.0	v y dd e 
+وغیره 1.0	v y 7 Y r A 
+وفات 1.0	v y f A td 
+وفاداری 1.0	v y f A dd A r i 
+وفاقی 1.0	v i f A q i 
+وقاریونس 1.0	v y q A r j u n y s 
+وقت 1.0	v y q td 
+وقت 1.0	v y q y td 
+وقتا	1.0	v y q td A
+وقتی 1.0	v y q td i 
+وقف 1.0	v y q f 
+وقوف 1.0	v U q u f 
+ولید 1.0	v y l i dd 
+وه 1.0	v o 
+وهاڑی 1.0	v i h A r' i 
+وهاں 1.0	v A~ 
+وهاں 1.0	v y h A~ 
+وهند	1.0	m o h y n dd
+وهی 1.0	v U h i 
+وهیں 1.0	v y h i~ 
+ووکیشنل 1.0	v O k Y S n y l 
+وڈیو 1.0	v i d' j o 
+وکلا 1.0	v U k l A 
+وکیلوں 1.0	v y k i l o~ 
+وں	1.0	o~
+ویب 1.0	v i b 
+ویران 1.0	v i r A n 
+ویز 1.0	v e z 
+ویسا 1.0	v Y s A 
+ویسٹ 1.0	v e s t' 
+ویسے 1.0	v Y s e 
+ویڈیو 1.0	v i d' i o 
+ویژن 1.0	v i Z y n 
+وے 1.0	v e 
+ٹ	1.0	t'
+ٹاءم 1.0	t' A i m 
+ٹاءمز 1.0	t' A i m z 
+ٹارزن 1.0	t' A r z y n 
+ٹارچر 1.0	t' A r tS y r 
+ٹامک 1.0	t' A m y k 
+ٹانگیں 1.0	t' A N g e~ 
+ٹرانسپورٹ 1.0	t' y r A n s p o r t' 
+ٹرک 1.0	t' y r y k 
+ٹریفک 1.0	t' y r Y f i k 
+ٹرین 1.0	t' y r Y n 
+ٹریننگ 1.0	t' i r e n i N 
+ٹهوهر	1.0	t' y h o h y r
+ٹو 1.0	t' u 
+ٹوءیاں 1.0	t' o i j A~ 
+ٹول 1.0	t' u l 
+ٹولیاں 1.0	t' o l i j A~ 
+ٹوٹ 1.0	t' u t' 
+ٹوٹا 1.0	t' u t' A 
+ٹویٹ	1.0	t' v Y t'
+ٹپا 1.0	t' y p p A 
+ٹھوک 1.0	t'h o k 
+ٹھکانه 1.0	t'h i k A n A 
+ٹھیس 1.0	t'h e s 
+ٹھیک 1.0	t'h i k 
+ٹی 1.0	t' i 
+ٹیبل 1.0	t' e b y l 
+ٹیررازم 1.0	t' Y r y r i z m 
+ٹیسٹ 1.0	t' e s t' 
+ٹیلنٹ 1.0	t' Y l y n t' 
+ٹیلی 1.0	t' Y l i 
+ٹیم 1.0	t' i m 
+ٹیموں 1.0	t' i m o~ 
+ٹینس 1.0	t' e n i s 
+ٹیوٹ	1.0	t' i o t'
+ٹیوٹا 1.0	t' Y o t' A 
+ٹیپیکل	1.0	t' Y p Y k y l
+ٹیک 1.0	t' i k 
+ٹیکجوس	1.0	t' Y k y dZ u s
+ٹیکسی 1.0	t' Y k s i 
+ٹیکنالوجی 1.0	t' e k n A l O dZ i 
+ٹیکنیکل 1.0	t' Y k n i k y l 
+پا 1.0	p A 
+پاءوں 1.0	p A o~ 
+پاءیں 1.0	p A e~ 
+پاءیں 1.0	p A i~ 
+پاءے 1.0	p A e 
+پابندی 1.0	p A b y n dd i 
+پاتا 1.0	p A td A 
+پاتھ 1.0	p A tdh 
+پار 1.0	p A r 
+پارٹنر 1.0	p A r t' n y r 
+پارٹی 1.0	p A r t' i 
+پارٹیز 1.0	p A r t' i z 
+پارک 1.0	p A r k 
+پارکس 1.0	p A r k s 
+پاس 1.0	p A s 
+پاشی 1.0	p A S i 
+پالیسی 1.0	p A l i s i 
+پالیسیوں 1.0	p A l i s i o~ 
+پانچ 1.0	p A n tS 
+پانچویں 1.0	p A n tS v i~ 
+پانی 1.0	p A n i 
+پانے 1.0	p A n e 
+پاک 1.0	p A k 
+پاکستان 1.0	p A k i s td A n 
+پاکستانی 1.0	p A k i s td A n i 
+پایا 1.0	p A j A 
+پبلک 1.0	p y b l i k 
+پبلکن 1.0	p y b l i k y n 
+پته 1.0	p y td A 
+پتھر 1.0	p y tdh tdh y r 
+پتھروں 1.0	p y td tdh y r o~ 
+پتے 1.0	p y td td e 
+پخته 1.0	p U x td A 
+پختونخوا	1.0	p U x td u n y x A
+پذیر 1.0	p y z i r 
+پر 1.0	p U r 
+پر 1.0	p y r 
+پراءمری 1.0	p y r A i m r i 
+پراءیویٹ 1.0	p i r A i v e t' 
+پرانا 1.0	p U r A n A 
+پرانی 1.0	p U r A n i 
+پرانے 1.0	p U r A n e 
+پرتگالیوں 1.0	p U r td y g A l i o~ 
+پردیکھا	1.0	p y r dd e kh A
+پردے	1.0	p y r dd e
+پرزوں 1.0	p U r z o~ 
+پرندوں 1.0	p y r i n dd o~ 
+پرندے 1.0	p y r i n dd e 
+پرنٹنگ 1.0	p y r i n t' i N 
+پرواز 1.0	p y r v A z 
+پروجیکٹ 1.0	p y r o dZ e k t' 
+پرورش 1.0	p y r v y r i S 
+پروف 1.0	p U r u f 
+پروفاءل 1.0	p y r o f A i l 
+پروفیسر 1.0	p y r O f Y s y r 
+پروگرام 1.0	p O g r A m 
+پروگرام 1.0	p r O g r A m 
+پروگرام 1.0	p y r O g y r A m 
+پروں 1.0	p y r o~ 
+پرویز 1.0	p y r v e z 
+پرپٹکتا	1.0	p y r p y t' k td A
+پرپیوند	1.0	p y r p i j u n dd
+پرچے 1.0	p y r tS e 
+پریزنٹیشن 1.0	p r Y z y n t' e S y n 
+پریس 1.0	p y r e s 
+پریشر 1.0	p i r e S y r 
+پریوں 1.0	p y r j o~ 
+پسمانده 1.0	p y s m A n dd A 
+پسند 1.0	p y s y n dd 
+پسندیده 1.0	p y s y n dd i dd A 
+پسے 1.0	p i s e 
+پشاور 1.0	p i S A v y r 
+پشین 1.0	p i S i n 
+پل 1.0	p U l 
+پلاءو 1.0	p y l A o 
+پلاءی 1.0	p i l A i 
+پلی 1.0	p i l l i 
+پلیٹ 1.0	p y l e t' 
+پن 1.0	p i n 
+پنجاب 1.0	p y n dZ A b 
+پنجوں 1.0	p y n dZ o~ 
+پنجگور	1.0	p y n dZ y g o r
+پنجے 1.0	p y n dZ e 
+پندره 1.0	p y n dd r A 
+پنشن 1.0	p y n S y n 
+پنوکیوهر	1.0	p y n O k i o h y r
+په 1.0	p e 
+پهاڑوں 1.0	p y h A r' o~ 
+پهاڑیوں 1.0	p y h A r' i o~ 
+پهر 1.0	p E h E r 
+پهره 1.0	p y h r A 
+پهلا 1.0	p E h l 
+پهلوءوں 1.0	p y h l u o~ 
+پهلی 1.0	p Y h l i 
+پهلے 1.0	p E h l e 
+پهنچ 1.0	p U h y n tS 
+پهنچ 1.0	p o n tS 
+پهنچا 1.0	p y h U n tS A 
+پهنچاءی 1.0	p U h n tS A i 
+پهنچتا 1.0	p y h U n tS td A 
+پهنچتے 1.0	p y h U n tS td e 
+پهنچنا 1.0	p y h U n tS n A 
+پهنچنے 1.0	p y h U n tS n e 
+پهنچیں 1.0	p U h n tS e~ 
+پهنچے 1.0	p y h U n tS e 
+پهچان 1.0	p e h tS A n 
+پهچان 1.0	p e tS A n 
+پهچان 1.0	p y h tS A n 
+پهیلاءی	1.0	p y h i l A i
+پور 1.0	p u r 
+پورا 1.0	p u r A 
+پورٹ 1.0	p o r t' 
+پورٹرز	1.0	p o r t' y r z
+پوری 1.0	p u r i 
+پورے 1.0	p u r e 
+پوسٹ 1.0	p o s t' 
+پوشیده 1.0	p o S i dd A 
+پولو 1.0	p o l o 
+پولیس 1.0	p U l i s 
+پولیسنگ	1.0	p o l Y s y N
+پولیو 1.0	p o l i o 
+پولے 1.0	p o l e 
+پوٹر 1.0	p o t' y r 
+پوچھ 1.0	p u tSh 
+پوچھا 1.0	p u tSh A 
+پوچھاکه	1.0	p u tSh A k A
+پوچھتا 1.0	p u tSh td A 
+پوچھتے 1.0	p u tSh td e 
+پوچھنے 1.0	p u tSh n e 
+پوچھے 1.0	p u tSh e 
+پٹانگ	1.0	p y t' A N
+پٹخ 1.0	p y t' y x 
+پٹے 1.0	p i t' e 
+پچاس 1.0	p y tS A s 
+پچھتا 1.0	p y tSh td A 
+پچھلا 1.0	p i tSh l A 
+پچھلے 1.0	p i tSh l e 
+پچیده	1.0	p i tS i dd A
+پچیدگیاں	1.0	p i tS i dd y g A~
+پچیس 1.0	p y tS tS i s 
+پڑ 1.0	p y r' 
+پڑا 1.0	p U r' A 
+پڑتا 1.0	p y r' td A 
+پڑتی 1.0	p y r' td i 
+پڑتے 1.0	p y r' td e 
+پڑجاءے	1.0	p y r' y dZ A e
+پڑھ 1.0	p y r'h 
+پڑھا 1.0	p y r'h A 
+پڑھانا 1.0	p y r'h A n A 
+پڑھانی 1.0	p y r'h A n i 
+پڑھانے 1.0	p y r'h A n e 
+پڑھتا 1.0	p y r'h td A 
+پڑھنا 1.0	p y r'h n A 
+پڑھنے 1.0	p y r'h n e 
+پڑھیں 1.0	p y r'h e~ 
+پڑھے 1.0	p y r'h e 
+پڑی 1.0	p y r' i 
+پڑے 1.0	p U r' e 
+پک 1.0	p i k 
+پکا 1.0	p y k k A 
+پکانے 1.0	p y k A n e 
+پکایا 1.0	p y k A j A 
+پکنے 1.0	p y k n e 
+پکوان 1.0	p y k v A n 
+پکوانوں 1.0	p y k v A n o~ 
+پکچراءز 1.0	p i k tS y r A i z 
+پکڑ 1.0	p y k y r' 
+پکڑا 1.0	p y k r' A 
+پکڑنے 1.0	p y k y r' n e 
+پھر 1.0	ph i r 
+پھربھی	1.0	ph y r bh i
+پھرتی 1.0	ph U r td i 
+پھرنا 1.0	ph i r n A 
+پھلا 1.0	ph U l A 
+پھنس 1.0	ph y n s 
+پھنسے 1.0	ph y n s e 
+پھوٹا 1.0	ph u t' A 
+پھٹا 1.0	ph y t' A 
+پھٹے 1.0	ph y t' e 
+پھیری 1.0	ph e r i 
+پھیل 1.0	ph Y l 
+پھیلاءیں 1.0	ph Y l A e~ 
+پھیپھڑوں 1.0	ph e ph r' o~ 
+پی 1.0	p i 
+پیار 1.0	p i j A r 
+پیاری 1.0	p i j A r i 
+پیارے 1.0	p i j A r e 
+پیاز 1.0	p i j A z 
+پیاس 1.0	p i j A s 
+پیتا 1.0	p i td A 
+پیدا 1.0	p Y dd A 
+پیداءش 1.0	p Y dd A i S 
+پیداوار 1.0	p Y dd A v A r 
+پیر 1.0	p i r 
+پیراءے 1.0	p Y r A e 
+پیراکی 1.0	p Y r A k i 
+پیرس 1.0	p Y r y s 
+پیسه 1.0	p Y s A 
+پیسوں 1.0	p Y s o~ 
+پیسے 1.0	p Y s e 
+پیش 1.0	p e S 
+پیشکش 1.0	p e S k y S 
+پیغام 1.0	p Y 7 A m 
+پیلے 1.0	p i l e 
+پیما 1.0	p Y m A 
+پیماءش 1.0	p Y m A i S 
+پیماءی 1.0	p Y m A i 
+پینا 1.0	p i n A 
+پینڈو 1.0	p e n d' u 
+پینے 1.0	p i n e 
+پیوند 1.0	p Y v y n dd 
+پیپلز	1.0	p Y p y l z
+پیچھے 1.0	p i tSh e 
+پے 1.0	p e 
+چ	1.0	tS
+چاءیے	1.0	tS A i e
+چار 1.0	tS A r 
+چارج 1.0	tS A r dZ 
+چاروں 1.0	tS A r o~ 
+چالیس 1.0	tS A l i s 
+چاند 1.0	tS A n dd 
+چاه 1.0	tS A 
+چاهءیے 1.0	tS A h i i e 
+چاهت 1.0	tS A h y td 
+چاهتا 1.0	tS A h td A 
+چاهتا 1.0	tS A td A 
+چاهتیں 1.0	tS A h td i~ 
+چاهتے 1.0	tS A h td e 
+چاهیءں	1.0	tS A h i A~
+چاهیں 1.0	tS A h i~ 
+چاهیے 1.0	tS A h j e 
+چاهے 1.0	tS A h e 
+چاول 1.0	tS A v y l 
+چاپ 1.0	tS A p 
+چرا 1.0	tS i r A 
+چراغوں 1.0	tS y r A 7 o~ 
+چستی 1.0	tS U s td i 
+چل 1.0	tS U l 
+چلا 1.0	tS i l l A 
+چلاتے 1.0	tS y l A td e 
+چلانے 1.0	tS y l A n e 
+چلاگیا	1.0	tS y l A g i j A
+چلایا 1.0	tS y l A j A 
+چلتا 1.0	tS y l td A 
+چلتی 1.0	tS y l td i 
+چلتے 1.0	tS y l td e 
+چلنا 1.0	tS y l n A 
+چلنے 1.0	tS y l n e 
+چلو 1.0	tS U l l u 
+چلوں 1.0	tS y l u~ 
+چلی 1.0	tS i l i 
+چلے 1.0	tS i l l e 
+چمن 1.0	tS y m y n 
+چمٹوں 1.0	tS i m t' u~ 
+چمک 1.0	tS y m y k 
+چناب 1.0	tS y n A b 
+چنانچه 1.0	tS U n A tS e 
+چند 1.0	tS y n dd 
+چوتھی 1.0	tS O tdh i 
+چوده 1.0	tS o dd A 
+چوروں 1.0	tS o r o~ 
+چوری 1.0	tS o r i 
+چولستان 1.0	tS o l i s td A n 
+چومے 1.0	tS u m e 
+چونا 1.0	tS u n A 
+چونکه 1.0	tS u n k e 
+چوهدری 1.0	tS O h dd y r i 
+چوهے 1.0	tS u h e 
+چوٹی 1.0	tS o t' i 
+چوٹیاں 1.0	tS o t' i j A~ 
+چوٹیوں 1.0	tS o t' i o~ 
+چوگنی 1.0	tS O g n i 
+چٹا 1.0	tS i t' t' A 
+چپ 1.0	tS U p 
+چپرار	1.0	tS U p y r A r
+چچا 1.0	tS y tS A 
+چڑھاءی 1.0	tS y r'h A i 
+چڑھنا 1.0	tS y r'h n A 
+چڑھنے 1.0	tS y r'h n e 
+چکا 1.0	tS U k k A 
+چکر 1.0	tS y k r 
+چکی 1.0	tS U k i 
+چکے 1.0	tS U k e 
+چھ 1.0	tSh e 
+چھبیس 1.0	tSh y b b i s 
+چھت 1.0	tSh y td 
+چھتر 1.0	tSh y td y r 
+چھتیں 1.0	tSh y td e~ 
+چھن	1.0	tSh y n
+چھو 1.0	tSh u 
+چھوٹی 1.0	tSh o t' i 
+چھوٹی 1.0	tSh u t' i 
+چھوٹے 1.0	tSh o t' e 
+چھوٹے 1.0	tSh u t' e 
+چھوڑ 1.0	tSh o r' 
+چھوڑا 1.0	tSh o r' A 
+چھوڑتے 1.0	tSh o r' td e 
+چھٹی 1.0	tSh U t' i 
+چھٹیاں 1.0	tSh U t' t' i j A~ 
+چھٹیوں	1.0	tSh y t' i o~
+چھپاءے 1.0	tSh U p A e 
+چھپے 1.0	tSh U p e 
+چھپے 1.0	tSh y p e 
+چھڑ 1.0	tSh i r' 
+چھڑاءے 1.0	tSh U r' A e 
+چھڑی 1.0	tSh y r' i 
+چی 1.0	tS i 
+چیءرمین 1.0	tS e y r m Y n 
+چیءرپرسن 1.0	tS e y r p y r s y n 
+چیز 1.0	tS i z 
+چیزوں 1.0	tS i z o~ 
+چیزیں 1.0	tS i z e~ 
+چیلنج 1.0	tS Y l y n dZ 
+چیلوں 1.0	tS i l o~ 
+چین 1.0	tS i n 
+چینی 1.0	tS i n i 
+چینیوں 1.0	tS i n i o~ 
+چیٹ 1.0	tS i t' 
+چیک 1.0	tS e k 
+ڈاءننگ 1.0	d' A i n i N 
+ڈاءنوساروں	1.0	d' A i n v y s A r o~
+ڈاءون 1.0	d' A u n 
+ڈار 1.0	d' A r 
+ڈال 1.0	d' A l 
+ڈالر 1.0	d' O l y r 
+ڈالنے 1.0	d' A l n e 
+ڈالیاں 1.0	d' A l i j A~ 
+ڈالے 1.0	d' A l e 
+ڈان 1.0	d' A n 
+ڈاکٹر 1.0	d' A k t' y r 
+ڈاکڑ	1.0	d' A k y r'
+ڈاکڑکو	1.0	d' A k y r' k o
+ڈاکے 1.0	d' A k e 
+ڈبو 1.0	d' U b o 
+ڈر 1.0	d' y r 
+ڈراءونی 1.0	d' y r A u n i 
+ڈراءیو 1.0	d' y r A i o 
+ڈراءیور 1.0	d' y r A i v y r 
+ڈراءیورز 1.0	d' y r A i v y r z 
+ڈراءیونگ 1.0	d' y r A i v i N 
+ڈرامه 1.0	d' y r A m A 
+ڈراموں 1.0	d' y r A m o~ 
+ڈریم 1.0	d' i r i m 
+ڈرے 1.0	d' y r e 
+ڈسٹرب 1.0	d' i s t' y r b 
+ڈش 1.0	d' i S 
+ڈنر 1.0	d' i n y r 
+ڈنڈا 1.0	d' y n d' A 
+ڈو 1.0	d' u 
+ڈپٹی 1.0	d' i p t' i 
+ڈھلوان 1.0	d'h y l v A n 
+ڈھکے 1.0	d'h y k e 
+ڈھیر 1.0	d'h e r 
+ڈی 1.0	d' i 
+ڈیلرز 1.0	d' i l y r z 
+ڈیم 1.0	d' e m 
+ڈیوٹی 1.0	d' i j u t' i 
+ڈیٹا 1.0	d' e t' A 
+ڈیڑھ 1.0	d' e r'h 
+ڑے 1.0	r' e 
+کءی 1.0	k y i 
+کءے 1.0	k i e 
+کا 1.0	k A 
+کاءنات 1.0	k A i n A td 
+کاءونٹر 1.0	k A u n t' y r 
+کااحساس	1.0	k A i s
+کابل 1.0	k A b U l 
+کابینه 1.0	k A b i n A 
+کار 1.0	k A r 
+کاررواءی 1.0	k A r r v A i 
+کارندوں 1.0	k A r i n dd o~ 
+کاروءی	1.0	k A r u i
+کاروباری 1.0	k A r o b A r i 
+کاروں 1.0	k A r o~ 
+کارٹون 1.0	k A r t' u n 
+کارپوریشن 1.0	k A r p o r e S y n 
+کارڈ 1.0	k A r d' 
+کارکردگی 1.0	k A r k y r dd y g i 
+کاری 1.0	k A r i 
+کاریوں 1.0	k A r i o~ 
+کاش 1.0	k A S 
+کاشت 1.0	k A S td 
+کاشتکاری 1.0	k A S td k A r i 
+کاشف 1.0	k A S i f 
+کافی 1.0	k A f i 
+کال 1.0	k A l 
+کالا 1.0	k A l A 
+کالج 1.0	k A l i dZ 
+کالجز 1.0	k A l dZ i z 
+کالز 1.0	k A l z 
+کالعدم 1.0	k y l y dd y m 
+کالنگ 1.0	k A l i N 
+کالونی 1.0	k A l u n i 
+کام 1.0	k A m 
+کامل 1.0	k A m i l 
+کاموں 1.0	k A m o~ 
+کامیاب 1.0	k A m j A b 
+کامیابی 1.0	k A m i j A b i 
+کان 1.0	k A n 
+کانفرنس 1.0	k A n f y r i n s 
+کانوں 1.0	k A n o~ 
+کاٹنے 1.0	k A t' n e 
+کاپلندا	1.0	k A p y l y n dd A
+کب 1.0	k y b 
+کبڈی 1.0	k y b y d' d' i 
+کبھی 1.0	k y bh i 
+کتا 1.0	k U td td A 
+کتاب 1.0	k i td A b 
+کتابوں 1.0	k i td A b o~ 
+کتابیں 1.0	k i td A b e~ 
+کتب 1.0	k U td U b 
+کتراتے 1.0	k y td r A td e 
+کتنی 1.0	k i td n i 
+کتنے 1.0	k i td n e 
+کتوں 1.0	k U td td o~ 
+کر 1.0	k y r 
+کرا 1.0	k y r A 
+کراءی 1.0	k y r A i 
+کراءے 1.0	k i r A e 
+کراتے 1.0	k y r A td e 
+کرارهے	1.0	k y r A r y h e
+کرام 1.0	k y r A m 
+کراچ	1.0	k y r A tS
+کراچی 1.0	k y r A tS i 
+کرب 1.0	k y r b 
+کربتایا	1.0	k y r b y td A j A
+کرتا 1.0	k U r td A 
+کرتاهے 1.0	k y r td A h Y 
+کرتب 1.0	k y r td y b 
+کرتی 1.0	k U r td i 
+کرتے 1.0	k U r td e 
+کردار 1.0	k i r dd A r 
+کرده 1.0	k y r dd A 
+کردو	1.0	k y r dd o
+کردی 1.0	k y r dd i 
+کردیءے 1.0	k y r dd i e 
+کردیا 1.0	k y r dd i j A 
+کررها 1.0	k y r r y h A 
+کرسکتا 1.0	k y r s y k td A 
+کرسکتے 1.0	k y r s y k td e 
+کرسکیں 1.0	k y r s y k Y~ 
+کرسی 1.0	k U r s i 
+کرفیو 1.0	k y r f i j u 
+کرلی 1.0	k y r l i 
+کرنا 1.0	k y r n A 
+کرنی 1.0	k y r n i 
+کرنے 1.0	k y r n e 
+کرو 1.0	k y r o 
+کرواتی 1.0	k y r v A td i 
+کروانے 1.0	k y r v A n e 
+کروایا 1.0	k y r v A j A 
+کروڑ 1.0	k y r O r' 
+کروڑوں 1.0	k y r o r' o~ 
+کرپشن 1.0	k y r y p S y n 
+کرپٹ 1.0	k y r y p t' 
+کرکٹ 1.0	k i r k i t' 
+کرکٹر 1.0	k i r k t' y r 
+کرکٹرز 1.0	k i r i k t' y r z 
+کرکے 1.0	k y r k e 
+کرگیا 1.0	k y r g y j A 
+کریم 1.0	k y r i m 
+کرینگے 1.0	k y r Y N g e 
+کریں 1.0	k y r e~ 
+کرے 1.0	k y r e 
+کس 1.0	k y s 
+کسک 1.0	k y s y k 
+کسی 1.0	k i s i 
+کشتی 1.0	k U S td i 
+کشش 1.0	k y S i S 
+کشمکش 1.0	k y S m y k y S 
+کشمیر 1.0	k y S m i r 
+کشمیری 1.0	k y S m i r i 
+کشی 1.0	k U S i 
+کل 1.0	k U l 
+کل 1.0	k y l 
+کلب 1.0	k l y b 
+کلب 1.0	k y l b 
+کله 1.0	k U l l A 
+کلو 1.0	k i l o 
+کلومیٹر 1.0	k i l O m i t' y r 
+کلچر 1.0	k y l tS y r 
+کلیاں 1.0	k y l i j A~ 
+کلیجه 1.0	k y l e dZ A 
+کم 1.0	k i m 
+کم 1.0	k y m 
+کمال 1.0	k y m A l 
+کمانا 1.0	k y m A n A 
+کمانڈ 1.0	k y m A n d' 
+کمانڈر 1.0	k y m A n d' y r 
+کمانڈروں 1.0	k y m A n d' y r o~ 
+کمتر 1.0	k y m td y r 
+کمرے 1.0	k y m r e 
+کمزور 1.0	k y m z o r 
+کمشنر 1.0	k y m i S n y r 
+کمپنی 1.0	k y m p y n i 
+کمپیوٹر 1.0	k y m p i j u t' y r 
+کمی 1.0	k y m i 
+کمیشن 1.0	k y m i S y n 
+کمین 1.0	k y m i n 
+کمیٹی 1.0	k y m e t' i 
+کن 1.0	k U n 
+کنار	1.0	k y n A r
+کناروں 1.0	k i n A r o~ 
+کندھوں 1.0	k y n ddh o~ 
+کنسر	1.0	k y n s y r
+کنٹرول 1.0	k y n t' r o l 
+که 1.0	k e 
+کها 1.0	k y h A 
+کهاتیری	1.0	k y h A td i r i
+کهاجاتاهے	1.0	k y h A dZ A td A h e
+کهانی 1.0	k y h A n i 
+کهانیاں 1.0	k y h A n i j A~ 
+کهاں 1.0	k y h A~ 
+کهتی 1.0	k y h td i 
+کهتے 1.0	k y h td e 
+کهنا 1.0	k Y h n A 
+کهنے 1.0	k y h n e 
+کهه	1.0	k y h A
+کهی 1.0	k U h i 
+کهیں 1.0	k y h i~ 
+کو 1.0	k o 
+کوء	1.0	k o
+کوءٹه 1.0	k o e t' A 
+کوءی 1.0	k o i 
+کوءیسچن	1.0	k o i s tS y n
+کوآرڈینیٹر 1.0	k o A r d' i n e t' y r 
+کواگر	1.0	k v A g y r
+کوایسی	1.0	Y s i
+کوجک	1.0	k o dZ y k
+کود 1.0	k u dd 
+کورس 1.0	k o r s 
+کورسسز	1.0	k o r y s s i z
+کوشش 1.0	k o S i S 
+کون 1.0	k O n 
+کون 1.0	k o n 
+کونسی 1.0	k O n s i 
+کونفلکٹ	1.0	k o n y f y l k t'
+کونے 1.0	k o n e 
+کوه 1.0	k o 
+کوٹ 1.0	k u t' 
+کوٹھڑی 1.0	k o t'h r' i 
+کوچ 1.0	k o tS 
+کوچاهءے	1.0	k o tS A h y e
+کٹ 1.0	k y t' 
+کپ 1.0	k y p 
+کپڑے 1.0	k y p r' e 
+کچن 1.0	k i tS y n 
+کچهری 1.0	k y tS y h r i 
+کچھ 1.0	k U tSh 
+کھا 1.0	kh A 
+کھاءی 1.0	kh A i 
+کھاءے 1.0	kh A e 
+کھاتے 1.0	kh A td e 
+کھانا 1.0	kh A n A 
+کھانوں 1.0	kh A n o~ 
+کھانے 1.0	kh A n e 
+کھرونچوں	1.0	kh y r u n tS o~
+کھل 1.0	kh U l 
+کھلاڑی 1.0	kh i l A r' i 
+کھلونے 1.0	kh i l o n e 
+کھو 1.0	kh o 
+کھوءی 1.0	kh u i 
+کھوج 1.0	kh o dZ 
+کھول 1.0	kh o l 
+کھولا 1.0	kh o l A 
+کھچا 1.0	kh i tS tS A 
+کھڑا 1.0	kh y r' A 
+کھڑی 1.0	kh y r' i 
+کھڑے 1.0	kh y r' e 
+کھیل 1.0	kh i l 
+کھیلا 1.0	kh e l A 
+کھیلوں 1.0	kh e l u~ 
+کھیلیں 1.0	kh e l e~ 
+کی 1.0	k i 
+کیا 1.0	k i A 
+کیا 1.0	k i j A 
+کیاجاتا 1.0	k i j A dZ A td A 
+کیاجاتاهے	1.0	k i j A dZ A td A h e
+کیسا 1.0	k Y s A 
+کیسی 1.0	k Y s i 
+کیسے 1.0	k Y s e 
+کیفیت 1.0	k Y f i j y td 
+کیلءے 1.0	k e l i e 
+کیلیفورنیا 1.0	k Y l i f o r n i j A 
+کیمروں 1.0	k Y m r o~ 
+کیمرے 1.0	k Y m r e 
+کیمپ 1.0	k Y m p 
+کینیڈا 1.0	k Y n e d' A 
+کیوجه 1.0	k i v y dZ A 
+کیوسک 1.0	k i j u s i k 
+کیونکه 1.0	k i j u n k e 
+کیوں 1.0	k i v U 
+کیوںکر	1.0	k i o~ k y r
+کیپٹن 1.0	k Y p t' y n 
+کیں 1.0	k i~ 
+کیے 1.0	k i e 
+کے 1.0	k e 
+کےلءیے	1.0	k e l y i e
+کےچار	1.0	k e tS A r
+گءی 1.0	g y i 
+گءیں 1.0	g y i~ 
+گءے 1.0	g y e 
+گا 1.0	g A 
+گاءوں 1.0	g A o~ 
+گاءیڈوں 1.0	g A i d' o~ 
+گاتے 1.0	g A td e 
+گار 1.0	g A r 
+گانا 1.0	g A n A 
+گانے 1.0	g A n e 
+گاهکوں 1.0	g A h y k o~ 
+گاڑھتی	1.0	g A r'h td i
+گاڑی 1.0	g A r' i 
+گاڑیاں 1.0	g A r' i j A~ 
+گاڑیوں 1.0	g A r' i o~ 
+گاکه	1.0	g A k A
+گایا 1.0	g A j A 
+گجرانواله 1.0	g U dZ r A n v A l A 
+گدلا 1.0	g y dd l A 
+گدڑی 1.0	g U dd r' i 
+گذشته	1.0	g U z S td A
+گر 1.0	g U r 
+گراس	1.0	g y r A s
+گرایا 1.0	g i r A j A 
+گربا	1.0	g y r b A
+گرتے 1.0	g i r td e 
+گردابوں 1.0	g i r dd A b o~ 
+گردش 1.0	g y r dd i S 
+گردی 1.0	g y r dd i 
+گرفت 1.0	g i r i f td 
+گرم 1.0	g y r m 
+گرما 1.0	g y r m A 
+گرمیوں 1.0	g y r m i o~ 
+گرنے 1.0	g i r n e 
+گروه 1.0	g i r o 
+گرگءی	1.0	g y r g y i
+گری 1.0	g i r i 
+گریب 1.0	g i r i b 
+گریجوءٹس	1.0	g y r i dZ u i t' s
+گریز 1.0	g U r e z 
+گز 1.0	g y z 
+گزار 1.0	g U z A r 
+گزارتا 1.0	g U z A r td A 
+گزارنے 1.0	g U z A r n e 
+گزر 1.0	g U z y r 
+گزرا 1.0	g U z r A 
+گزرتے 1.0	g U z y r td e 
+گزرنے 1.0	g U z y r n e 
+گزری 1.0	g U z r i 
+گزرے 1.0	g U z r e 
+گزشته 1.0	g U z y S td A 
+گزیده 1.0	g U z i dd A 
+گفتگو 1.0	g U f td g u 
+گل 1.0	g U l 
+گلبدین	1.0	g U l b y dd i n
+گلدستوں 1.0	g U l dd y s td o~ 
+گله 1.0	g U l A 
+گلوکا	1.0	g U l o k A
+گلوکار 1.0	g U l u k A r 
+گلگت 1.0	g i l g i td 
+گلی 1.0	g i l l i 
+گلیشءرز	1.0	g y l e S i y r z
+گلیوں 1.0	g y l i o~ 
+گم 1.0	g U m 
+گماشتوں 1.0	g U m A S td o~ 
+گماشتے 1.0	g U m A S td e 
+گمراهی 1.0	g U m r A h i 
+گن 1.0	g U n 
+گنا 1.0	g i n A 
+گناه 1.0	g U n A 
+گناهوں 1.0	g U n A h o~ 
+گناهگار 1.0	g U n A h g A r 
+گندے 1.0	g y n dd e 
+گنٹھیا 1.0	g y n t'h i j A 
+گنڈا 1.0	g y n d' A 
+گنگ 1.0	g U N 
+گنگناءیں	1.0	g y N g y n A i~
+گهرا 1.0	g y h r A 
+گهری 1.0	g y h r i 
+گهرے 1.0	g y h r e 
+گو 1.0	g o 
+گواه 1.0	g y v A 
+گورنر 1.0	g y v y r n y r 
+گورنمنٹ 1.0	g y v y r n m i n t' 
+گوشت 1.0	g o S 
+گوشت 1.0	g o S td 
+گوله 1.0	g o l A 
+گولی 1.0	g o l i 
+گولیوں 1.0	g o l i o~ 
+گولے 1.0	g o l e 
+گوگل 1.0	g u g y l 
+گویا 1.0	g o j A 
+گڈو 1.0	g U d' d' u 
+گھر 1.0	gh y r 
+گھرا 1.0	gh i r A 
+گھرانے 1.0	gh y r A n e 
+گھروں 1.0	gh y r o~ 
+گھما 1.0	gh U m A 
+گھنٹه 1.0	gh y n t' A 
+گھنٹوں 1.0	gh y n t' o~ 
+گھنٹی 1.0	gh y n t' i 
+گھنٹے 1.0	gh y n t' e 
+گھور 1.0	gh u r 
+گھولنے 1.0	gh o l n e 
+گھٹن 1.0	gh U t' y n 
+گھٹیا 1.0	gh y t' j A 
+گھپ 1.0	gh U p 
+گھڑی 1.0	gh y r' i 
+گی 1.0	g i 
+گیا 1.0	g e A 
+گیا 1.0	g y j A 
+گیااور	1.0	g i j A o r
+گیاره 1.0	g e A r A 
+گیس 1.0	g Y s 
+گیم 1.0	g e m 
+گیمز 1.0	g e m z 
+گیوزیپی	1.0	g i o z i p i
+گیے	1.0	g i e
+گے 1.0	g e 
+یا 1.0	j A 
+یاب 1.0	j A b 
+یاد 1.0	j A dd 
+یاداداشت	1.0	j A dd A dd A S td
+یادداشت 1.0	j A dd dd A S td 
+یادگار 1.0	j A dd g A r 
+یار 1.0	j A r 
+یافته 1.0	j A f td A 
+یانوجوان	1.0	j A n O dZ y v A n
+یاکھیل	1.0	j A kh i l
+یعنی 1.0	j y y n i 
+یقین 1.0	j y q i n 
+یقینا 1.0	j y q i n y n 
+یقینی 1.0	j y q i n i 
+یه 1.0	j e 
+یهاں 1.0	j y h A~ 
+یهی 1.0	j e h i 
+یهی 1.0	j e i 
+یهیں 1.0	j y h i~ 
+یو 1.0	j u 
+یورپ 1.0	j O r y p 
+یورپی 1.0	j O r p i 
+یوم 1.0	j O m 
+یونیسیف 1.0	j u n i s Y f 
+یونینز	1.0	j u n i n z
+یونیورسٹی 1.0	j u n i v y r s i t' i 
+یونیورسٹی 1.0	j u n i v y r s t' i 
+یونیورسٹی 1.0	j u n v y r s t' i 
+یونیورسٹیوں 1.0	j u n i v y r s t' i j o~ 
+یونیورسٹیوں 1.0	j u n v y s t' i j o~ 
+یوں 1.0	j u~ 
+یک 1.0	j y k 
+یکجا	1.0	m Y k y dZ Ae
+یکساں 1.0	j y k s A~ 
+یکسر 1.0	j y k s y r 
+یں	1.0	i~
+!SIL	1.0	SIL

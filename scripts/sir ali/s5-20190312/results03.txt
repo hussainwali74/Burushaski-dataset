@@ -1,0 +1,4 @@
+exp/mono/decode/wer_17:%WER 48.40 [ 1947 / 4023, 32 ins, 842 del, 1073 sub ]
+exp/tri1/decode/wer_17:%WER 24.04 [ 967 / 4023, 69 ins, 317 del, 581 sub ]
+exp/tri2a/decode/wer_17:%WER 24.31 [ 978 / 4023, 76 ins, 327 del, 575 sub ]
+exp/tri2b/decode/wer_17:%WER 22.00 [ 885 / 4023, 97 ins, 228 del, 560 sub ]

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+rm -rf exp data urdu/mfcc
+mkdir -p data/local/dict
+cp data.bk/local/dict/lexicon-urdu-addresses.txt data/local/dict/urdudict-plain.txt
+cd urdu
+#rm -rf extracted/*
+#rm -rf selected/*
+#./get-transcripts.sh
+cd selected
+#ln -s ../extracted/* .
+cd ../..
+rm *.fst
+
+ 
