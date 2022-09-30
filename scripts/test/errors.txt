@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "audio_download.py", line 119, in <module>
+    text_file.write(j['sentence'])
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xa0' in position 2: ordinal not in range(128)
+
+=====================================================================================================================
