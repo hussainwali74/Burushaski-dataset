@@ -6,6 +6,19 @@ import time
 # const file_name = `${speakername}-${speakerid}-${language_id}-${sentence.id}-${today.toDateString()}-${language_name}.wav`
 
 
+def getToken():
+    credentials = {
+        "email": "admin@hussain.com",
+        "password": "Exceptional7@"
+    }
+    r = requests.post('https://roomie.pk:5000/auth/login',
+                      credentials, verify=False)
+    return r.json()['data']['token']
+
+
+TOKEN = getToken()
+
+
 def download(url, dest_folder):
     if not os.path.exists(dest_folder):
         os.makedirs(dest_folder)  # create folder if it does not exist
@@ -15,7 +28,7 @@ def download(url, dest_folder):
     file_path = os.path.join(dest_folder, filename)
 
     # token of the user for who we want to get the sentences
-    token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFtamFkQGRzbWFrZXIuY29tIiwidXNlcl9pZCI6MywiaWF0IjoxNjM5OTAyMzEzLCJleHAiOjE2NDA3NjYzMTN9.yBqM7F8E_VIQwA5Ka2IRmUUlqed3l9g57scGM1J8Y8o"
+    token = TOKEN
 
     headersAuth = {
         'accept': '*/*',
@@ -40,30 +53,84 @@ f = open("data.json")
 data = json.load(f)
 
 # print(data['data'][1]['recordedAudio'])
+existing_speakers = [
+    # 'Amjad Hussain',
+    # 'Asma Wali',
+    #'hussain wali',
+    # 'hussainwali',
+    #'Irfan Baigal',
+    # 'Ishtiaq',
+    # 'Jahangir',
+    #'Kamal Sahir',
+    #'Kashif Ali',
+    #'Kashif Murad',
+    #'Manzoor Ali',
+    #'Mubeen Ishfaq',
+    #'Mukhtar Wali',
+    #'Rizwan Hassan',
+    #'Gulshad Bibi',
+    #'Sajid Wali',
+    #'Saqib Wali',
+    # 'test',
+    #'Zahir Uddin',
+    #'Minhas Ali',
+    #'Afsana Wali',
+    #'Gulshad Bibi',
+    #'Altaf Hussain',
+    #'Eid Wali',
+    #'Anwar Ali',
+]
+
+# new_speakers = [
+#     'Minhas Ali',
+#     'Afsana Wali',
+#     'Gulshad Bibi',
+#     'Altaf Hussain',
+#     'Eid Wali',
+#     'Anwar Ali',
+# ]
+
+new_speakers = []
+
 for j in data['data']:
     recordAudioArray = j['recordedAudio']
 
     for i in recordAudioArray:
-        #print(i)
+        # print(i)
         if(i):
-            audio_split = i.split("https://roomie.pk:5000/Burushaski/")
-            print('downloading: ', i)
-            print('into')
-            speaker_name = audio_split[1].split('/')[0]
-            sentence_id = audio_split[1].split('/')[1].split('-')[3]
+            try:
 
-            print('-----------------------------------------------')
-            if(sentence_id):
-                text_file_name = sentence_id+".txt"
-                text_file_path = os.path.join(speaker_name, text_file_name)
-                text_file = open(text_file_path, 'w+')
-                text_file.write(j['sentence'])
-                text_file.close()
-            if(speaker_name != ''):
-                download(i, dest_folder=speaker_name)
-            else:
-                print('folder name not valid')
-                print(i)
-                print('----------------------------------------------')
-            time.sleep(1)
+                audio_split = i.split("https://roomie.pk:5000/Burushaski/")
+                speaker_name = audio_split[1].split('/')[0]
+                sentence_id = audio_split[1].split('/')[1].split('-')[3]
+
+                print('-----------------------------------------------')
+                if(speaker_name not in existing_speakers):
+                    print('downloading: ', i)
+                    print('into')
+                    print(speaker_name)
+
+                    if(sentence_id and speaker_name):
+                        text_file_name = sentence_id+".txt"
+                        if not os.path.exists(speaker_name):
+                            # create folder if it does not exist
+                            os.makedirs(speaker_name)
+
+                        text_file_path = os.path.join(
+                            speaker_name, text_file_name)
+                        text_file = open(text_file_path, 'w+')
+
+                        j['sentence'] = u''.join(
+                            j['sentence']).encode('utf-8').strip()
+                        text_file.write(j['sentence'])
+                        text_file.close()
+                    if(speaker_name != ''):
+                        download(i, dest_folder=speaker_name)
+                    else:
+                        print('folder name not valid')
+                        print(i)
+                        print('==============================================')
+                    time.sleep(2)
+            except Exception:
+                print("something went wrong 1235")
 print("downloading done ")

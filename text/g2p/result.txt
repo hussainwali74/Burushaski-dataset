@@ -575,28 +575,87 @@ qaw	Q A W
 besa	B E S A
 tollum	T O LL U M
 dokoosuljaas	D O K OO S U L J AA S
-se	S E
-ja	J A
-thathall	TH A TH A LL
-garuum	G A R UU M
-segga	S E GG A
-neingya	N E I N G I A
-etas	E T A S
-sayila	S A I I L A
-dunya	D U N I A
-mayundua	M A I U N D U A
-gosqayamba	G O S Q A I A M B A
-nigi	N I G I
-manumbi	M A N U M B I
-penan	P E N A N
-ccheran	CC H E R A N
-bahna	B A H N A
-mishaaski	M I SH AA S K I
-nuwell	N U W E LL
-tunicha	T U N I CH A
-amutuk	A M U T U K
-nana	N A N A
-yary	Y A R I
-llayuman	LL A I U M A N
-cchell	CC H E LL
-cchel	CC H E L
+SE      S E
+JA      J A
+THATHALL        TH A TH A LL
+GARUUM  G A R UU M
+SEGGA   S E GG A
+NEINGYA N E I N G I A
+ETAS    E T A S
+SAYILA  S A I I L A
+DUNYA   D U N I A
+MAYUNDUA        M A I U N D U A
+GOSQAYAMBA      G O S Q A I A M B A
+NIGI    N I G I
+MANUMBI M A N U M B I
+PENAN   P E N A N
+CCHERAN CC H E R A N
+BAHNA   B A H N A
+MISHAASKI       M I SH AA S K I
+NUWELL  N U W E LL
+TUNICHA T U N I CH A
+AMUTUK  A M U T U K
+NANA    N A N A
+YARY    Y A R I
+LLAYUMAN        LL A I U M A N
+CCHELL  CC H E LL
+CCHEL   CC H E L
+A       A
+ACHUM   A CH U M
+AKHER   A KKH E R
+AMEMO   A M E M O
+AMO     A M O
+AMUTU   A M U T U
+ANA     A N A
+BAHLLKASHI      B A LL K A SH I
+BAHLT   B A LL T
+BALLDA  B A LL D A
+BIA     B I A
+BIAASCCIMI      B I AA S CC I MI
+BOOTA   B OO T A
+BOTTA   B O TT A
+CCHURAM CCH U R A M
+CHAP    CH A P
+CHEREMBA        CCH E R E M B A
+CHHANGI CHH A N G I
+CXHA    CXH A
+DISHUYA D I SH U Y A
+DOROING D O R O I N G
+DUUSUMBI        D UU S U M B I
+ECHUMA  E CH U M A
+ELJA    E L J A
+ETA     E T A
+EYA     E Y A
+FAT     F A T
+GARE    G A R E
+GAROOM  G A R UU M
+BIASCCIMI       B I A S CC I M I
+ETAA    E T AA
+GGAN    GG A N
+GHA     GH A
+GIRMINAS        G I R M I N A S
+GIYAXCUMBIYE    G I Y A CX U M B I Y E
+GOCHAMBA        G O CH A M B A
+GOMES   G O M E S
+GOO     G OO
+GUAN    G U A N
+GUAWAYA G U W A Y A
+GUSAY   G U S E
+GUYATES G U Y A TT E S
+HALLAA  H A LL AA
+HARYASXH        H A R Y A SXH
+KHUSHAN KH U SH A N
+KITTORI K ITT O R I
+KKHABR  KKH A B A R
+MANUMBU M A N U M B U
+MENA    M E N A
+MOTUNDULLUM     M O T U N D U LL U M
+MUSXHIMBA M U SXH I M B A
+MUSXHIYA        M U SXH I Y A
+MUWASHIYAMAM    M U W SH I Y A M A M
+NAT     N A T
+NETT    N E TT
+NIDELL  N I D E LL
+NIWALL  N I W W A LL
+NOSAR   N O S A R
+NUHURUTT        N U H U R U TT

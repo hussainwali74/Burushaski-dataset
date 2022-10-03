@@ -1,4 +1,4 @@
-#updated 15:02/2022
+#updated 23/02/2022
 #!/bin/bash
 
 a=1
@@ -23,12 +23,17 @@ for d in /kaldi/Burushaski-dataset/audios/*; do
     #cp $f extracted/$nf/wav/$n2;
     #sox --vol 0.01 $f -t wav extracted/$nf/wav/$n2;
 
-    #normalize-audio -a 0.3 extracted/$nf/wav/$n2;
+    normalize-audio -a 0.3 extracted/$nf/wav/$n2
 
     cp $d/$n3.txt temp.txt
+    ./process02.sh temp.txt
+    echo "\n -================================================="
+    cat temp.txt
+    echo "\n -================================================="
 
     echo "$n3 $(cat temp.txt)" >>extracted/$nf/etc/prompts-original
-    echo "${nf}/mfc/${n3} $(cat temp.txt)" >>extracted/$nf/etc/PROMPTS
+    tr [:lower:] [:upper:] <temp.txt >temp2.txt
+    echo "${nf}/mfc/${n3} $(cat temp2.txt)" >>extracted/$nf/etc/PROMPTS
   done
   a=$(($a + 1))
 done

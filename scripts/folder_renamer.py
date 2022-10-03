@@ -29,8 +29,8 @@ for subdir, dirs, files in os.walk(directory):
     oldfoldername_split = old_folder_name.split(' ')
     new_folder_name = ''
     if(len(oldfoldername_split) > 1 and old_folder_name != '.'):
-        new_folder_name = getWholeToAttach(
-            i)+'_'.join(oldfoldername_split)+'-'+year+getWholeToAttach(month)+getWholeToAttach(day)+'-abj'
+        new_folder_name = getWholeToAttach(i)+'_'.join(oldfoldername_split)+'-'+str(
+            year)+getWholeToAttach(month)+getWholeToAttach(day)+'-abj'
         i += 1
     elif (old_folder_name != '.'):
 

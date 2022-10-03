@@ -14,7 +14,7 @@ for subdir, dirs, files in os.walk(directory):
             print(filePath)
             print("filename")
             print(filename)
-            if(len(filePath.split('\\') >= 1)):
+            if(len(filePath.split('\\')) >= 1):
                 if(len(filePath.split('\\')[1].split('-')) >= 3):
                     new_file_name = filePath.split(
                         '\\')[1].split('-')[3]+".wav"

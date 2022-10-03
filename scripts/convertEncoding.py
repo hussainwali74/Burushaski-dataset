@@ -1,4 +1,4 @@
-# created 12:19pm 15/02/2022
+# created 12:19pm 20/02/2022
 # to fix, ascii file with no line terminator warning
 import os
 import sys
@@ -14,7 +14,9 @@ for subdir, dirs, files in os.walk(directory):
         file_path = os.path.join(subdir, filename)
         if(subdirectory_path and '.txt' in file_path):
             # f = open(file_path,'a+')
-            text_file = open(file_path, "a+")
-            file_content = text_file.read()
+            f_read = open(file_path, "r")
+            file_content = f_read.read()
+            f_read.close()
+            text_file = open(file_path, "w")
             text_file.write("%s\n" % file_content)
             text_file.close()
